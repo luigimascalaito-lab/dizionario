@@ -1,0 +1,59 @@
+DIZIONÈRI — APP PER SMARTPHONE (PWA)
+=====================================
+
+Questa cartella contiene la versione "app" del dizionario: una Progressive
+Web App (PWA). È lo stesso identico dizionario web, con in più:
+
+  • installazione sulla schermata Home di Android e iPhone (icona propria,
+    si apre a tutto schermo senza barra del browser);
+  • funzionamento completamente OFFLINE dopo la prima visita;
+  • aggiornamento automatico del dizionario.json quando c'è connessione.
+
+CONTENUTO
+---------
+  index.html              l'app (con meta tag PWA e registrazione del service worker)
+  dizionario.json         i dati (3.922 voci) — aggiornabile senza toccare l'HTML
+  manifest.webmanifest    nome, colori e icone dell'app
+  sw.js                   service worker (cache offline)
+  icon-192.png            icona Android
+  icon-512.png            icona Android (alta risoluzione)
+  icon-maskable-512.png   icona adattiva Android
+  apple-touch-icon.png    icona iPhone/iPad
+  make_icons.py           script usato per generare le icone (non serve pubblicarlo)
+
+COME PUBBLICARLA (una volta sola)
+---------------------------------
+Le PWA richiedono un indirizzo HTTPS. Il modo più semplice e gratuito:
+
+  GitHub Pages
+  1. Crea un repository su github.com (es. "dizioneri").
+  2. Carica TUTTI i file di questa cartella nella radice del repository.
+  3. Settings → Pages → Source: "Deploy from a branch", branch "main", cartella "/".
+  4. Dopo un minuto l'app è online su  https://TUONOME.github.io/dizioneri/
+
+  Alternative equivalenti: Netlify (trascini la cartella su app.netlify.com/drop)
+  o Cloudflare Pages.
+
+COME SI INSTALLA SUL TELEFONO
+------------------------------
+  Android (Chrome): apri l'indirizzo → menu ⋮ → "Aggiungi a schermata Home"
+                    (o "Installa app" se compare il suggerimento).
+  iPhone (Safari):  apri l'indirizzo → tasto Condividi □↑ →
+                    "Aggiungi a schermata Home".
+
+Dalla seconda apertura in poi funziona anche senza connessione.
+
+COME SI AGGIORNA IL DIZIONARIO
+-------------------------------
+Dal pannello admin esporti il nuovo dizionario.json e lo carichi al posto
+del vecchio nel repository. L'app lo scarica da sola alla prima apertura
+con connessione (strategia "network-first" sul JSON). Se invece modifichi
+index.html, incrementa la costante VERSION in sw.js (v1 → v2) per forzare
+l'aggiornamento della cache su tutti i telefoni.
+
+NOTA SULL'ALTERNATIVA "APP NATIVA"
+-----------------------------------
+Se un giorno volessi pubblicarla su Google Play / App Store, la stessa
+cartella si può impacchettare con Capacitor (https://capacitorjs.com) in
+un APK/IPA senza riscrivere nulla. Per l'uso personale e la condivisione
+la PWA è però la via più semplice: niente store, niente account sviluppatore.

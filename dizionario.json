@@ -34795,6 +34795,2916 @@
    ],
    "var": "GA",
    "src": "admin"
+  },
+  {
+   "id": 3930,
+   "d": "òsi",
+   "it": [
+    "ossa"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3931,
+   "d": "patéi",
+   "it": [
+    "patire"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3932,
+   "d": "daséi",
+   "it": [
+    "date"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3933,
+   "d": "strig-lé",
+   "it": [
+    "scricchiolare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3934,
+   "d": "véidi",
+   "it": [
+    "viti"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3935,
+   "d": "spanèdi",
+   "it": [
+    "spanate",
+    "scrinate"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3936,
+   "d": "ròll",
+   "it": [
+    "rulli"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3937,
+   "d": "lugréi",
+   "it": [
+    "logori"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3938,
+   "d": "tratòur",
+   "it": [
+    "trattore"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3939,
+   "d": "vècc",
+   "it": [
+    "vecchio"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3940,
+   "d": "a 'l sò",
+   "it": [
+    "lo so"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3941,
+   "d": "putéite",
+   "it": [
+    "potete"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3942,
+   "d": "stòfi",
+   "it": [
+    "stufi",
+    "stanchi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3943,
+   "d": "tnéi",
+   "it": [
+    "tenere"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3944,
+   "d": "tnéi sò",
+   "it": [
+    "tener su"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3945,
+   "d": "cignéra",
+   "it": [
+    "cerniera"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3946,
+   "d": "bés-cia",
+   "it": [
+    "bestia"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3947,
+   "d": "bchèra",
+   "it": [
+    "macello"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3948,
+   "d": "andè sò",
+   "it": [
+    "salire",
+    "andare su"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3949,
+   "d": "grèpi",
+   "it": [
+    "greppi",
+    "dirupi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3950,
+   "d": "arvultè",
+   "it": [
+    "rivoltare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3951,
+   "d": "zòpl",
+   "it": [
+    "zolle"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3952,
+   "d": "zòpi",
+   "it": [
+    "zolle"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3953,
+   "d": "furistiri",
+   "it": [
+    "forestiere"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3954,
+   "d": "in còsta",
+   "it": [
+    "ripido",
+    "in salita"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3955,
+   "d": "tròpp",
+   "it": [
+    "troppo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3956,
+   "d": "sòmi",
+   "it": [
+    "some",
+    "carichi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3957,
+   "d": "casèli",
+   "it": [
+    "casselle"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3958,
+   "d": "casèla",
+   "it": [
+    "cassella"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3959,
+   "d": "lamòint",
+   "it": [
+    "lamento"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3960,
+   "d": "gumtè",
+   "it": [
+    "vomitato"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3961,
+   "d": "còpi",
+   "it": [
+    "groppe"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3962,
+   "d": "bu",
+   "it": [
+    "bue"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3963,
+   "d": "incréchi",
+   "it": [
+    "inflessibili"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3964,
+   "d": "invertéidi",
+   "it": [
+    "rivoltate"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3965,
+   "d": "unéis",
+   "it": [
+    "unirsi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3966,
+   "d": "prighè",
+   "it": [
+    "pregare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3967,
+   "d": "sòira",
+   "it": [
+    "sera"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3968,
+   "d": "sdaza",
+   "it": [
+    "incespica"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3969,
+   "d": "d' ingatòun",
+   "it": [
+    "carponi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3970,
+   "d": "póri",
+   "it": [
+    "povere"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3971,
+   "d": "dvénti",
+   "it": [
+    "diventate"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3972,
+   "d": "dvint",
+   "it": [
+    "diventati"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3973,
+   "d": "cadnèzz",
+   "it": [
+    "catenacci"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3974,
+   "d": "ruznéi",
+   "it": [
+    "arrugginiti"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3975,
+   "d": "bun",
+   "it": [
+    "buoni",
+    "buono"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3976,
+   "d": "tètt",
+   "it": [
+    "tetto"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3977,
+   "d": "baraca",
+   "it": [
+    "baracca"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3978,
+   "d": "carvèll",
+   "it": [
+    "crivello"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3979,
+   "d": "lavèll",
+   "it": [
+    "lavello"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3980,
+   "d": "déndal",
+   "it": [
+    "barcollo",
+    "dondolo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3981,
+   "d": "arbórt",
+   "it": [
+    "ribalto"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3982,
+   "d": "Signuròin",
+   "it": [
+    "Signore"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3983,
+   "d": "vanga",
+   "it": [
+    "vanga"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3984,
+   "d": "bandèti",
+   "it": [
+    "benedette"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3985,
+   "d": "órt",
+   "it": [
+    "orto"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3986,
+   "d": "ròisa di côunt",
+   "it": [
+    "resa dei conti"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3987,
+   "d": "côunt",
+   "it": [
+    "conti"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3988,
+   "d": "curagg",
+   "it": [
+    "coraggio"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3989,
+   "d": "botasò",
+   "it": [
+    "confusione"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3990,
+   "d": "cunfond",
+   "it": [
+    "confondere"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3991,
+   "d": "cunténdi",
+   "it": [
+    "raccontando"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3992,
+   "d": "busì",
+   "it": [
+    "bugie"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3993,
+   "d": "sturièli",
+   "it": [
+    "storielle"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3994,
+   "d": "métar",
+   "it": [
+    "metro"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3995,
+   "d": "pracéis",
+   "it": [
+    "preciso",
+    "in egual maniera"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3996,
+   "d": "msurarà",
+   "it": [
+    "misurerà"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3997,
+   "d": "uguagliénza",
+   "it": [
+    "uguaglianza"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3998,
+   "d": "bsarà",
+   "it": [
+    "peserà"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 3999,
+   "d": "bséiva",
+   "it": [
+    "pesava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4000,
+   "d": "òun par òun",
+   "it": [
+    "uno per uno",
+    "uno alla volta"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4001,
+   "d": "blènza",
+   "it": [
+    "bilancia"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4002,
+   "d": "trôcch",
+   "it": [
+    "trucchi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4003,
+   "d": "gvardè",
+   "it": [
+    "guardare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4004,
+   "d": "profònd",
+   "it": [
+    "profondo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4005,
+   "d": "vardètt",
+   "it": [
+    "verdetto"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4006,
+   "d": "a la foìn",
+   "it": [
+    "alla fine"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4007,
+   "d": "alzarà",
+   "it": [
+    "alzerà"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4008,
+   "d": "batôs",
+   "it": [
+    "botola"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4009,
+   "d": "sbajè",
+   "it": [
+    "sbagliato",
+    "sbagliare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4010,
+   "d": "inféran",
+   "it": [
+    "inferno"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4011,
+   "d": "unestamoint",
+   "it": [
+    "onestamente"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4012,
+   "d": "uperai",
+   "it": [
+    "operai"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4013,
+   "d": "impieghé",
+   "it": [
+    "impiegati"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4014,
+   "d": "cuntadòin",
+   "it": [
+    "contadini"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4015,
+   "d": "dgirà",
+   "it": [
+    "dirà"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4016,
+   "d": "puròin",
+   "it": [
+    "poveretti"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4017,
+   "d": "vuijlt",
+   "it": [
+    "voialtri"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4018,
+   "d": "vnéi",
+   "it": [
+    "venite"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4019,
+   "d": "arzunzrà",
+   "it": [
+    "aggiungerà"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4020,
+   "d": "tribulè",
+   "it": [
+    "tribolato",
+    "tribolare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4021,
+   "d": "sass véiv",
+   "it": [
+    "sasso vivo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4022,
+   "d": "impag-léi",
+   "it": [
+    "incallito"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4023,
+   "d": "paséiva",
+   "it": [
+    "passava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4024,
+   "d": "sèss",
+   "it": [
+    "sassi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4025,
+   "d": "putôu",
+   "it": [
+    "potuto"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4026,
+   "d": "scavidé",
+   "it": [
+    "evitare",
+    "scansare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4027,
+   "d": "paraguné",
+   "it": [
+    "paragonato",
+    "paragonare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4028,
+   "d": "mèna 'd zil",
+   "it": [
+    "un poco di cielo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4029,
+   "d": "sbadajè",
+   "it": [
+    "spalancato"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4030,
+   "d": "imbutéida",
+   "it": [
+    "imbottita"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4031,
+   "d": "nòval",
+   "it": [
+    "nuvole"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4032,
+   "d": "lozla",
+   "it": [
+    "lucciola"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4033,
+   "d": "lözla",
+   "it": [
+    "lucciola"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4034,
+   "d": "sgaidèda",
+   "it": [
+    "uscita",
+    "sgusciata"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4035,
+   "d": "zimèsi",
+   "it": [
+    "cimase"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4036,
+   "d": "sfrajè",
+   "it": [
+    "sbriciolarsi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4037,
+   "d": "fôss",
+   "it": [
+    "fossi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4038,
+   "d": "côrr",
+   "it": [
+    "corrono"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4039,
+   "d": "vòunta",
+   "it": [
+    "straripano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4040,
+   "d": "acva",
+   "it": [
+    "acqua"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4041,
+   "d": "lôus",
+   "it": [
+    "rilucere"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4042,
+   "d": "tralôus",
+   "it": [
+    "sfolgorare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4043,
+   "d": "culghèda",
+   "it": [
+    "adagiata",
+    "coricata"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4044,
+   "d": "zéls",
+   "it": [
+    "salici"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4045,
+   "d": "bdôll",
+   "it": [
+    "betulle"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4046,
+   "d": "funtèni",
+   "it": [
+    "fontane"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4047,
+   "d": "frulé",
+   "it": [
+    "girare",
+    "frullare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4048,
+   "d": "mésni",
+   "it": [
+    "macine"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4049,
+   "d": "fis-cé",
+   "it": [
+    "fischiare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4050,
+   "d": "piazarul",
+   "it": [
+    "piazzaroli",
+    "mietitori"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4051,
+   "d": "faséiva",
+   "it": [
+    "facevano",
+    "faceva"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4052,
+   "d": "mitidòura",
+   "it": [
+    "mietitura"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4053,
+   "d": "gvadagn",
+   "it": [
+    "guadagno"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4054,
+   "d": "pagnòta",
+   "it": [
+    "pagnotta"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4055,
+   "d": "partéiva",
+   "it": [
+    "partiva",
+    "partivano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4056,
+   "d": "nòta scôura",
+   "it": [
+    "notte fonda"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4057,
+   "d": "scôura",
+   "it": [
+    "scura"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4058,
+   "d": "durméiva",
+   "it": [
+    "dormiva",
+    "dormivano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4059,
+   "d": "salghé",
+   "it": [
+    "selciati"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4060,
+   "d": "imbuchè",
+   "it": [
+    "imboccato"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4061,
+   "d": "claziòun",
+   "it": [
+    "colazione"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4062,
+   "d": "bruséiva",
+   "it": [
+    "bruciava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4063,
+   "d": "brusè",
+   "it": [
+    "bruciare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4064,
+   "d": "pajòun",
+   "it": [
+    "paglione"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4065,
+   "d": "bandirôl",
+   "it": [
+    "bandirolo",
+    "capofila"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4066,
+   "d": "félza",
+   "it": [
+    "falce"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4067,
+   "d": "luzléiva",
+   "it": [
+    "luccicava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4068,
+   "d": "luzlé",
+   "it": [
+    "luccicare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4069,
+   "d": "sgnéiva",
+   "it": [
+    "segnava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4070,
+   "d": "sgnè",
+   "it": [
+    "segnare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4071,
+   "d": "imbrénda",
+   "it": [
+    "merenda",
+    "menda"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4072,
+   "d": "frèta",
+   "it": [
+    "fretta"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4073,
+   "d": "fôuria",
+   "it": [
+    "furia"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4074,
+   "d": "arivéiva",
+   "it": [
+    "arrivava",
+    "arrivavano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4075,
+   "d": "arivè",
+   "it": [
+    "arrivare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4076,
+   "d": "caj",
+   "it": [
+    "acido"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4077,
+   "d": "daséiva",
+   "it": [
+    "davano",
+    "dava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4078,
+   "d": "insalèda",
+   "it": [
+    "insalata"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4079,
+   "d": "lutè",
+   "it": [
+    "lottare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4080,
+   "d": "gréll",
+   "it": [
+    "grilli"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4081,
+   "d": "tuchéiva",
+   "it": [
+    "toccava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4082,
+   "d": "quaicadôun",
+   "it": [
+    "qualcuno"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4083,
+   "d": "ragnéiva",
+   "it": [
+    "litigava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4084,
+   "d": "cvàtar",
+   "it": [
+    "quattro"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4085,
+   "d": "cvatar",
+   "it": [
+    "quattro"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4086,
+   "d": "stasòun",
+   "it": [
+    "stagioni",
+    "stagione"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4087,
+   "d": "bocia",
+   "it": [
+    "botte"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4088,
+   "d": "spumènt",
+   "it": [
+    "spumante"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4089,
+   "d": "imbarijga",
+   "it": [
+    "ubriaca"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4090,
+   "d": "sgonda",
+   "it": [
+    "seconda"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4091,
+   "d": "pôpal",
+   "it": [
+    "popolo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4092,
+   "d": "tròun",
+   "it": [
+    "trono"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4093,
+   "d": "térza",
+   "it": [
+    "terza"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4094,
+   "d": "pnèll",
+   "it": [
+    "pennello"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4095,
+   "d": "pitòur",
+   "it": [
+    "pittore"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4096,
+   "d": "pituré",
+   "it": [
+    "dipingere"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4097,
+   "d": "sòidli",
+   "it": [
+    "setole"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4098,
+   "d": "culôr",
+   "it": [
+    "colori",
+    "colore"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4099,
+   "d": "piulétt",
+   "it": [
+    "pialletti"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4100,
+   "d": "sturléss",
+   "it": [
+    "rifiniscono"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4101,
+   "d": "srèla",
+   "it": [
+    "serrarla",
+    "chiuderla"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4102,
+   "d": "trapéja",
+   "it": [
+    "trasudano",
+    "trapelano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4103,
+   "d": "péighi",
+   "it": [
+    "pieghe",
+    "rughe"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4104,
+   "d": "brusédi",
+   "it": [
+    "bruciate"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4105,
+   "d": "zénti",
+   "it": [
+    "gente"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4106,
+   "d": "lavòura",
+   "it": [
+    "lavora"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4107,
+   "d": "culè",
+   "it": [
+    "colare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4108,
+   "d": "sculèda",
+   "it": [
+    "riarsa",
+    "scolata"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4109,
+   "d": "bòla",
+   "it": [
+    "bolla",
+    "marchia"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4110,
+   "d": "cròisma",
+   "it": [
+    "cresima"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4111,
+   "d": "scòula",
+   "it": [
+    "scola",
+    "scorre"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4112,
+   "d": "pién pién",
+   "it": [
+    "piano piano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4113,
+   "d": "umbròla",
+   "it": [
+    "ombrello"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4114,
+   "d": "minôud",
+   "it": [
+    "minuto"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4115,
+   "d": "pida",
+   "it": [
+    "piada"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4116,
+   "d": "inturtijda",
+   "it": [
+    "impastata",
+    "attorcigliata"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4117,
+   "d": "spòud",
+   "it": [
+    "saliva"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4118,
+   "d": "foja",
+   "it": [
+    "foglia"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4119,
+   "d": "sfròfla",
+   "it": [
+    "sfarfalla"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4120,
+   "d": "vì",
+   "it": [
+    "via"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4121,
+   "d": "andè vì",
+   "it": [
+    "andarsene",
+    "andar via"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4122,
+   "d": "èlti",
+   "it": [
+    "altre"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4123,
+   "d": "sòfi",
+   "it": [
+    "soffio"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4124,
+   "d": "partéidi",
+   "it": [
+    "partite"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4125,
+   "d": "purtès",
+   "it": [
+    "portarsi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4126,
+   "d": "vcètt",
+   "it": [
+    "vecchietto"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4127,
+   "d": "nà",
+   "it": [
+    "no"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4128,
+   "d": "avréil",
+   "it": [
+    "aprile"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4129,
+   "d": "réiga",
+   "it": [
+    "rigano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4130,
+   "d": "ròsa",
+   "it": [
+    "rosa"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4131,
+   "d": "clöff",
+   "it": [
+    "ciuffi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4132,
+   "d": "plòcch",
+   "it": [
+    "broccoli"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4133,
+   "d": "voula",
+   "it": [
+    "volano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4134,
+   "d": "voul",
+   "it": [
+    "volo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4135,
+   "d": "côdla",
+   "it": [
+    "giuncheto"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4136,
+   "d": "saltarèla",
+   "it": [
+    "saltella"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4137,
+   "d": "gvàita",
+   "it": [
+    "nascosta"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4138,
+   "d": "ranèla",
+   "it": [
+    "raganella"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4139,
+   "d": "cèra",
+   "it": [
+    "chiara"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4140,
+   "d": "sfurbéss",
+   "it": [
+    "forbisce",
+    "pulisce"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4141,
+   "d": "pì",
+   "it": [
+    "piedi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4142,
+   "d": "gaza",
+   "it": [
+    "gazza"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4143,
+   "d": "sbraghìra",
+   "it": [
+    "ciarla"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4144,
+   "d": "soiri",
+   "it": [
+    "sere"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4145,
+   "d": "péini",
+   "it": [
+    "piene"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4146,
+   "d": "chènta",
+   "it": [
+    "canta"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4147,
+   "d": "sturnèlli",
+   "it": [
+    "stornelli"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4148,
+   "d": "sirinèda",
+   "it": [
+    "serenata"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4149,
+   "d": "runchèda",
+   "it": [
+    "roca"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4150,
+   "d": "gunfòuna",
+   "it": [
+    "ingorda",
+    "golosa"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4151,
+   "d": "baréil",
+   "it": [
+    "barili",
+    "barile"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4152,
+   "d": "dalong",
+   "it": [
+    "lontano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4153,
+   "d": "ciù",
+   "it": [
+    "chiù"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4154,
+   "d": "cvaijòuna",
+   "it": [
+    "burlano",
+    "canzonano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4155,
+   "d": "schérza",
+   "it": [
+    "scherzano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4156,
+   "d": "arziprèss",
+   "it": [
+    "cipresso"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4157,
+   "d": "garnadèll",
+   "it": [
+    "granatello"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4158,
+   "d": "spintacè",
+   "it": [
+    "scarmigliato"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4159,
+   "d": "desulè",
+   "it": [
+    "desolato"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4160,
+   "d": "casi",
+   "it": [
+    "bare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4161,
+   "d": "röff",
+   "it": [
+    "irsuto"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4162,
+   "d": "vstéida",
+   "it": [
+    "vestita"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4163,
+   "d": "trést",
+   "it": [
+    "triste"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4164,
+   "d": "sòtt",
+   "it": [
+    "sotto"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4165,
+   "d": "paléini",
+   "it": [
+    "galbuli"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4166,
+   "d": "savôu",
+   "it": [
+    "saputo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4167,
+   "d": "cungelé",
+   "it": [
+    "congelare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4168,
+   "d": "guzlótt",
+   "it": [
+    "goccioloni"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4169,
+   "d": "truv",
+   "it": [
+    "trovi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4170,
+   "d": "sparsiòun",
+   "it": [
+    "in giro",
+    "sparso"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4171,
+   "d": "santéi",
+   "it": [
+    "sentire"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4172,
+   "d": "intunèda",
+   "it": [
+    "intonata"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4173,
+   "d": "sicôur",
+   "it": [
+    "sicuro"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4174,
+   "d": "rumagnol",
+   "it": [
+    "romagnolo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4175,
+   "d": "viulòin",
+   "it": [
+    "violini",
+    "violino"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4176,
+   "d": "acumpagna",
+   "it": [
+    "accompagna",
+    "accompagnano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4177,
+   "d": "métt",
+   "it": [
+    "mette",
+    "mettono"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4178,
+   "d": "a cavall",
+   "it": [
+    "a cavallo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4179,
+   "d": "cavall",
+   "it": [
+    "cavallo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4180,
+   "d": "rumagna",
+   "it": [
+    "Romagna"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4181,
+   "d": "a la vajòun",
+   "it": [
+    "lontano da casa",
+    "a zonzo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4182,
+   "d": "smitéiva",
+   "it": [
+    "smettevo",
+    "finivo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4183,
+   "d": "avdéiva",
+   "it": [
+    "vedevo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4184,
+   "d": "avdéi",
+   "it": [
+    "vedere"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4185,
+   "d": "rizivôuda",
+   "it": [
+    "ricevuta"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4186,
+   "d": "bòi",
+   "it": [
+    "bere"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4187,
+   "d": "còp",
+   "it": [
+    "coppo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4188,
+   "d": "scarbujé",
+   "it": [
+    "spandere",
+    "spargere"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4189,
+   "d": "tital",
+   "it": [
+    "capezzoli"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4190,
+   "d": "stènca",
+   "it": [
+    "mancina"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4191,
+   "d": "pléita",
+   "it": [
+    "tacchina"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4192,
+   "d": "pulsòin",
+   "it": [
+    "pulcini"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4193,
+   "d": "ròzal",
+   "it": [
+    "ruzzolare",
+    "capriole"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4194,
+   "d": "paca",
+   "it": [
+    "distesa"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4195,
+   "d": "lupòin",
+   "it": [
+    "sulla"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4196,
+   "d": "cavéll",
+   "it": [
+    "capelli"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4197,
+   "d": "mì",
+   "it": [
+    "mia"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4198,
+   "d": "paréiva",
+   "it": [
+    "pareva",
+    "parevano"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4199,
+   "d": "léigval",
+   "it": [
+    "legoli"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4200,
+   "d": "pitné",
+   "it": [
+    "pettinati",
+    "pettinare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4201,
+   "d": "sprèj",
+   "it": [
+    "raggi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4202,
+   "d": "vlòud",
+   "it": [
+    "velluto"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4203,
+   "d": "mòrbi",
+   "it": [
+    "morbidi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4204,
+   "d": "sòida",
+   "it": [
+    "seta"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4205,
+   "d": "fòin",
+   "it": [
+    "fini",
+    "fine"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4206,
+   "d": "intrizéiva",
+   "it": [
+    "intrecciava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4207,
+   "d": "calandra",
+   "it": [
+    "calandra"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4208,
+   "d": "èri",
+   "it": [
+    "aie"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4209,
+   "d": "invarséiva",
+   "it": [
+    "intonava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4210,
+   "d": "invarsè",
+   "it": [
+    "intonare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4211,
+   "d": "rusignol",
+   "it": [
+    "usignolo",
+    "rosignolo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4212,
+   "d": "vèta",
+   "it": [
+    "cima",
+    "vetta"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4213,
+   "d": "pajèri",
+   "it": [
+    "pagliai"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4214,
+   "d": "frangvèll",
+   "it": [
+    "fringuello"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4215,
+   "d": "magnéiva",
+   "it": [
+    "mangiava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4216,
+   "d": "cardloìn",
+   "it": [
+    "cardellino"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4217,
+   "d": "rimigéiva",
+   "it": [
+    "metteva insieme"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4218,
+   "d": "fis-cioun",
+   "it": [
+    "fischione"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4219,
+   "d": "tuscanéin",
+   "it": [
+    "toscanino",
+    "sigaro"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4220,
+   "d": "fumé",
+   "it": [
+    "fumare"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4221,
+   "d": "aférum",
+   "it": [
+    "mi fermo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4222,
+   "d": "quèlca",
+   "it": [
+    "qualche"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4223,
+   "d": "quèlc",
+   "it": [
+    "qualche"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4224,
+   "d": "splóchi",
+   "it": [
+    "deserte",
+    "spoglie"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4225,
+   "d": "andèda",
+   "it": [
+    "andata"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4226,
+   "d": "bôfal",
+   "it": [
+    "bufalo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4227,
+   "d": "lavuréiva",
+   "it": [
+    "lavorava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4228,
+   "d": "cantéiva",
+   "it": [
+    "cantava"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4229,
+   "d": "ripét",
+   "it": [
+    "ripetono",
+    "ripete"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4230,
+   "d": "stèsa",
+   "it": [
+    "stessa"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4231,
+   "d": "rundanòina",
+   "it": [
+    "rondinella"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4232,
+   "d": "spérsa",
+   "it": [
+    "spersa"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4233,
+   "d": "sirti",
+   "it": [
+    "eri"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4234,
+   "d": "smaréida",
+   "it": [
+    "smarrita"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4235,
+   "d": "friduléida",
+   "it": [
+    "infreddolita"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4236,
+   "d": "nòudi",
+   "it": [
+    "nude"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4237,
+   "d": "sténti",
+   "it": [
+    "stente"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4238,
+   "d": "stréid",
+   "it": [
+    "strido",
+    "grido"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4239,
+   "d": "völta",
+   "it": [
+    "rivolta"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4240,
+   "d": "vstidéin",
+   "it": [
+    "vestitino"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4241,
+   "d": "biénc",
+   "it": [
+    "bianco"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4242,
+   "d": "frachètt",
+   "it": [
+    "piccolo frac"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4243,
+   "d": "suréina",
+   "it": [
+    "suorina"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4244,
+   "d": "paréivti",
+   "it": [
+    "parevi"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4245,
+   "d": "uraziôun",
+   "it": [
+    "preghiera",
+    "orazione"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
+  },
+  {
+   "id": 4246,
+   "d": "sènt",
+   "it": [
+    "santo"
+   ],
+   "src": "corpus-allineato",
+   "var": "GA"
   }
  ],
  "synonyms": {
@@ -35934,5 +38844,5 @@
    "neppure"
   ]
  },
- "esportato": "2026-07-12T20:56:00.854Z"
+ "esportato": "2026-07-13T19:37:07.000Z"
 }

@@ -247,9 +247,10 @@
    "id": 31,
    "d": "a zugh",
    "it": [
-    "gioco"
+    "io gioco"
    ],
-   "src": "corpus"
+   "src": "corpus*",
+   "var": "SA"
   },
   {
    "id": 32,
@@ -442,7 +443,8 @@
    "it": [
     "allora"
    ],
-   "src": "corpus"
+   "src": "corpus*",
+   "var": "SA"
   },
   {
    "id": 56,
@@ -879,14 +881,6 @@
    "d": "biènch",
    "it": [
     "bianco"
-   ],
-   "src": "corpus"
-  },
-  {
-   "id": 111,
-   "d": "borsa",
-   "it": [
-    "borraccia"
    ],
    "src": "corpus"
   },
@@ -1550,7 +1544,7 @@
    "it": [
     "capelli"
    ],
-   "src": "corpus**",
+   "src": "corpus***",
    "var": "SA"
   },
   {
@@ -1574,14 +1568,6 @@
    "d": "chissà",
    "it": [
     "chissà"
-   ],
-   "src": "corpus"
-  },
-  {
-   "id": 196,
-   "d": "chè",
-   "it": [
-    "casa"
    ],
    "src": "corpus"
   },
@@ -5804,14 +5790,6 @@
    "src": "corpus"
   },
   {
-   "id": 718,
-   "d": "paàis",
-   "it": [
-    "paese"
-   ],
-   "src": "corpus"
-  },
-  {
    "id": 719,
    "d": "paéis",
    "it": [
@@ -9587,15 +9565,6 @@
    "src": "corpus-allineato"
   },
   {
-   "id": 1185,
-   "d": "amo",
-   "it": [
-    "beh",
-    "ebbene"
-   ],
-   "src": "corpus-allineato"
-  },
-  {
    "id": 1186,
    "d": "tach",
    "it": [
@@ -12248,9 +12217,9 @@
    "id": 1510,
    "d": "braghira",
    "it": [
-    "sbarazzina"
+    "donna poco simpatica"
    ],
-   "src": "corpus",
+   "src": "corpus*",
    "var": "GA"
   },
   {
@@ -14600,15 +14569,6 @@
    "var": "GA"
   },
   {
-   "id": 1812,
-   "d": "a più 'n pòss",
-   "it": [
-    "a più non posso"
-   ],
-   "src": "corpus",
-   "var": "GA"
-  },
-  {
    "id": 1813,
    "d": "tlér",
    "it": [
@@ -14703,15 +14663,6 @@
    "d": "rôdan",
    "it": [
     "incannatoio"
-   ],
-   "src": "corpus",
-   "var": "GA"
-  },
-  {
-   "id": 1824,
-   "d": "bösma",
-   "it": [
-    "bozzima"
    ],
    "src": "corpus",
    "var": "GA"
@@ -23143,12 +23094,12 @@
   },
   {
    "id": 2716,
-   "d": "busilòti",
+   "d": "busilòt",
    "it": [
     "portafiori",
     "barattolo"
    ],
-   "src": "corpus",
+   "src": "corpus*",
    "var": "GA"
   },
   {
@@ -24821,10 +24772,9 @@
    "id": 2895,
    "d": "bsdéll",
    "it": [
-    "ospedali",
-    "spedali"
+    "ospedali"
    ],
-   "src": "corpus",
+   "src": "corpus*",
    "var": "GA"
   },
   {
@@ -25044,16 +24994,6 @@
    "it": [
     "posto",
     "luogo"
-   ],
-   "src": "corpus",
-   "var": "GA"
-  },
-  {
-   "id": 2920,
-   "d": "curòina",
-   "it": [
-    "brina",
-    "rugiada di maggio"
    ],
    "src": "corpus",
    "var": "GA"
@@ -26878,16 +26818,6 @@
    "var": "GA"
   },
   {
-   "id": 3115,
-   "d": "mòrs",
-   "it": [
-    "broncio",
-    "muso"
-   ],
-   "src": "corpus",
-   "var": "GA"
-  },
-  {
    "id": 3116,
    "d": "tnéi e' mòrs",
    "it": [
@@ -27789,15 +27719,6 @@
    "var": "CE"
   },
   {
-   "id": 3211,
-   "d": "érje",
-   "it": [
-    "aria"
-   ],
-   "src": "corpus",
-   "var": "CE"
-  },
-  {
    "id": 3212,
    "d": "néiva",
    "it": [
@@ -28528,10 +28449,9 @@
    "id": 3290,
    "d": "mòl",
    "it": [
-    "a bagno",
-    "a mollo"
+    "bagnato"
    ],
-   "src": "corpus",
+   "src": "corpus*",
    "var": "CE"
   },
   {
@@ -30717,10 +30637,9 @@
    "id": 3524,
    "d": "afundèda",
    "it": [
-    "a bagno",
     "affondata"
    ],
-   "src": "corpus",
+   "src": "corpus*",
    "var": "CE"
   },
   {
@@ -30899,16 +30818,6 @@
    "d": "ghéfull",
    "it": [
     "gomitoli"
-   ],
-   "src": "corpus",
-   "var": "CE"
-  },
-  {
-   "id": 3544,
-   "d": "àza",
-   "it": [
-    "accia",
-    "filo di canapa"
    ],
    "src": "corpus",
    "var": "CE"
@@ -33409,16 +33318,6 @@
    "it": [
     "spegne",
     "smorza"
-   ],
-   "src": "corpus",
-   "var": "CE"
-  },
-  {
-   "id": 3816,
-   "d": "a cop",
-   "it": [
-    "blando",
-    "a poco a poco"
    ],
    "src": "corpus",
    "var": "CE"
@@ -36851,16 +36750,6 @@
    "var": "GA"
   },
   {
-   "id": 4154,
-   "d": "cvaijòuna",
-   "it": [
-    "burlano",
-    "canzonano"
-   ],
-   "src": "corpus-allineato",
-   "var": "GA"
-  },
-  {
    "id": 4155,
    "d": "schérza",
    "it": [
@@ -37705,6 +37594,316 @@
    ],
    "src": "corpus-allineato",
    "var": "GA"
+  },
+  {
+   "d": "barlocch",
+   "it": [
+    "luccichio"
+   ],
+   "src": "admin"
+  },
+  {
+   "d": "barlocch",
+   "it": [
+    "luccichio"
+   ],
+   "src": "admin"
+  },
+  {
+   "d": "barlocch",
+   "it": [
+    "luccichio"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "barlocch",
+   "it": [
+    "luccichio"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "ongi",
+   "it": [
+    "unghie"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "fròunt",
+   "it": [
+    "fronte"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "tulir",
+   "it": [
+    "tagliere"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "spléi",
+   "it": [
+    "seppellito"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "mésna",
+   "it": [
+    "macina"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "cavèll",
+   "it": [
+    "cavalli"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "mulòin",
+   "it": [
+    "mulino"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "lébra",
+   "it": [
+    "libera"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "muréi",
+   "it": [
+    "morire"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "pèsa",
+   "it": [
+    "pace"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "fòra",
+   "it": [
+    "di fuori"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "e tòuna",
+   "it": [
+    "tuona"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "e piòv",
+   "it": [
+    "piove"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "cantòun",
+   "it": [
+    "angolo"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "bocchi",
+   "it": [
+    "bocche"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "bochi",
+   "it": [
+    "bocche"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "proimavira",
+   "it": [
+    "primavera"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "t' a s vu déi",
+   "it": [
+    "ci vuoi dire"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "bòusa",
+   "it": [
+    "buca"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "sòura",
+   "it": [
+    "sopra"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "lèva",
+   "it": [
+    "lava"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "lòurdi",
+   "it": [
+    "sporche"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "intròvda",
+   "it": [
+    "torbida"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "porgat",
+   "it": [
+    "portico"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "campè",
+   "it": [
+    "vivere"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "lavurè",
+   "it": [
+    "lavorare"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "sparéi",
+   "it": [
+    "sparir"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "righèli",
+   "it": [
+    "regalo"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "nas",
+   "it": [
+    "nascere"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "bruséd",
+   "it": [
+    "bruciato"
+   ],
+   "var": "GS",
+   "src": "admin"
+  },
+  {
+   "d": "barbètt",
+   "it": [
+    "mento"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "sgvéla",
+   "it": [
+    "scivolano"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "cèchi",
+   "it": [
+    "gocciole"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "sudòur",
+   "it": [
+    "sudore"
+   ],
+   "var": "GA",
+   "src": "admin"
+  },
+  {
+   "d": "piénz",
+   "it": [
+    "piangere"
+   ],
+   "var": "GA",
+   "src": "admin"
   }
  ],
  "synonyms": {
@@ -38844,5 +39043,5 @@
    "neppure"
   ]
  },
- "esportato": "2026-07-13T19:37:07.000Z"
+ "esportato": "2026-07-14T16:15:36.785Z"
 }

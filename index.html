@@ -101,6 +101,22 @@ footer{text-align:center;font-family:var(--sans);font-size:.7rem;letter-spacing:
 .filtro-nota{font-family:var(--sans);font-size:.68rem;color:var(--inchiostro-lieve);
   letter-spacing:.04em;margin-left:auto}
 @media (max-width:540px){.filtro .menu{left:auto;right:auto}.filtro-nota{width:100%;margin:.2rem 0 0}}
+
+/* ── elenchi lunghi: resa progressiva ─────────────────────────── */
+.progresso{font-family:var(--sans);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--inchiostro-lieve);text-align:center;padding:1rem .6rem 2.2rem}
+.progresso .barra{display:block;width:min(18rem,70%);height:3px;margin:.55rem auto 0;
+  background:var(--tela-scura);position:relative}
+.progresso .barra i{position:absolute;left:0;top:0;bottom:0;background:var(--verderame);
+  transition:width .2s ease-out}
+.sentinella{height:1px}
+#su{position:fixed;right:1rem;bottom:1rem;z-index:40;width:2.7rem;height:2.7rem;
+  border:1.5px solid var(--ruggine);background:var(--carta);color:var(--ruggine-scura);
+  font-family:var(--sans);font-size:1.05rem;line-height:1;cursor:pointer;
+  box-shadow:3px 3px 0 rgba(143,67,42,.18)}
+#su:hover{background:var(--ruggine);color:var(--carta)}
+#su:focus-visible{outline:3px solid var(--oro);outline-offset:2px}
+@media (max-width:540px){#su{right:.7rem;bottom:.7rem}}
 </style>
 </head>
 <body>
@@ -276,13 +292,120 @@ function cercaDial(nq, esatta){
   return out;
 }
 
+/* \u2500\u2500 resa progressiva \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+   L'elenco non viene pi\u00f9 troncato: le voci entrano nella pagina a blocchi, via
+   via che la barra di scorrimento scende. Una sentinella in fondo alla lista
+   avvisa quando servono altre voci, cos\u00ec il browser non deve costruire in una
+   sola volta migliaia di nodi. */
+const PASSO_RESA = 60;
+let _osservatore = null;
+function fermaResa(){
+  if(_osservatore){ _osservatore.disconnect(); _osservatore = null; }
+}
+function mostraProgressivo(box, elementi, rendi, vuoto){
+  fermaResa();
+  /* un elenco lungo che viene sostituito accorcia la pagina: senza questo
+     riallineamento chi ha scorso a fondo si ritroverebbe in coda al nuovo elenco */
+  const cima = box.getBoundingClientRect().top + window.scrollY;
+  if(window.scrollY > cima) window.scrollTo(0, Math.max(0, cima - 24));
+  box.innerHTML = '';
+  if(!elementi.length){ box.innerHTML = vuoto || ''; return; }
+  const totale = elementi.length;
+  const etTot = totale.toLocaleString('it-IT');
+  const coda = document.createElement('div');
+  coda.className = 'progresso';
+  const testo = document.createElement('span');
+  const barra = document.createElement('span');
+  barra.className = 'barra';
+  const riemp = document.createElement('i');
+  barra.appendChild(riemp);
+  coda.appendChild(testo); coda.appendChild(barra);
+  const sentinella = document.createElement('div');
+  sentinella.className = 'sentinella';
+  box.appendChild(coda); box.appendChild(sentinella);
+  let i = 0;
+  function blocco(){
+    const fine = Math.min(i + PASSO_RESA, totale);
+    const tmp = document.createElement('div');
+    tmp.innerHTML = elementi.slice(i, fine).map(rendi).join('');
+    const frag = document.createDocumentFragment();
+    while(tmp.firstChild) frag.appendChild(tmp.firstChild);
+    box.insertBefore(frag, coda);
+    i = fine;
+    riemp.style.width = Math.round(i/totale*100) + '%';
+    if(i >= totale){
+      testo.textContent = (totale === 1 ? '1 voce' : etTot + ' voci') + ' \u00b7 fine dell\u2019elenco';
+      barra.hidden = true;
+      fermaResa();
+      sentinella.remove();
+    } else {
+      testo.textContent = i.toLocaleString('it-IT') + ' di ' + etTot + ' \u00b7 scorri per le altre';
+    }
+    if(typeof legaAzioni === 'function') legaAzioni();
+  }
+  /* se dopo un blocco la sentinella \u00e8 ancora in vista si prosegue subito:
+     l'osservatore, da solo, non riscatterebbe senza un nuovo attraversamento */
+  function riempi(){
+    blocco();
+    if(i < totale) requestAnimationFrame(()=>{
+      if(i < totale && sentinella.isConnected &&
+         sentinella.getBoundingClientRect().top < window.innerHeight + 900) riempi();
+    });
+  }
+  riempi();
+  if(i < totale){
+    if('IntersectionObserver' in window){
+      _osservatore = new IntersectionObserver(v=>{
+        if(v.some(x=>x.isIntersecting)) riempi();
+      }, {rootMargin:'900px 0px'});
+      _osservatore.observe(sentinella);
+    } else {
+      const scorri = ()=>{
+        if(i >= totale || !sentinella.isConnected){ window.removeEventListener('scroll', scorri); return; }
+        if(sentinella.getBoundingClientRect().top < window.innerHeight + 900) riempi();
+      };
+      window.addEventListener('scroll', scorri, {passive:true});
+    }
+  }
+}
+
+/* resa di un singolo risultato di ricerca */
+function rendiBlocco(b){
+  const az = v => {
+    const h = (typeof btnAzioni === 'function') ? btnAzioni(v) : '';
+    return h ? `<div class="azioni-voce">${h}</div>` : '';
+  };
+  const azIn = (v, chiave) => (typeof azioni === 'function') ? azioni(v, chiave) : '';
+  if(b.t === 'it'){
+    const vars = b.dial.slice(0,14).map(v=>
+      `<span class="var"><span class="dial-var">${v.d}</span>${badgeDi(v)}${catBadge(v)}${azIn(v, b.via?null:b.chiave)}</span>`
+    ).join('');
+    return `<div class="voce${b.dial.some(v=>!String(v.src||'').startsWith('corpus'))?' da-admin':''}">
+      <div><span class="lemma">${b.chiave}</span><span class="freccia">\u2192</span></div>
+      <div class="trad">${vars}</div>
+      ${b.via?`<div class="via-sinonimo">trovato per sinonimia di \u00ab${stripPar(b.via)}\u00bb</div>`:''}
+    </div>`;
+  }
+  const v = b.v, src = String(v.src||'admin');
+  return `<div class="voce${src.startsWith('corpus')?'':' da-admin'}">
+    <div><span class="lemma dialetto">${v.d}</span>${badgeDi(v)}${catBadge(v)}<span class="freccia">\u2192</span></div>
+    <div class="trad">${v.it.map(g=>`<span class="var">${g}</span>`).join('')}</div>
+    ${az(v)}
+  </div>`;
+}
+
+/* resa di una voce quando si sfoglia una selezione filtrata */
+function rendiVoce(v){
+  return rendiBlocco({t:'d', v});
+}
+
 function esegui(){
   const q = document.getElementById('q').value;
   const box = document.getElementById('risultati');
-  if(!q.trim()){ box.innerHTML=''; aggiornaConta(); return; }
+  if(!q.trim()){ fermaResa(); box.innerHTML=''; aggiornaConta(); return; }
   const nq = norm(q);
   let dir = direzione==='auto' ? rilevaDirezione(q) : direzione;
-  let html = '';
+  const blocchi = [];
 
   if(dir==='it' || dir==='entrambe'){
     let res = cercaIT(nq, true);
@@ -299,37 +422,18 @@ function esegui(){
       const ordinate = [...perChiave.entries()].sort((a,b)=>{
         const ea = norm(a[0])===nq?0:1, eb = norm(b[0])===nq?0:1;
         return ea-eb || a[0].localeCompare(b[0]);
-      }).slice(0,40);
-      for(const [chiave, {dial, via}] of ordinate){
-        const vars = dial.slice(0,14).map(v=>{
-          const badge = badgeDi(v);
-          const cbadge = catBadge(v);
-          return `<span class="var"><span class="dial-var">${v.d}</span>${badge}${cbadge}</span>`;
-        }).join('');
-        html += `<div class="voce${dial.some(v=>!String(v.src||'').startsWith('corpus'))?' da-admin':''}">
-          <div><span class="lemma">${chiave}</span><span class="freccia">→</span></div>
-          <div class="trad">${vars}</div>
-          ${via?`<div class="via-sinonimo">trovato per sinonimia di «${stripPar(via)}»</div>`:''}
-        </div>`;
-      }
+      });
+      for(const [chiave, {dial, via}] of ordinate) blocchi.push({t:'it', chiave, dial, via});
     }
   }
   if(dir==='dial' || dir==='entrambe'){
     let res = cercaDial(nq, true);
     if(res.length===0) res = cercaDial(nq, false);
-    for(const v of res.slice(0,40)){
-      const src = String(v.src||'admin');
-      const badge = badgeDi(v);
-      const cbadge = catBadge(v);
-      html += `<div class="voce${src.startsWith('corpus')?'':' da-admin'}">
-        <div><span class="lemma dialetto">${v.d}</span>${badge}${cbadge}<span class="freccia">→</span></div>
-        <div class="trad">${v.it.map(g=>`<span class="var">${g}</span>`).join('')}</div>
-        
-      </div>`;
-    }
+    for(const v of res) blocchi.push({t:'d', v});
   }
-  box.innerHTML = html || `<div class="vuoto"><strong>Nessuna corrispondenza per «${q}».</strong><br>
-    In modalità amministrazione puoi aggiungerla come nuova voce.</div>`;
+  mostraProgressivo(box, blocchi, rendiBlocco,
+    `<div class="vuoto"><strong>Nessuna corrispondenza per \u00ab${q}\u00bb.</strong><br>
+    In modalit\u00e0 amministrazione puoi aggiungerla come nuova voce.</div>`);
   aggiornaConta();
 }
 const NOMI_VARIANTI = {SA:'Santarcangelo di Romagna', GA:'Gambettola', GT:'Gatteo', CE:'Cesena', RN:'Rimini',
@@ -427,17 +531,9 @@ caricaDizionarioEsterno();
       const voci = vociAttive().filter(passa)
         .sort((a,b)=>norm(a.d).localeCompare(norm(b.d),'it'));
       const box = document.getElementById('risultati');
-      const bdg = v => (typeof badgeDi==='function' ? badgeDi(v) : '');
-      const cbd = v => (typeof catBadge==='function' ? catBadge(v) : '');
-      const azn = v => (typeof btnAzioni==='function' ? `<div class="azioni-voce">${btnAzioni(v)}</div>` : '');
-      box.innerHTML = voci.slice(0,40).map(v=>`<div class="voce${String(v.src||'admin').startsWith('corpus')?'':' da-admin'}">
-        <div><span class="lemma dialetto">${v.d}</span>${bdg(v)}${cbd(v)}<span class="freccia">→</span></div>
-        <div class="trad">${v.it.map(g=>`<span class="var">${g}</span>`).join('')}</div>
-        ${azn(v)}
-      </div>`).join('') + (voci.length>40
-        ? `<div class="vuoto">Mostrate le prime 40 voci di ${voci.length.toLocaleString('it-IT')}: scrivi una parola per cercare dentro la selezione.</div>`
-        : (voci.length ? '' : '<div class="vuoto"><strong>Nessuna voce con questi filtri.</strong></div>'));
-      aggiornaConta(); if(typeof legaAzioni==='function') legaAzioni(); return;
+      mostraProgressivo(box, voci, rendiVoce,
+        '<div class="vuoto"><strong>Nessuna voce con questi filtri.</strong></div>');
+      aggiornaConta(); return;
     }
     _esegui();
   };
@@ -530,6 +626,17 @@ caricaDizionarioEsterno();
     if(BASE.entries.length !== n0){ n0 = BASE.entries.length; disegnaMenu(); etichette(); }
   }, 700);
   setTimeout(()=>clearInterval(t), 12000);
+})();
+</script>
+<button id="su" type="button" hidden aria-label="Torna in cima" title="Torna in cima">↑</button>
+<script>
+/* pulsante di risalita: con elenchi di migliaia di voci la testata resta lontana */
+(function(){
+  const b = document.getElementById('su');
+  const mostra = ()=>{ b.hidden = window.scrollY < 700; };
+  window.addEventListener('scroll', mostra, {passive:true});
+  b.addEventListener('click', ()=>window.scrollTo({top:0, behavior:'smooth'}));
+  mostra();
 })();
 </script>
 </body>

@@ -19,9 +19,9 @@ body{background:var(--tela);color:var(--inchiostro);font-family:var(--serif);min
 .stampa{height:34px;background:var(--ruggine);position:relative;overflow:hidden}
 .stampa svg{display:block;height:34px;width:100%}
 header{max-width:880px;margin:0 auto;padding:2.2rem 1.2rem 1.2rem;text-align:center}
-h1{font-size:clamp(2rem,6vw,3.1rem);letter-spacing:.01em;font-weight:600;color:var(--ruggine-scura)}
+h1{font-size:clamp(1.5rem,4.2vw,2.2rem);letter-spacing:.01em;font-weight:600;color:var(--ruggine-scura)}
 h1 .tilde{color:var(--verderame)}
-.sotto{font-family:var(--sans);font-size:.8rem;letter-spacing:.22em;text-transform:uppercase;
+.sotto{font-family:var(--sans);font-size:.68rem;letter-spacing:.08em;
   color:var(--inchiostro-lieve);margin-top:.45rem}
 .fonti{font-style:italic;color:var(--inchiostro-lieve);font-size:.9rem;margin-top:.55rem}
 main{max-width:880px;margin:0 auto;padding:0 1.2rem 4rem}
@@ -209,47 +209,6 @@ body.admin .azioni-inline{display:inline-flex}
 
 <div id="risultati" aria-live="polite"></div>
 
-<div class="barra-admin">
-<button class="btn" id="toggle-admin">Amministrazione</button>
-</div>
-
-<section id="pannello" aria-label="Pannello di amministrazione">
-<h2 id="titolo-form">Nuova voce</h2>
-<p class="nota">Etichette di variante: <strong>SA</strong> = Santarcangelo (corpus di base). Le voci aggiunte o corrette si salvano in questo browser e sopravvivono alla chiusura della pagina. Usa «Esporta» per un backup in JSON.</p>
-<div class="campo"><label for="f-dial">Forma dialettale</label><input id="f-dial" placeholder="es. zcòrr"></div>
-<div class="campo"><label for="f-it">Traduzioni italiane (separate da virgola)</label><input id="f-it" placeholder="es. parlare, discorrere"></div>
-<div class="campo"><label for="f-var">Variante dialettale — sigla di due lettere (SA Santarcangelo, GA Gambettola, CE Cesena…)</label><input id="f-var" maxlength="2" placeholder="es. GA" style="text-transform:uppercase;width:8rem"></div>
-<div class="campo"><label for="f-cat">Categoria grammaticale</label><select id="f-cat">
-  <option value="">— non specificata —</option>
-  <option value="Sostantivo">Sostantivo</option>
-  <option value="Aggettivo">Aggettivo</option>
-  <option value="Avverbio">Avverbio</option>
-  <option value="Verbo">Verbo</option>
-  <option value="Verbo declinato">Verbo declinato</option>
-  <option value="Pronome">Pronome</option>
-  <option value="Congiunzione">Congiunzione</option>
-  <option value="Locuzione">Locuzione</option>
-  <option value="Altro">Altro</option>
-</select></div>
-<div class="campo" id="campo-num" style="display:none"><label for="f-num">Numero (solo per Sostantivo)</label><select id="f-num">
-  <option value="">— non specificato —</option>
-  <option value="sg">singolare</option>
-  <option value="pl">plurale</option>
-</select></div>
-<div class="riga-btn">
-<button class="btn pieno" id="salva">Salva voce</button>
-<button class="btn" id="annulla" style="display:none">Annulla modifica</button>
-</div>
-<div class="stato" id="stato"></div>
-<div class="gestione">
-<div class="riga-btn">
-<button class="btn piccolo" id="esporta">Esporta dizionario (JSON)</button>
-<button class="btn piccolo" id="importa-btn">Importa JSON</button>
-<input type="file" id="importa-file" accept=".json" style="display:none">
-<button class="btn piccolo" id="azzera">Elimina modifiche locali</button>
-</div>
-</div>
-</section>
 </main>
 
 <footer>Corpus letterario poetico. Autori nell'ambito dialettale tra Cesena e Santarcangelo</footer>
@@ -577,154 +536,6 @@ for(const [id, val] of [['dir-auto','auto'],['dir-it','it'],['dir-dial','dial']]
   });
 }
 document.getElementById('q').addEventListener('input', esegui);
-document.getElementById('f-cat').addEventListener('change', ()=>{
-  const isSost = document.getElementById('f-cat').value==='Sostantivo';
-  document.getElementById('campo-num').style.display = isSost ? 'block' : 'none';
-  if(!isSost) document.getElementById('f-num').value='';
-});
-
-/* ── amministrazione ── */
-let inModifica = null; // {tipo:'base'|'added', id o indice}
-document.getElementById('toggle-admin').addEventListener('click', ()=>{
-  document.body.classList.toggle('admin');
-  document.getElementById('toggle-admin').textContent =
-    document.body.classList.contains('admin') ? 'Chiudi amministrazione' : 'Amministrazione';
-  esegui();
-});
-
-function trovaVoce(key){
-  if(key.startsWith('id:')){
-    const id = +key.slice(3);
-    return {tipo:'base', id, voce: vociAttive().find(v=>v.id===id)};
-  }
-  const d = decodeURIComponent(key.slice(2));
-  const i = overlay.added.findIndex(a=>a.d===d);
-  return {tipo:'added', i, voce: overlay.added[i]};
-}
-
-function legaAzioni(){
-  document.querySelectorAll('[data-unlink]').forEach(b=>b.onclick = ()=>{
-    const [key, gEnc] = b.dataset.unlink.split('¦');
-    const gloss = decodeURIComponent(gEnc);
-    const t = trovaVoce(key);
-    if(!t.voce) return;
-    const rimaste = t.voce.it.filter(g => norm(stripPar(g)) !== norm(gloss));
-    if(rimaste.length === t.voce.it.length){
-      alert('Corrispondenza non trovata nella voce (forse deriva da un sinonimo).'); return;
-    }
-    if(rimaste.length === 0){
-      if(!confirm('«'+gloss+'» è l\'unica traduzione di «'+t.voce.d+'»: eliminare l\'intera voce?')) return;
-      if(t.tipo==='base'){ overlay.deleted.push(t.id); delete overlay.edited[t.id]; }
-      else overlay.added.splice(t.i,1);
-    } else {
-      if(!confirm('Rimuovere la corrispondenza «'+gloss+'» da «'+t.voce.d+'»? Restano: '+rimaste.join(', '))) return;
-      if(t.tipo==='base') overlay.edited[t.id] = {d: t.voce.d, it: rimaste, ...(t.voce.var?{var:t.voce.var}:{}), ...(t.voce.cat?{cat:t.voce.cat}:{})};
-      else overlay.added[t.i] = {d: t.voce.d, it: rimaste, ...(t.voce.var?{var:t.voce.var}:{}), ...(t.voce.cat?{cat:t.voce.cat}:{}), src:'admin'};
-    }
-    salvaOverlay(); IDX = costruisciIndici(); esegui();
-  });
-  document.querySelectorAll('[data-mod]').forEach(b=>b.onclick = ()=>{
-    const t = trovaVoce(b.dataset.mod);
-    if(!t.voce) return;
-    inModifica = t;
-    document.getElementById('titolo-form').textContent = 'Correggi voce: '+t.voce.d;
-    document.getElementById('f-dial').value = t.voce.d;
-    document.getElementById('f-it').value = t.voce.it.join(', ');
-    document.getElementById('f-var').value = t.voce.var || (String(t.voce.src||'').startsWith('corpus') ? 'SA' : '');
-    document.getElementById('f-cat').value = t.voce.cat || '';
-    document.getElementById('f-num').value = t.voce.num || '';
-    document.getElementById('campo-num').style.display = (t.voce.cat==='Sostantivo') ? 'block' : 'none';
-    document.getElementById('annulla').style.display='inline-block';
-    const pn=document.getElementById('pannello'); if(pn.scrollIntoView) pn.scrollIntoView({behavior:'smooth'});
-  });
-  document.querySelectorAll('[data-del]').forEach(b=>b.onclick = ()=>{
-    const t = trovaVoce(b.dataset.del);
-    if(!t.voce) return;
-    if(!confirm('Eliminare la voce «'+t.voce.d+'»?')) return;
-    if(t.tipo==='base'){ overlay.deleted.push(t.id); delete overlay.edited[t.id]; }
-    else overlay.added.splice(t.i,1);
-    salvaOverlay(); IDX = costruisciIndici(); esegui();
-  });
-}
-
-document.getElementById('annulla').addEventListener('click', ()=>{
-  inModifica=null;
-  document.getElementById('titolo-form').textContent='Nuova voce';
-  document.getElementById('f-dial').value=''; document.getElementById('f-it').value='';
-  document.getElementById('f-var').value=''; document.getElementById('f-cat').value='';
-  document.getElementById('f-num').value=''; document.getElementById('campo-num').style.display='none';
-  document.getElementById('annulla').style.display='none';
-});
-
-document.getElementById('salva').addEventListener('click', ()=>{
-  const d = document.getElementById('f-dial').value.trim();
-  const it = document.getElementById('f-it').value.split(',').map(s=>s.trim()).filter(Boolean);
-  const vr = document.getElementById('f-var').value.trim().toUpperCase();
-  const cat = document.getElementById('f-cat').value;
-  const num = document.getElementById('f-num').value;
-  const st = document.getElementById('stato');
-  if(!d || !it.length){ st.textContent='Servono la forma dialettale e almeno una traduzione.'; st.className='stato errore'; return; }
-  if(vr && !/^[A-Z]{2}$/.test(vr)){ st.textContent='La sigla della variante deve essere di due lettere (es. SA, GA, CE).'; st.className='stato errore'; return; }
-  const extra = {};
-  if(vr) extra.var = vr;
-  extra.cat = cat; // sempre presente: una selezione vuota rimuove la categoria
-  // il numero ha senso solo per i sostantivi; per le altre categorie viene rimosso
-  extra.num = (cat==='Sostantivo') ? num : '';
-  if(inModifica){
-    if(inModifica.tipo==='base') overlay.edited[inModifica.id] = {d, it, ...extra};
-    else overlay.added[inModifica.i] = {d, it, ...extra, src:'admin'};
-    st.textContent='Voce corretta: '+d;
-  } else {
-    overlay.added.push({d, it, ...extra, src:'admin'});
-    st.textContent='Voce aggiunta: '+d+' → '+it.join(', ')+(vr?' ['+vr+']':'')+(cat?' — '+cat:'');
-  }
-  st.className='stato ok';
-  salvaOverlay(); IDX = costruisciIndici();
-  document.getElementById('annulla').click();
-  esegui();
-});
-
-/* ── esporta / importa / azzera ── */
-document.getElementById('esporta').addEventListener('click', ()=>{
-  const dati = {entries: vociAttive(), synonyms: BASE.synonyms, esportato: new Date().toISOString()};
-  const blob = new Blob([JSON.stringify(dati, null, 1)], {type:'application/json'});
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob); a.download = 'dizioneri_romagnolo.json'; a.click();
-  URL.revokeObjectURL(a.href);
-});
-document.getElementById('importa-btn').addEventListener('click', ()=>document.getElementById('importa-file').click());
-document.getElementById('importa-file').addEventListener('change', e=>{
-  const f = e.target.files[0]; if(!f) return;
-  const r = new FileReader();
-  r.onload = ()=>{
-    const st = document.getElementById('stato');
-    try{
-      const dati = JSON.parse(r.result);
-      if(!Array.isArray(dati.entries)) throw new Error('formato non valido');
-      const baseIds = new Set(BASE.entries.map(x=>x.id));
-      overlay = {added:[], edited:{}, deleted:[]};
-      const visti = new Set();
-      for(const v of dati.entries){
-        visti.add(v.id);
-        if(v.id!=null && baseIds.has(v.id)){
-          const orig = BASE.entries.find(x=>x.id===v.id);
-          if(orig.d!==v.d || JSON.stringify(orig.it)!==JSON.stringify(v.it) || (orig.var||'')!==(v.var||'') || (orig.cat||'')!==(v.cat||'') || (orig.num||'')!==(v.num||''))
-            overlay.edited[v.id] = {d:v.d, it:v.it, ...(v.var?{var:v.var}:{}), cat:(v.cat||''), ...(v.num?{num:v.num}:{})};
-        } else overlay.added.push({d:v.d, it:v.it, ...(v.var?{var:v.var}:{}), ...(v.cat?{cat:v.cat}:{}), ...(v.num?{num:v.num}:{}), src:'admin'});
-      }
-      for(const id of baseIds) if(!visti.has(id)) overlay.deleted.push(id);
-      salvaOverlay(); IDX=costruisciIndici(); esegui();
-      st.textContent='Dizionario importato: '+dati.entries.length+' voci.'; st.className='stato ok';
-    }catch(err){ st.textContent='Importazione fallita: '+err.message; st.className='stato errore'; }
-  };
-  r.readAsText(f);
-  e.target.value='';
-});
-document.getElementById('azzera').addEventListener('click', ()=>{
-  if(!confirm('Eliminare tutte le aggiunte e correzioni locali e tornare al dizionario di base?')) return;
-  overlay = {added:[], edited:{}, deleted:[]};
-  salvaOverlay(); IDX=costruisciIndici(); esegui();
-});
 
 aggiornaConta();
 caricaDizionarioEsterno();

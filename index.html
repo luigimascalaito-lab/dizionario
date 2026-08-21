@@ -53,6 +53,15 @@ main{max-width:880px;margin:0 auto;padding:0 1.2rem 4rem}
 .etichetta.admin{color:var(--oro)}
 .etichetta.allineato{color:#7A5C9E}
 .etichetta.cat-badge{margin-left:.3rem;padding:.05rem .35rem;border:1px solid currentColor;border-radius:3px}
+.audio-btn{display:inline-block;margin-left:.5rem;vertical-align:middle;
+  border:1px solid var(--verderame);background:transparent;color:var(--verderame);
+  width:1.7rem;height:1.7rem;line-height:1.55rem;text-align:center;border-radius:50%;
+  font-size:.9rem;cursor:pointer;padding:0;font-family:inherit}
+.audio-btn:hover{background:var(--verderame);color:var(--carta)}
+.audio-btn:focus-visible{outline:3px solid var(--oro);outline-offset:2px}
+.audio-btn.audio-loading{opacity:.5;cursor:wait}
+.audio-btn.audio-error{border-color:var(--ruggine);color:var(--ruggine);animation:audio-shake .3s}
+@keyframes audio-shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-2px)}75%{transform:translateX(2px)}}
 .etichetta.cat-N{color:#3B6EA5}
 .etichetta.cat-AGG{color:#B98A3D}
 .etichetta.cat-V{color:#5C8F4A}
@@ -410,6 +419,35 @@ function mostraProgressivo(box, elementi, rendi, vuoto){
 }
 
 /* resa di un singolo risultato di ricerca */
+/* pulsante di pronuncia audio -- predisposto solo per la varieta' GA (Gambettola);
+   il file atteso e' audio/<id>.mp3. Se il file manca, riproduciAudio() lo segnala
+   in modo discreto (bordo rosso momentaneo) senza bloccare nulla: si puo' quindi
+   caricare gli mp3 gradualmente, un lemma alla volta. */
+function audioBtn(v){
+  if(v.var !== 'GA' || v.id == null) return '';
+  const dEsc = String(v.d).replace(/"/g,'&quot;');
+  return '<button type="button" class="audio-btn" data-audio-id="'+v.id+'" '
+    + 'title="Ascolta la pronuncia" aria-label="Ascolta la pronuncia di '+dEsc+'" '
+    + 'onclick="riproduciAudio(this, '+v.id+')">\uD83D\uDD0A</button>';
+}
+function riproduciAudio(btn, id){
+  const src = 'audio/'+id+'.mp3';
+  btn.classList.remove('audio-error');
+  btn.classList.add('audio-loading');
+  const audio = new Audio(src);
+  const onOk = () => btn.classList.remove('audio-loading');
+  const onErr = () => {
+    btn.classList.remove('audio-loading');
+    btn.classList.add('audio-error');
+    const titOrig = btn.title;
+    btn.title = 'Audio non ancora disponibile per questo lemma';
+    setTimeout(()=>{ btn.classList.remove('audio-error'); btn.title = titOrig; }, 1600);
+  };
+  audio.addEventListener('canplaythrough', onOk, {once:true});
+  audio.addEventListener('error', onErr, {once:true});
+  audio.play().then(onOk).catch(onErr);
+}
+
 function rendiBlocco(b){
   const az = v => {
     const h = (typeof btnAzioni === 'function') ? btnAzioni(v) : '';
@@ -418,7 +456,7 @@ function rendiBlocco(b){
   const azIn = (v, chiave) => (typeof azioni === 'function') ? azioni(v, chiave) : '';
   if(b.t === 'it'){
     const vars = b.dial.slice(0,14).map(v=>
-      `<span class="var"><span class="dial-var">${v.d}</span>${badgeDi(v)}${catBadge(v)}${azIn(v, b.via?null:b.chiave)}</span>`
+      `<span class="var"><span class="dial-var">${v.d}</span>${badgeDi(v)}${catBadge(v)}${audioBtn(v)}${azIn(v, b.via?null:b.chiave)}</span>`
     ).join('');
     return `<div class="voce${b.dial.some(v=>!String(v.src||'').startsWith('corpus'))?' da-admin':''}">
       <div><span class="lemma">${b.chiave}</span><span class="freccia">\u2192</span></div>
@@ -428,7 +466,7 @@ function rendiBlocco(b){
   }
   const v = b.v, src = String(v.src||'admin');
   return `<div class="voce${src.startsWith('corpus')?'':' da-admin'}">
-    <div><span class="lemma dialetto">${v.d}</span>${badgeDi(v)}${catBadge(v)}<span class="freccia">\u2192</span></div>
+    <div><span class="lemma dialetto">${v.d}</span>${badgeDi(v)}${catBadge(v)}${audioBtn(v)}<span class="freccia">\u2192</span></div>
     <div class="trad">${v.it.map(g=>`<span class="var">${g}</span>`).join('')}</div>
     ${az(v)}
   </div>`;

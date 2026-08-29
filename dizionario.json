@@ -107814,16 +107814,6 @@
       "src": "corpus:Gori"
     },
     {
-      "id": 11545,
-      "d": "da bón",
-      "it": [
-        "sul serio"
-      ],
-      "var": "SM",
-      "cat": "Locuzione",
-      "src": "corpus:Gori"
-    },
-    {
       "id": 11546,
       "d": "tni bòta",
       "it": [
@@ -108061,7 +108051,8 @@
       "d": "dabón",
       "it": [
         "davvero",
-        "vero"
+        "vero",
+        "sul serio"
       ],
       "var": "SM",
       "cat": "Avverbio",
@@ -108371,16 +108362,6 @@
       "var": "SM",
       "cat": "Sostantivo",
       "num": "sg",
-      "src": "corpus:Gori"
-    },
-    {
-      "id": 11604,
-      "d": "da fat",
-      "it": [
-        "del tutto"
-      ],
-      "var": "SM",
-      "cat": "Locuzione",
       "src": "corpus:Gori"
     },
     {
@@ -112063,7 +112044,8 @@
       "d": "smasè",
       "it": [
         "frugare",
-        "scoprire"
+        "scoprire",
+        "rovistare"
       ],
       "var": "SM",
       "cat": "Verbo",
@@ -114700,7 +114682,7 @@
       "d": "butté",
       "it": [
         "buttare",
-        "buttare"
+        "lanciare"
       ],
       "var": "SM",
       "cat": "Verbo",
@@ -166307,9 +166289,8 @@
         "ritagliati"
       ],
       "var": "SM",
-      "cat": "Sostantivo",
-      "src": "corpus:Strafócc",
-      "num": "pl"
+      "cat": "Aggettivo",
+      "src": "corpus:Strafócc"
     },
     {
       "id": 17812,
@@ -167466,8 +167447,8 @@
       "id": 17958,
       "d": "mèzi",
       "it": [
-        "modo",
-        "verso"
+        "modi",
+        "mezzi"
       ],
       "var": "SM",
       "cat": "Sostantivo",
@@ -168252,17 +168233,6 @@
       "src": "corpus:Strafócc"
     },
     {
-      "id": 18056,
-      "d": "smasé",
-      "it": [
-        "frugare",
-        "rovistare"
-      ],
-      "var": "SM",
-      "cat": "Verbo",
-      "src": "corpus:Strafócc"
-    },
-    {
       "id": 18057,
       "d": "snò",
       "it": [
@@ -168363,16 +168333,6 @@
       "var": "SM",
       "cat": "Sostantivo",
       "num": "pl",
-      "src": "corpus:Strafócc"
-    },
-    {
-      "id": 18071,
-      "d": "stuglé",
-      "it": [
-        "distesi"
-      ],
-      "var": "SM",
-      "cat": "Aggettivo",
       "src": "corpus:Strafócc"
     },
     {
@@ -168493,7 +168453,7 @@
       "id": 18089,
       "d": "tròqual",
       "it": [
-        "pezzo",
+        "tozzo",
         "pezzo"
       ],
       "var": "SM",

@@ -80908,17 +80908,6 @@
    "src": "corpus:Molari"
   },
   {
-   "id": 8592,
-   "d": "tne dacont",
-   "it": [
-    "aver cura",
-    "tenersi da conto"
-   ],
-   "var": "GA",
-   "cat": "Locuzione",
-   "src": "corpus:Molari"
-  },
-  {
    "id": 8593,
    "d": "tnèma dacount",
    "it": [
@@ -85406,16 +85395,6 @@
    "d": "fà chès",
    "it": [
     "far caso"
-   ],
-   "var": "GA",
-   "cat": "Locuzione",
-   "src": "corpus:Procucci"
-  },
-  {
-   "id": 9098,
-   "d": "fà crôus",
-   "it": [
-    "farsi il segno della croce"
    ],
    "var": "GA",
    "cat": "Locuzione",
@@ -95413,16 +95392,6 @@
    "src": "corpus:Procucci"
   },
   {
-   "id": 10216,
-   "d": "butér a gamb pr'aria",
-   "it": [
-    "buttare a gambe all'aria"
-   ],
-   "var": "GA",
-   "cat": "Locuzione",
-   "src": "corpus:Procucci"
-  },
-  {
    "id": 10217,
    "d": "butighéina",
    "it": [
@@ -103986,16 +103955,6 @@
    ],
    "var": "SM",
    "cat": "Pronome",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11154,
-   "d": "tót inquél",
-   "it": [
-    "tutto quanto"
-   ],
-   "var": "SM",
-   "cat": "Locuzione",
    "src": "corpus:Gori"
   },
   {
@@ -158254,16 +158213,6 @@
    "src": "corpus:Canifós"
   },
   {
-   "id": 16984,
-   "d": "da màin in màin",
-   "it": [
-    "a mano a mano"
-   ],
-   "var": "GA",
-   "cat": "Locuzione",
-   "src": "corpus:Canifós"
-  },
-  {
    "id": 16985,
    "d": "artèsta",
    "it": [
@@ -203719,16 +203668,6 @@
    "num": "pl"
   },
   {
-   "id": 21825,
-   "d": "da man i'màin",
-   "it": [
-    "a poco a poco"
-   ],
-   "var": "GA",
-   "cat": "Locuzione",
-   "src": "corpus:Pedrelli"
-  },
-  {
    "id": 21826,
    "d": "aiout",
    "it": [
@@ -223592,16 +223531,6 @@
    "src": "corpus:Autore"
   },
   {
-   "id": 23721,
-   "d": "e dé d'incù",
-   "it": [
-    "al giorno d'oggi"
-   ],
-   "var": "GA",
-   "cat": "Locuzione",
-   "src": "corpus:Autore"
-  },
-  {
    "id": 23722,
    "d": "mudandi",
    "it": [
@@ -225127,17 +225056,6 @@
    "cat": "Sostantivo",
    "src": "corpus:Procucci Raccolta Poetica",
    "num": "sg"
-  },
-  {
-   "id": 23873,
-   "d": "dà l' onda",
-   "it": [
-    "ondeggiare",
-    "reggersi a stento"
-   ],
-   "var": "GA",
-   "cat": "Locuzione",
-   "src": "corpus:Procucci Raccolta Poetica"
   },
   {
    "id": 23874,
@@ -227857,16 +227775,6 @@
    "d": "an sivi 'na masa",
    "it": [
     "non eravate molte"
-   ],
-   "var": "SM",
-   "cat": "Locuzione",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 24134,
-   "d": "sa l'òs-cia d duò",
-   "it": [
-    "chissà di dove"
    ],
    "var": "SM",
    "cat": "Locuzione",
@@ -235560,6 +235468,9841 @@
    "cat": "Sostantivo",
    "src": "corpus:Giovagnoli",
    "num": "pl"
+  },
+  {
+   "id": 24861,
+   "d": "abandunè",
+   "it": [
+    "abbandonato"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24862,
+   "d": "abandunèda",
+   "it": [
+    "abbandonata"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24863,
+   "d": "abandunèdi",
+   "it": [
+    "abbandonate"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24864,
+   "d": "abastènza",
+   "it": [
+    "abbastanza"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24865,
+   "d": "acampamàint",
+   "it": [
+    "accampamento"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24866,
+   "d": "acanimàint",
+   "it": [
+    "accanimento"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24867,
+   "d": "s'acapéss",
+   "it": [
+    "si capisce"
+   ],
+   "var": "CE",
+   "cat": "Locuzione",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24868,
+   "d": "acord",
+   "it": [
+    "accordo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24869,
+   "d": "acosta",
+   "it": [
+    "accostano"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24870,
+   "d": "acumpagna",
+   "it": [
+    "accompagna"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24871,
+   "d": "adan",
+   "it": [
+    "danno"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24872,
+   "d": "afarmès",
+   "it": [
+    "fermarsi"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24873,
+   "d": "afarmeva",
+   "it": [
+    "soffermava"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24874,
+   "d": "s' aferma",
+   "it": [
+    "si ferma"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24875,
+   "d": "afughè",
+   "it": [
+    "affogati"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24876,
+   "d": "agrapè",
+   "it": [
+    "aggrappati"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24877,
+   "d": "alà",
+   "it": [
+    "lassu"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24878,
+   "d": "albèna",
+   "it": [
+    "albana (vino)"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24879,
+   "d": "almènch",
+   "it": [
+    "almeno"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24880,
+   "d": "alora",
+   "it": [
+    "allora"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24881,
+   "d": "alzèda",
+   "it": [
+    "alzata"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24882,
+   "d": "alzir",
+   "it": [
+    "leggero"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24883,
+   "d": "amalè",
+   "it": [
+    "ammalato"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24884,
+   "d": "amazzè",
+   "it": [
+    "ammazzare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24885,
+   "d": "americhèna",
+   "it": [
+    "americana"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24886,
+   "d": "amèsa",
+   "it": [
+    "nasconde"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24887,
+   "d": "apena",
+   "it": [
+    "appena"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24888,
+   "d": "apuntamàint",
+   "it": [
+    "appuntamento"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24889,
+   "d": "aquastràin",
+   "it": [
+    "acquitrini"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24890,
+   "d": "àrab",
+   "it": [
+    "arabo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24891,
+   "d": "aracmanda",
+   "it": [
+    "raccomanda"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24892,
+   "d": "àrbomba",
+   "it": [
+    "rimbomba"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24893,
+   "d": "arbosa",
+   "it": [
+    "erbosa"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24894,
+   "d": "arcord",
+   "it": [
+    "ricordo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24895,
+   "d": "arcórdat",
+   "it": [
+    "ricordati"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24896,
+   "d": "arcurdè",
+   "it": [
+    "ricordare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24897,
+   "d": "ardida",
+   "it": [
+    "ardita"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24898,
+   "d": "ardotti",
+   "it": [
+    "ridotte"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24899,
+   "d": "areoplen",
+   "it": [
+    "aeroplano"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24900,
+   "d": "ariv",
+   "it": [
+    "arrivo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24901,
+   "d": "ariva",
+   "it": [
+    "arriva"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24902,
+   "d": "arivat",
+   "it": [
+    "giunto"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24903,
+   "d": "arlóz",
+   "it": [
+    "orologio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24904,
+   "d": "arlusént",
+   "it": [
+    "rilucente"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24905,
+   "d": "armast",
+   "it": [
+    "rimasti"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24906,
+   "d": "armasta",
+   "it": [
+    "rimasta"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24907,
+   "d": "armor",
+   "it": [
+    "rumore"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24908,
+   "d": "arnass",
+   "it": [
+    "rinascono"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24909,
+   "d": "arnov",
+   "it": [
+    "di nuovo"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24910,
+   "d": "arnova",
+   "it": [
+    "si rinnova"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24911,
+   "d": "arsénich",
+   "it": [
+    "arsenico"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24912,
+   "d": "arspond",
+   "it": [
+    "risponde"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24913,
+   "d": "arvènza",
+   "it": [
+    "resta"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24914,
+   "d": "arversa",
+   "it": [
+    "rovescio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24915,
+   "d": "arvì",
+   "it": [
+    "aprire"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24916,
+   "d": "ascolt",
+   "it": [
+    "ascolto"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24917,
+   "d": "asfalteda",
+   "it": [
+    "asfaltata"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24918,
+   "d": "asfelt",
+   "it": [
+    "asfalto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24919,
+   "d": "assassàin",
+   "it": [
+    "assassini"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24920,
+   "d": "assèlt",
+   "it": [
+    "assalto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24921,
+   "d": "ataca",
+   "it": [
+    "attacca"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24922,
+   "d": "atachèr",
+   "it": [
+    "attaccare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24923,
+   "d": "atravérs",
+   "it": [
+    "attraverso"
+   ],
+   "var": "CE",
+   "cat": "Altro",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24924,
+   "d": "àtum",
+   "it": [
+    "attimo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24925,
+   "d": "auréoli",
+   "it": [
+    "aureole"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24926,
+   "d": "avdam",
+   "it": [
+    "vediamo"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24927,
+   "d": "avdé",
+   "it": [
+    "vedere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24928,
+   "d": "avdéla",
+   "it": [
+    "vederla"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24929,
+   "d": "avdéli",
+   "it": [
+    "vederle"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24930,
+   "d": "aventura",
+   "it": [
+    "avventura"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24931,
+   "d": "averta",
+   "it": [
+    "aperta"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24932,
+   "d": "avisè",
+   "it": [
+    "avvisato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24933,
+   "d": "avnì",
+   "it": [
+    "venire"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24934,
+   "d": "avnuda",
+   "it": [
+    "venuta"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24935,
+   "d": "avtésta",
+   "it": [
+    "autista"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24936,
+   "d": "bagné",
+   "it": [
+    "bagnato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24937,
+   "d": "bagnéda",
+   "it": [
+    "bagnata"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24938,
+   "d": "bagnedi",
+   "it": [
+    "bagnate"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24939,
+   "d": "bagnés",
+   "it": [
+    "bagnarsi"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24940,
+   "d": "bal",
+   "it": [
+    "ballo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24941,
+   "d": "balaràina",
+   "it": [
+    "ballerina"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24942,
+   "d": "baliné",
+   "it": [
+    "balenare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24943,
+   "d": "baraca",
+   "it": [
+    "baldoria"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24944,
+   "d": "barbutléd",
+   "it": [
+    "borbottio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24945,
+   "d": "barchitina",
+   "it": [
+    "barchettina"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24946,
+   "d": "bass",
+   "it": [
+    "basso"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24947,
+   "d": "bataja",
+   "it": [
+    "battaglia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24948,
+   "d": "batibat",
+   "it": [
+    "battibatti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24949,
+   "d": "batù",
+   "it": [
+    "battuto"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24950,
+   "d": "bdèl",
+   "it": [
+    "tronco"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24951,
+   "d": "bèla",
+   "it": [
+    "bella"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24952,
+   "d": "bell",
+   "it": [
+    "belli"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24953,
+   "d": "benedizion",
+   "it": [
+    "benedizione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24954,
+   "d": "benéssum",
+   "it": [
+    "benissimo"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24955,
+   "d": "bèrba",
+   "it": [
+    "barba"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24956,
+   "d": "bés-ci",
+   "it": [
+    "bestie"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24957,
+   "d": "biastemmi",
+   "it": [
+    "bestemmie"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24958,
+   "d": "biciarott",
+   "it": [
+    "bicchierotti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24959,
+   "d": "biciclitina",
+   "it": [
+    "biciclettina"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24960,
+   "d": "bidon",
+   "it": [
+    "bidone"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24961,
+   "d": "biénca",
+   "it": [
+    "bianca"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24962,
+   "d": "biènch",
+   "it": [
+    "bianco"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24963,
+   "d": "biénchi",
+   "it": [
+    "bianche"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24964,
+   "d": "birichin",
+   "it": [
+    "birichino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24965,
+   "d": "biundina",
+   "it": [
+    "biondina"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24966,
+   "d": "bjinch",
+   "it": [
+    "bianchi"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24967,
+   "d": "blo",
+   "it": [
+    "blu"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24968,
+   "d": "bócchi",
+   "it": [
+    "bocche"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24969,
+   "d": "bólli",
+   "it": [
+    "bolle"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24970,
+   "d": "bona",
+   "it": [
+    "buona"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24971,
+   "d": "boni",
+   "it": [
+    "buone"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24972,
+   "d": "bost",
+   "it": [
+    "busti"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24973,
+   "d": "bòta",
+   "it": [
+    "colpo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24974,
+   "d": "bózzi",
+   "it": [
+    "bucce"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24975,
+   "d": "brazz",
+   "it": [
+    "braccio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24976,
+   "d": "brazzènt",
+   "it": [
+    "braccianti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24977,
+   "d": "brazzett",
+   "it": [
+    "braccetto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24978,
+   "d": "brazzi",
+   "it": [
+    "braccia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24979,
+   "d": "brett",
+   "it": [
+    "berretto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24980,
+   "d": "bretta",
+   "it": [
+    "berretta"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24981,
+   "d": "brèv",
+   "it": [
+    "bravo"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24982,
+   "d": "brighent",
+   "it": [
+    "briganti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24983,
+   "d": "brisul",
+   "it": [
+    "briciolo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24984,
+   "d": "brod",
+   "it": [
+    "brodo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24985,
+   "d": "brott",
+   "it": [
+    "brutto"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24986,
+   "d": "brusé",
+   "it": [
+    "bruciare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24987,
+   "d": "bsdèl",
+   "it": [
+    "ospedale"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24988,
+   "d": "buféva",
+   "it": [
+    "sbuffava"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24989,
+   "d": "bulgnàis",
+   "it": [
+    "bolognese"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24990,
+   "d": "bun",
+   "it": [
+    "buoni"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24991,
+   "d": "buràcia",
+   "it": [
+    "borraccia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24992,
+   "d": "burasca",
+   "it": [
+    "burrasca"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24993,
+   "d": "buratàin",
+   "it": [
+    "burattini"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24994,
+   "d": "burdèl",
+   "it": [
+    "bambino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24995,
+   "d": "buron",
+   "it": [
+    "burrone"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24996,
+   "d": "cà",
+   "it": [
+    "casa"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24997,
+   "d": "calèda",
+   "it": [
+    "discesa"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24998,
+   "d": "calor",
+   "it": [
+    "calore"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 24999,
+   "d": "calzédar",
+   "it": [
+    "secchio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25000,
+   "d": "calzun",
+   "it": [
+    "calzoni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25001,
+   "d": "camàin",
+   "it": [
+    "camino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25002,
+   "d": "cambarazza",
+   "it": [
+    "cameraccia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25003,
+   "d": "cambaròt",
+   "it": [
+    "cameretta"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25004,
+   "d": "cambri",
+   "it": [
+    "stanze"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25005,
+   "d": "caminé",
+   "it": [
+    "camminare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25006,
+   "d": "camisa",
+   "it": [
+    "camicia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25007,
+   "d": "camisi",
+   "it": [
+    "camicie"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25008,
+   "d": "campion",
+   "it": [
+    "campione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25009,
+   "d": "cana",
+   "it": [
+    "canna"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25010,
+   "d": "canarèl",
+   "it": [
+    "canapule"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25011,
+   "d": "cantàina",
+   "it": [
+    "cantina"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25012,
+   "d": "cantaràina",
+   "it": [
+    "canterina"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25013,
+   "d": "cantè",
+   "it": [
+    "cantare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25014,
+   "d": "canun",
+   "it": [
+    "cannoni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25015,
+   "d": "canzèl",
+   "it": [
+    "cancello"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25016,
+   "d": "canzunetta",
+   "it": [
+    "canzonetta"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25017,
+   "d": "capana",
+   "it": [
+    "capanna"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25018,
+   "d": "caparioli",
+   "it": [
+    "capriole"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25019,
+   "d": "capèdi",
+   "it": [
+    "scelte"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25020,
+   "d": "capitè",
+   "it": [
+    "capitato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25021,
+   "d": "caplett",
+   "it": [
+    "cappelletti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25022,
+   "d": "caplin",
+   "it": [
+    "cappellino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25023,
+   "d": "caplon",
+   "it": [
+    "capellone"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25024,
+   "d": "capocc",
+   "it": [
+    "cappuccio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25025,
+   "d": "caramèli",
+   "it": [
+    "caramelle"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25026,
+   "d": "caròzi",
+   "it": [
+    "carrozze"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25027,
+   "d": "carpè",
+   "it": [
+    "crepato"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25028,
+   "d": "càrter",
+   "it": [
+    "carter"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25029,
+   "d": "cartlun",
+   "it": [
+    "cartelloni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25030,
+   "d": "carton",
+   "it": [
+    "cartone"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25031,
+   "d": "cartulina",
+   "it": [
+    "cartolina"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25032,
+   "d": "caruvèna",
+   "it": [
+    "carovana"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25033,
+   "d": "caruzína",
+   "it": [
+    "carrozzino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25034,
+   "d": "casamàint",
+   "it": [
+    "casamento"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25035,
+   "d": "càschi",
+   "it": [
+    "cadute"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25036,
+   "d": "castèl",
+   "it": [
+    "castello"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25037,
+   "d": "cavala",
+   "it": [
+    "cavalla"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25038,
+   "d": "cavalir",
+   "it": [
+    "cavaliere"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25039,
+   "d": "cavè",
+   "it": [
+    "tolto"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25040,
+   "d": "celèst",
+   "it": [
+    "celeste"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25041,
+   "d": "celèsta",
+   "it": [
+    "celeste"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25042,
+   "d": "cér",
+   "it": [
+    "chiaro"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25043,
+   "d": "certifichèt",
+   "it": [
+    "certificato"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25044,
+   "d": "chènta",
+   "it": [
+    "canta"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25045,
+   "d": "chèpsèld",
+   "it": [
+    "caposaldo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25046,
+   "d": "chèrta",
+   "it": [
+    "carta"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25047,
+   "d": "chèrti",
+   "it": [
+    "carte"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25048,
+   "d": "chès",
+   "it": [
+    "caso"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25049,
+   "d": "chèsa",
+   "it": [
+    "casa"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25050,
+   "d": "chèsi",
+   "it": [
+    "case"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25051,
+   "d": "chèv",
+   "it": [
+    "fondo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25052,
+   "d": "chèvra",
+   "it": [
+    "capra"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25053,
+   "d": "ciacarini",
+   "it": [
+    "chiacchierine"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25054,
+   "d": "ciapa",
+   "it": [
+    "prende"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25055,
+   "d": "cióf",
+   "it": [
+    "ciuffo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25056,
+   "d": "cióff",
+   "it": [
+    "ciuffi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25057,
+   "d": "cìrcul",
+   "it": [
+    "circolo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25058,
+   "d": "ciùdar",
+   "it": [
+    "chiudere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25059,
+   "d": "ciusa",
+   "it": [
+    "chiusa"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25060,
+   "d": "cnóssar",
+   "it": [
+    "riconoscere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25061,
+   "d": "codi",
+   "it": [
+    "code"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25062,
+   "d": "colt",
+   "it": [
+    "colto"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25063,
+   "d": "commemorazion",
+   "it": [
+    "commemorazioni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25064,
+   "d": "commemorè",
+   "it": [
+    "commemorare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25065,
+   "d": "contravlen",
+   "it": [
+    "contravveleno"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25066,
+   "d": "cordi",
+   "it": [
+    "corde"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25067,
+   "d": "córrar",
+   "it": [
+    "correre"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25068,
+   "d": "còssi",
+   "it": [
+    "cosce"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25069,
+   "d": "cozz",
+   "it": [
+    "cocci"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25070,
+   "d": "crasmott",
+   "it": [
+    "cresimandi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25071,
+   "d": "crecca",
+   "it": [
+    "cricca"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25072,
+   "d": "crédar",
+   "it": [
+    "credere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25073,
+   "d": "crinira",
+   "it": [
+    "criniera"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25074,
+   "d": "crusèri",
+   "it": [
+    "crocicchio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25075,
+   "d": "csé",
+   "it": [
+    "così"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25076,
+   "d": "cugnom",
+   "it": [
+    "cognome"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25077,
+   "d": "culonni",
+   "it": [
+    "colonne"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25078,
+   "d": "culor",
+   "it": [
+    "colore"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25079,
+   "d": "cumessi",
+   "it": [
+    "commesse"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25080,
+   "d": "cumission",
+   "it": [
+    "commissione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25081,
+   "d": "cumpagnia",
+   "it": [
+    "compagnia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25082,
+   "d": "cumparess",
+   "it": [
+    "compare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25083,
+   "d": "cumpersa",
+   "it": [
+    "comparsa"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25084,
+   "d": "cumpòsta",
+   "it": [
+    "composta"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25085,
+   "d": "cunfus",
+   "it": [
+    "confusi"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25086,
+   "d": "cuntadàin",
+   "it": [
+    "contadino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25087,
+   "d": "cuntantezza",
+   "it": [
+    "felicità, contentezza"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25088,
+   "d": "cuntenta",
+   "it": [
+    "contenta"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25089,
+   "d": "cunvent",
+   "it": [
+    "convento"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25090,
+   "d": "cunvuls",
+   "it": [
+    "convulso"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25091,
+   "d": "curàina",
+   "it": [
+    "corina"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25092,
+   "d": "curèt",
+   "it": [
+    "curato"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25093,
+   "d": "curidùr",
+   "it": [
+    "corridoio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25094,
+   "d": "curira",
+   "it": [
+    "corriera"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25095,
+   "d": "curnison",
+   "it": [
+    "cornicione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25096,
+   "d": "curona",
+   "it": [
+    "corona"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25097,
+   "d": "cusàina",
+   "it": [
+    "cucina"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25098,
+   "d": "cùsar",
+   "it": [
+    "cuocere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25099,
+   "d": "cvacé",
+   "it": [
+    "accovacciato"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25100,
+   "d": "cverta",
+   "it": [
+    "coperta"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25101,
+   "d": "dachènt",
+   "it": [
+    "accanto"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25102,
+   "d": "dàintra",
+   "it": [
+    "dentro"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25103,
+   "d": "datond",
+   "it": [
+    "attorno"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25104,
+   "d": "decis",
+   "it": [
+    "deciso"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25105,
+   "d": "deggh",
+   "it": [
+    "dico"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25106,
+   "d": "déntar",
+   "it": [
+    "dentro"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25107,
+   "d": "derelett",
+   "it": [
+    "derelitti"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25108,
+   "d": "desert",
+   "it": [
+    "deserto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25109,
+   "d": "det",
+   "it": [
+    "detto"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25110,
+   "d": "didrìa",
+   "it": [
+    "dietro"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25111,
+   "d": "difati",
+   "it": [
+    "difatti"
+   ],
+   "var": "CE",
+   "cat": "Congiunzione",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25112,
+   "d": "difézil",
+   "it": [
+    "difficile"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25113,
+   "d": "dimension",
+   "it": [
+    "dimensioni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25114,
+   "d": "dinsó",
+   "it": [
+    "insu"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25115,
+   "d": "dintond",
+   "it": [
+    "intorno"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25116,
+   "d": "disàstar",
+   "it": [
+    "disastro"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25117,
+   "d": "dispèt",
+   "it": [
+    "dispetto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25118,
+   "d": "dispett",
+   "it": [
+    "dispetti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25119,
+   "d": "distènza",
+   "it": [
+    "distanza"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25120,
+   "d": "divid",
+   "it": [
+    "divide"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25121,
+   "d": "dmandi",
+   "it": [
+    "domande"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25122,
+   "d": "dmatàina",
+   "it": [
+    "domattina"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25123,
+   "d": "dmenga",
+   "it": [
+    "domenica"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25124,
+   "d": "dol",
+   "it": [
+    "duole"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25125,
+   "d": "dòp",
+   "it": [
+    "dopo"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25126,
+   "d": "dozza",
+   "it": [
+    "grondaia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25127,
+   "d": "drègh",
+   "it": [
+    "drago"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25128,
+   "d": "dretta",
+   "it": [
+    "dritta"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25129,
+   "d": "dri",
+   "it": [
+    "dietro"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25130,
+   "d": "dscurs",
+   "it": [
+    "discorsi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25131,
+   "d": "dulor",
+   "it": [
+    "dolore"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25132,
+   "d": "dunator",
+   "it": [
+    "donatore"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25133,
+   "d": "duni",
+   "it": [
+    "dune"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25134,
+   "d": "durmì",
+   "it": [
+    "dormire"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25135,
+   "d": "dutur",
+   "it": [
+    "dottori"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25136,
+   "d": "duzàina",
+   "it": [
+    "dozzina"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25137,
+   "d": "ecònum",
+   "it": [
+    "economo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25138,
+   "d": "èghi",
+   "it": [
+    "aghi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25139,
+   "d": "elementèri",
+   "it": [
+    "elementare"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25140,
+   "d": "èlt",
+   "it": [
+    "alto"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25141,
+   "d": "èlta",
+   "it": [
+    "alta"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25142,
+   "d": "emènch",
+   "it": [
+    "almeno"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25143,
+   "d": "ènt",
+   "it": [
+    "altro"
+   ],
+   "var": "CE",
+   "cat": "Pronome",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25144,
+   "d": "equèstar",
+   "it": [
+    "equestre"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25145,
+   "d": "érba",
+   "it": [
+    "erba"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25146,
+   "d": "èrca",
+   "it": [
+    "arca"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25147,
+   "d": "èrch",
+   "it": [
+    "archi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25148,
+   "d": "érva",
+   "it": [
+    "apre"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25149,
+   "d": "esèm",
+   "it": [
+    "esami"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25150,
+   "d": "espansion",
+   "it": [
+    "espansione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25151,
+   "d": "èstar",
+   "it": [
+    "estro"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25152,
+   "d": "ètar",
+   "it": [
+    "altro"
+   ],
+   "var": "CE",
+   "cat": "Pronome",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25153,
+   "d": "étri",
+   "it": [
+    "altre"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25154,
+   "d": "fàin",
+   "it": [
+    "fine"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25155,
+   "d": "faméja",
+   "it": [
+    "famiglia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25156,
+   "d": "fantèsma",
+   "it": [
+    "fantasmi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25157,
+   "d": "farabótt",
+   "it": [
+    "farabutti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25158,
+   "d": "fardor",
+   "it": [
+    "raffreddore"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25159,
+   "d": "fàzil",
+   "it": [
+    "facile"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25160,
+   "d": "fazulett",
+   "it": [
+    "fazzoletto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25161,
+   "d": "febrèr",
+   "it": [
+    "febbraio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25162,
+   "d": "fèlzi",
+   "it": [
+    "falci"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25163,
+   "d": "férmi",
+   "it": [
+    "ferme"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25164,
+   "d": "fett",
+   "it": [
+    "fitto"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25165,
+   "d": "fétti",
+   "it": [
+    "fette"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25166,
+   "d": "févra",
+   "it": [
+    "febbre"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25167,
+   "d": "fié",
+   "it": [
+    "puzzo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25168,
+   "d": "finalmaint",
+   "it": [
+    "finalmente"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25169,
+   "d": "finess",
+   "it": [
+    "finisce"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25170,
+   "d": "finimond",
+   "it": [
+    "finimondo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25171,
+   "d": "finistràin",
+   "it": [
+    "finestrino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25172,
+   "d": "fiòch",
+   "it": [
+    "fiocco"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25173,
+   "d": "fira",
+   "it": [
+    "fiera"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25174,
+   "d": "flér",
+   "it": [
+    "filare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25175,
+   "d": "flir",
+   "it": [
+    "filari"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25176,
+   "d": "fóm",
+   "it": [
+    "fumo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25177,
+   "d": "fort",
+   "it": [
+    "forte"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25178,
+   "d": "fòss",
+   "it": [
+    "fosso"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25179,
+   "d": "fradéll",
+   "it": [
+    "fratelli"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25180,
+   "d": "fréd",
+   "it": [
+    "freddo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25181,
+   "d": "frédi",
+   "it": [
+    "fradicie"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25182,
+   "d": "frenca",
+   "it": [
+    "franca"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25183,
+   "d": "frésch",
+   "it": [
+    "fresco"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25184,
+   "d": "frin",
+   "it": [
+    "freni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25185,
+   "d": "frischin",
+   "it": [
+    "frescolino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25186,
+   "d": "frott",
+   "it": [
+    "frutto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25187,
+   "d": "fulett",
+   "it": [
+    "folletto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25188,
+   "d": "fulmin",
+   "it": [
+    "fulmine"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25189,
+   "d": "fumé",
+   "it": [
+    "fumare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25190,
+   "d": "furistir",
+   "it": [
+    "forestiero"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25191,
+   "d": "furor",
+   "it": [
+    "furore"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25192,
+   "d": "galàina",
+   "it": [
+    "gallina"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25193,
+   "d": "galàini",
+   "it": [
+    "galline"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25194,
+   "d": "galett",
+   "it": [
+    "galletto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25195,
+   "d": "galòp",
+   "it": [
+    "galoppo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25196,
+   "d": "gargarìsum",
+   "it": [
+    "gargarismi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25197,
+   "d": "garnèda",
+   "it": [
+    "scopa"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25198,
+   "d": "garpon",
+   "it": [
+    "groppone"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25199,
+   "d": "gata",
+   "it": [
+    "gatta"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25200,
+   "d": "gatt",
+   "it": [
+    "gatto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25201,
+   "d": "gavagna",
+   "it": [
+    "canestro"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25202,
+   "d": "gazèla",
+   "it": [
+    "gazzella"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25203,
+   "d": "géra",
+   "it": [
+    "ghiaia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25204,
+   "d": "giavlett",
+   "it": [
+    "diavoletto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25205,
+   "d": "giazzé",
+   "it": [
+    "ghiacciato"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25206,
+   "d": "giosti",
+   "it": [
+    "giuste"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25207,
+   "d": "gómit",
+   "it": [
+    "gomiti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25208,
+   "d": "gozzla",
+   "it": [
+    "goccia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25209,
+   "d": "grambialòt",
+   "it": [
+    "grembiule"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25210,
+   "d": "gramegna",
+   "it": [
+    "gramigna"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25211,
+   "d": "grap",
+   "it": [
+    "grappolo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25212,
+   "d": "grass",
+   "it": [
+    "grasso"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25213,
+   "d": "grell",
+   "it": [
+    "grilli"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25214,
+   "d": "grèn",
+   "it": [
+    "grano"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25215,
+   "d": "gross",
+   "it": [
+    "grossi"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25216,
+   "d": "guardè",
+   "it": [
+    "guardare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25217,
+   "d": "guastè",
+   "it": [
+    "guastato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25218,
+   "d": "guent",
+   "it": [
+    "guanti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25219,
+   "d": "guidé",
+   "it": [
+    "guidati"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25220,
+   "d": "iluminèda",
+   "it": [
+    "illuminata"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25221,
+   "d": "ilusion",
+   "it": [
+    "illusioni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25222,
+   "d": "imbarchè",
+   "it": [
+    "imbarcati"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25223,
+   "d": "imbroi",
+   "it": [
+    "imbroglio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25224,
+   "d": "imbuschè",
+   "it": [
+    "imboscato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25225,
+   "d": "immascarè",
+   "it": [
+    "mascherati"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25226,
+   "d": "immusida",
+   "it": [
+    "immusonita"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25227,
+   "d": "imparé",
+   "it": [
+    "imparare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25228,
+   "d": "impèt",
+   "it": [
+    "dirimpetto"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25229,
+   "d": "impruvis",
+   "it": [
+    "improvviso"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25230,
+   "d": "impruvisa",
+   "it": [
+    "improvviso"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25231,
+   "d": "inamurè",
+   "it": [
+    "innamorato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25232,
+   "d": "incaminé",
+   "it": [
+    "incamminati"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25233,
+   "d": "incantè",
+   "it": [
+    "incantato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25234,
+   "d": "incaputè",
+   "it": [
+    "incappottato"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25235,
+   "d": "incóntar",
+   "it": [
+    "incontro"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25236,
+   "d": "incórt",
+   "it": [
+    "accorto"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25237,
+   "d": "incrós",
+   "it": [
+    "incrocio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25238,
+   "d": "indàintra",
+   "it": [
+    "dentro"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25239,
+   "d": "indecis",
+   "it": [
+    "indeciso"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25240,
+   "d": "indìmpartott",
+   "it": [
+    "dappertutto"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25241,
+   "d": "indurmantèda",
+   "it": [
+    "addormentata"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25242,
+   "d": "indurmantèdi",
+   "it": [
+    "addormentate"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25243,
+   "d": "infarmira",
+   "it": [
+    "infermiera"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25244,
+   "d": "infilé",
+   "it": [
+    "infilare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25245,
+   "d": "infina",
+   "it": [
+    "fino"
+   ],
+   "var": "CE",
+   "cat": "Altro",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25246,
+   "d": "infiuchè",
+   "it": [
+    "infiocchettato"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25247,
+   "d": "infurchè",
+   "it": [
+    "inforcato"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25248,
+   "d": "inótil",
+   "it": [
+    "inutile"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25249,
+   "d": "inquilàin",
+   "it": [
+    "inquilini"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25250,
+   "d": "insem",
+   "it": [
+    "insieme"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25251,
+   "d": "insugnì",
+   "it": [
+    "sognato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25252,
+   "d": "intènd",
+   "it": [
+    "intendere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25253,
+   "d": "intènt",
+   "it": [
+    "intanto"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25254,
+   "d": "intir",
+   "it": [
+    "intero"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25255,
+   "d": "intis",
+   "it": [
+    "intesi"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25256,
+   "d": "intond",
+   "it": [
+    "attorno"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25257,
+   "d": "intorna",
+   "it": [
+    "attorno"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25258,
+   "d": "inventè",
+   "it": [
+    "inventato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25259,
+   "d": "invenzion",
+   "it": [
+    "invenzione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25260,
+   "d": "invultè",
+   "it": [
+    "avvolti"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25261,
+   "d": "inzegn",
+   "it": [
+    "ingegno"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25262,
+   "d": "ìtar",
+   "it": [
+    "altri"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25263,
+   "d": "jir",
+   "it": [
+    "ieri"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25264,
+   "d": "lampion",
+   "it": [
+    "lampione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25265,
+   "d": "lampiun",
+   "it": [
+    "lampioni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25266,
+   "d": "lanzul",
+   "it": [
+    "lenzuoli"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25267,
+   "d": "lat",
+   "it": [
+    "latte"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25268,
+   "d": "lavor",
+   "it": [
+    "lavoro"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25269,
+   "d": "lébar",
+   "it": [
+    "libero"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25270,
+   "d": "lèdar",
+   "it": [
+    "ladro"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25271,
+   "d": "legn",
+   "it": [
+    "legno"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25272,
+   "d": "lèmp",
+   "it": [
+    "lampo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25273,
+   "d": "lèna",
+   "it": [
+    "lana"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25274,
+   "d": "léngua",
+   "it": [
+    "lingua"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25275,
+   "d": "lènzi",
+   "it": [
+    "lance"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25276,
+   "d": "leon",
+   "it": [
+    "leone"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25277,
+   "d": "lèrga",
+   "it": [
+    "larga"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25278,
+   "d": "lèrgh",
+   "it": [
+    "largo"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25279,
+   "d": "lodla",
+   "it": [
+    "allodola"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25280,
+   "d": "lói",
+   "it": [
+    "luglio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25281,
+   "d": "longa",
+   "it": [
+    "lunga"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25282,
+   "d": "longh",
+   "it": [
+    "lungo"
+   ],
+   "var": "CE",
+   "cat": "Altro",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25283,
+   "d": "longhi",
+   "it": [
+    "lunghe"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25284,
+   "d": "lóss",
+   "it": [
+    "lusso"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25285,
+   "d": "lóstar",
+   "it": [
+    "lucido"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25286,
+   "d": "lumagun",
+   "it": [
+    "lumaconi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25287,
+   "d": "luméghi",
+   "it": [
+    "lumache"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25288,
+   "d": "lumin",
+   "it": [
+    "lumicini"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25289,
+   "d": "luntanènza",
+   "it": [
+    "lontananza"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25290,
+   "d": "luntèn",
+   "it": [
+    "lontano"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25291,
+   "d": "luntèna",
+   "it": [
+    "lontana"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25292,
+   "d": "madsàini",
+   "it": [
+    "medicine"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25293,
+   "d": "màintar",
+   "it": [
+    "mentre"
+   ],
+   "var": "CE",
+   "cat": "Congiunzione",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25294,
+   "d": "malan",
+   "it": [
+    "malanno"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25295,
+   "d": "malèda",
+   "it": [
+    "malata"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25296,
+   "d": "malegna",
+   "it": [
+    "maligna"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25297,
+   "d": "malincunia",
+   "it": [
+    "malinconia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25298,
+   "d": "mana",
+   "it": [
+    "manna"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25299,
+   "d": "mandulàin",
+   "it": [
+    "mandolini"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25300,
+   "d": "manéglia",
+   "it": [
+    "maniglia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25301,
+   "d": "mangh",
+   "it": [
+    "manico"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25302,
+   "d": "manifèst",
+   "it": [
+    "manifesto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25303,
+   "d": "manira",
+   "it": [
+    "maniera"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25304,
+   "d": "mantela",
+   "it": [
+    "mantella"
+   ],
+   "var": "CE",
+   "cat": "Locuzione",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25305,
+   "d": "maràina",
+   "it": [
+    "mare"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25306,
+   "d": "marinèr",
+   "it": [
+    "marinai"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25307,
+   "d": "mascra",
+   "it": [
+    "maschera"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25308,
+   "d": "mat",
+   "it": [
+    "matto"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25309,
+   "d": "mata",
+   "it": [
+    "matta"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25310,
+   "d": "matàina",
+   "it": [
+    "mattina"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25311,
+   "d": "matàini",
+   "it": [
+    "mattine"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25312,
+   "d": "matassi",
+   "it": [
+    "matasse"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25313,
+   "d": "maz",
+   "it": [
+    "maggio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25314,
+   "d": "mell",
+   "it": [
+    "mille"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25315,
+   "d": "memória",
+   "it": [
+    "memoria"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25316,
+   "d": "mènch",
+   "it": [
+    "meno"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25317,
+   "d": "mèr",
+   "it": [
+    "mare"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25318,
+   "d": "meridiunèl",
+   "it": [
+    "meridionale"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25319,
+   "d": "mèrza",
+   "it": [
+    "marcia"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25320,
+   "d": "més",
+   "it": [
+    "mese"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25321,
+   "d": "métar",
+   "it": [
+    "metro"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25322,
+   "d": "métt",
+   "it": [
+    "mettere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25323,
+   "d": "méttar",
+   "it": [
+    "mettere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25324,
+   "d": "mèza",
+   "it": [
+    "mezza"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25325,
+   "d": "mezdé",
+   "it": [
+    "mezzogiorno"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25326,
+   "d": "miéra",
+   "it": [
+    "migliaia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25327,
+   "d": "minud",
+   "it": [
+    "minuti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25328,
+   "d": "momàint",
+   "it": [
+    "momento"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25329,
+   "d": "monumàint",
+   "it": [
+    "monumento"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25330,
+   "d": "mòra",
+   "it": [
+    "mora"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25331,
+   "d": "mòssa",
+   "it": [
+    "mossa"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25332,
+   "d": "móstar",
+   "it": [
+    "mostro"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25333,
+   "d": "motociclesta",
+   "it": [
+    "motociclisti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25334,
+   "d": "mulàina",
+   "it": [
+    "mulinello"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25335,
+   "d": "munt",
+   "it": [
+    "monti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25336,
+   "d": "muntagni",
+   "it": [
+    "montagne"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25337,
+   "d": "murajetta",
+   "it": [
+    "muretto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25338,
+   "d": "murs",
+   "it": [
+    "morsi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25339,
+   "d": "mutiv",
+   "it": [
+    "motivo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25340,
+   "d": "muturin",
+   "it": [
+    "motorino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25341,
+   "d": "nass",
+   "it": [
+    "nasce"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25342,
+   "d": "nàssar",
+   "it": [
+    "nascere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25343,
+   "d": "nàstar",
+   "it": [
+    "nastro"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25344,
+   "d": "nébbia",
+   "it": [
+    "nebbia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25345,
+   "d": "nèd",
+   "it": [
+    "nato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25346,
+   "d": "nèda",
+   "it": [
+    "nata"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25347,
+   "d": "néva",
+   "it": [
+    "neve"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25348,
+   "d": "nibiarlàina",
+   "it": [
+    "nebbiolina"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25349,
+   "d": "nid",
+   "it": [
+    "nido"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25350,
+   "d": "nira",
+   "it": [
+    "nera"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25351,
+   "d": "niri",
+   "it": [
+    "nere"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25352,
+   "d": "nissona",
+   "it": [
+    "nessuna"
+   ],
+   "var": "CE",
+   "cat": "Altro",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25353,
+   "d": "nod",
+   "it": [
+    "nodo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25354,
+   "d": "nòna",
+   "it": [
+    "nonna"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25355,
+   "d": "nòti",
+   "it": [
+    "notti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25356,
+   "d": "nud",
+   "it": [
+    "nudo"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25357,
+   "d": "nutizia",
+   "it": [
+    "notizia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25358,
+   "d": "nuvità",
+   "it": [
+    "novità"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25359,
+   "d": "nuvli",
+   "it": [
+    "nuvole"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25360,
+   "d": "obelésch",
+   "it": [
+    "obelisco"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25361,
+   "d": "óli",
+   "it": [
+    "olio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25362,
+   "d": "óngi",
+   "it": [
+    "unghie"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25363,
+   "d": "ópra",
+   "it": [
+    "opera"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25364,
+   "d": "orator",
+   "it": [
+    "oratore"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25365,
+   "d": "órdin",
+   "it": [
+    "ordine"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25366,
+   "d": "ort",
+   "it": [
+    "orto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25367,
+   "d": "oscuramàint",
+   "it": [
+    "oscuramento"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25368,
+   "d": "pàin",
+   "it": [
+    "pane"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25369,
+   "d": "paja",
+   "it": [
+    "paglia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25370,
+   "d": "palazz",
+   "it": [
+    "palazzi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25371,
+   "d": "palini",
+   "it": [
+    "palline"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25372,
+   "d": "palmon",
+   "it": [
+    "polmone"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25373,
+   "d": "palmun",
+   "it": [
+    "polmoni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25374,
+   "d": "palmunita",
+   "it": [
+    "polmonite"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25375,
+   "d": "panòci",
+   "it": [
+    "pannocchie"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25376,
+   "d": "parafangh",
+   "it": [
+    "parafango"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25377,
+   "d": "parent",
+   "it": [
+    "parente"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25378,
+   "d": "parfina",
+   "it": [
+    "perfino"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25379,
+   "d": "paròchia",
+   "it": [
+    "parrocchia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25380,
+   "d": "parsunira",
+   "it": [
+    "prigioniera"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25381,
+   "d": "partida",
+   "it": [
+    "partita"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25382,
+   "d": "pasdmén",
+   "it": [
+    "dopodomani"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25383,
+   "d": "passaròt",
+   "it": [
+    "passero"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25384,
+   "d": "passesta",
+   "it": [
+    "passista"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25385,
+   "d": "passì",
+   "it": [
+    "passate"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25386,
+   "d": "passion",
+   "it": [
+    "passione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25387,
+   "d": "pastròc",
+   "it": [
+    "pastrocchio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25388,
+   "d": "pedalè",
+   "it": [
+    "pedalare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25389,
+   "d": "pedalèda",
+   "it": [
+    "pedalata"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25390,
+   "d": "pèlmi",
+   "it": [
+    "palme"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25391,
+   "d": "pèmpní",
+   "it": [
+    "pampini"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25392,
+   "d": "pènd",
+   "it": [
+    "pende"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25393,
+   "d": "penni",
+   "it": [
+    "penne"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25394,
+   "d": "pens",
+   "it": [
+    "penso"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25395,
+   "d": "pensè",
+   "it": [
+    "pensare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25396,
+   "d": "pension",
+   "it": [
+    "pensione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25397,
+   "d": "pensionè",
+   "it": [
+    "pensionato"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25398,
+   "d": "pensir",
+   "it": [
+    "pensieri"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25399,
+   "d": "péppi",
+   "it": [
+    "pipe"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25400,
+   "d": "pérd",
+   "it": [
+    "perdere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25401,
+   "d": "perméttar",
+   "it": [
+    "permettere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25402,
+   "d": "pérs",
+   "it": [
+    "perduto"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25403,
+   "d": "pèrs",
+   "it": [
+    "parso"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25404,
+   "d": "pérsa",
+   "it": [
+    "perduta"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25405,
+   "d": "personag",
+   "it": [
+    "personaggio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25406,
+   "d": "personèl",
+   "it": [
+    "personale"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25407,
+   "d": "pés",
+   "it": [
+    "peso"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25408,
+   "d": "pesènt",
+   "it": [
+    "pesante"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25409,
+   "d": "pésgh",
+   "it": [
+    "pesco"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25410,
+   "d": "pess",
+   "it": [
+    "pesci"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25411,
+   "d": "pèsta",
+   "it": [
+    "peste"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25412,
+   "d": "pèzz",
+   "it": [
+    "pezzo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25413,
+   "d": "pgnati",
+   "it": [
+    "pentole"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25414,
+   "d": "pianàin",
+   "it": [
+    "pian"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25415,
+   "d": "piantè",
+   "it": [
+    "piantato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25416,
+   "d": "pianz",
+   "it": [
+    "piange"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25417,
+   "d": "piéna",
+   "it": [
+    "pianura"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25418,
+   "d": "piénta",
+   "it": [
+    "pianta"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25419,
+   "d": "piligràin",
+   "it": [
+    "pellegrini"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25420,
+   "d": "pín",
+   "it": [
+    "pieno"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25421,
+   "d": "pióma",
+   "it": [
+    "piuma"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25422,
+   "d": "piomb",
+   "it": [
+    "piombo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25423,
+   "d": "piomi",
+   "it": [
+    "piume"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25424,
+   "d": "piotòst",
+   "it": [
+    "piuttosto"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25425,
+   "d": "piov",
+   "it": [
+    "piove"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25426,
+   "d": "pióvar",
+   "it": [
+    "piovere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25427,
+   "d": "pjìs",
+   "it": [
+    "piace"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25428,
+   "d": "poesii",
+   "it": [
+    "poesie"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25429,
+   "d": "póll",
+   "it": [
+    "pollo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25430,
+   "d": "pols",
+   "it": [
+    "polso"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25431,
+   "d": "pont",
+   "it": [
+    "ponte"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25432,
+   "d": "port",
+   "it": [
+    "porto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25433,
+   "d": "pórti",
+   "it": [
+    "porte"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25434,
+   "d": "pòss",
+   "it": [
+    "posso"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25435,
+   "d": "póvar",
+   "it": [
+    "povero"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25436,
+   "d": "povra",
+   "it": [
+    "povera"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25437,
+   "d": "pozz",
+   "it": [
+    "pozzo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25438,
+   "d": "pràim",
+   "it": [
+    "primo"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25439,
+   "d": "pràima",
+   "it": [
+    "prima"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25440,
+   "d": "pranzìpia",
+   "it": [
+    "inizia"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25441,
+   "d": "prè",
+   "it": [
+    "prato"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25442,
+   "d": "premavera",
+   "it": [
+    "primavera"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25443,
+   "d": "preparè",
+   "it": [
+    "preparato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25444,
+   "d": "prepotént",
+   "it": [
+    "prepotente"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25445,
+   "d": "pressiena",
+   "it": [
+    "persiana"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25446,
+   "d": "prit",
+   "it": [
+    "prete"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25447,
+   "d": "pròssum",
+   "it": [
+    "prossimo"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25448,
+   "d": "prugèt",
+   "it": [
+    "progetto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25449,
+   "d": "pulética",
+   "it": [
+    "politica"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25450,
+   "d": "pulpetta",
+   "it": [
+    "polpetta"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25451,
+   "d": "pultrona",
+   "it": [
+    "poltrona"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25452,
+   "d": "púrgat",
+   "it": [
+    "portico"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25453,
+   "d": "purgatóri",
+   "it": [
+    "purgatorio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25454,
+   "d": "purtè",
+   "it": [
+    "portare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25455,
+   "d": "purtission",
+   "it": [
+    "processione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25456,
+   "d": "pùvar",
+   "it": [
+    "poveri"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25457,
+   "d": "qualca",
+   "it": [
+    "qualche"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25458,
+   "d": "qualcadun",
+   "it": [
+    "qualcuno"
+   ],
+   "var": "CE",
+   "cat": "Pronome",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25459,
+   "d": "qualquèl",
+   "it": [
+    "qualcosa"
+   ],
+   "var": "CE",
+   "cat": "Pronome",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25460,
+   "d": "quant",
+   "it": [
+    "quanto"
+   ],
+   "var": "CE",
+   "cat": "Pronome",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25461,
+   "d": "quis-cion",
+   "it": [
+    "questione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25462,
+   "d": "racunt",
+   "it": [
+    "racconti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25463,
+   "d": "ragazzol",
+   "it": [
+    "ragazzo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25464,
+   "d": "rapèda",
+   "it": [
+    "salita"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25465,
+   "d": "rasent",
+   "it": [
+    "rasente"
+   ],
+   "var": "CE",
+   "cat": "Altro",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25466,
+   "d": "réni",
+   "it": [
+    "reni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25467,
+   "d": "rèst",
+   "it": [
+    "resto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25468,
+   "d": "ricreazion",
+   "it": [
+    "ricreazione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25469,
+   "d": "ridenta",
+   "it": [
+    "ridente"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25470,
+   "d": "riflèss",
+   "it": [
+    "riflesso"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25471,
+   "d": "rimbèlza",
+   "it": [
+    "rimbalza"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25472,
+   "d": "rimpidi",
+   "it": [
+    "riempite"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25473,
+   "d": "rispiré",
+   "it": [
+    "respirare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25474,
+   "d": "rivi",
+   "it": [
+    "rive"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25475,
+   "d": "rócchi",
+   "it": [
+    "rocche"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25476,
+   "d": "rozna",
+   "it": [
+    "ruggine"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25477,
+   "d": "rspost",
+   "it": [
+    "risposto"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25478,
+   "d": "rubàin",
+   "it": [
+    "robinia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25479,
+   "d": "rumagnol",
+   "it": [
+    "romagnolo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25480,
+   "d": "rumagnul",
+   "it": [
+    "romagnoli"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25481,
+   "d": "rundanàini",
+   "it": [
+    "rondini"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25482,
+   "d": "rundlèda",
+   "it": [
+    "randellata"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25483,
+   "d": "rundon",
+   "it": [
+    "rondone"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25484,
+   "d": "ruvrèla",
+   "it": [
+    "roverella"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25485,
+   "d": "s-cetta",
+   "it": [
+    "schietta"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25486,
+   "d": "s-ciòch",
+   "it": [
+    "schiocco"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25487,
+   "d": "s-ciuchè",
+   "it": [
+    "schioccare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25488,
+   "d": "s-ciuchéva",
+   "it": [
+    "schioccava"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25489,
+   "d": "sàbia",
+   "it": [
+    "sabbia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25490,
+   "d": "sajetta",
+   "it": [
+    "saetta"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25491,
+   "d": "saltè",
+   "it": [
+    "saltare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25492,
+   "d": "salut",
+   "it": [
+    "saluto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25493,
+   "d": "saluté",
+   "it": [
+    "salutare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25494,
+   "d": "sanatóri",
+   "it": [
+    "sanatorio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25495,
+   "d": "santís",
+   "it": [
+    "sentirsi"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25496,
+   "d": "sanzveís",
+   "it": [
+    "sangiovese"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25497,
+   "d": "sardun",
+   "it": [
+    "sardoni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25498,
+   "d": "sbatt",
+   "it": [
+    "sbattere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25499,
+   "d": "scantarlè",
+   "it": [
+    "canticchiare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25500,
+   "d": "scat",
+   "it": [
+    "scatto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25501,
+   "d": "scavalchè",
+   "it": [
+    "scavalcare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25502,
+   "d": "sceni",
+   "it": [
+    "scene"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25503,
+   "d": "schèla",
+   "it": [
+    "scala"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25504,
+   "d": "schérz",
+   "it": [
+    "scherzo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25505,
+   "d": "scienzié",
+   "it": [
+    "scienziati"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25506,
+   "d": "sciérpa",
+   "it": [
+    "sciarpa"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25507,
+   "d": "scóli",
+   "it": [
+    "scuola"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25508,
+   "d": "scórs",
+   "it": [
+    "discorso"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25509,
+   "d": "scrìvar",
+   "it": [
+    "scrivere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25510,
+   "d": "scròla",
+   "it": [
+    "scrolla"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25511,
+   "d": "scrulon",
+   "it": [
+    "crollo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25512,
+   "d": "scud",
+   "it": [
+    "scudi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25513,
+   "d": "scuntrosa",
+   "it": [
+    "scontrosa"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25514,
+   "d": "scurdè",
+   "it": [
+    "dimenticato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25515,
+   "d": "scuzzes",
+   "it": [
+    "scozzese"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25516,
+   "d": "scvert",
+   "it": [
+    "scoperti"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25517,
+   "d": "sèla",
+   "it": [
+    "sala"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25518,
+   "d": "sèlt",
+   "it": [
+    "salto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25519,
+   "d": "sémmia",
+   "it": [
+    "scimmia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25520,
+   "d": "sèn",
+   "it": [
+    "sani"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25521,
+   "d": "sèna",
+   "it": [
+    "sana"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25522,
+   "d": "séndich",
+   "it": [
+    "sindaco"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25523,
+   "d": "sènt",
+   "it": [
+    "santo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25524,
+   "d": "sènta",
+   "it": [
+    "santa"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25525,
+   "d": "sgancé",
+   "it": [
+    "sganciato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25526,
+   "d": "sgangarèda",
+   "it": [
+    "sgangherata"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25527,
+   "d": "sgantàina",
+   "it": [
+    "segatura"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25528,
+   "d": "sgnora",
+   "it": [
+    "signora"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25529,
+   "d": "sgond",
+   "it": [
+    "secondo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25530,
+   "d": "sgonda",
+   "it": [
+    "seconda"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25531,
+   "d": "sgrafagn",
+   "it": [
+    "graffi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25532,
+   "d": "sgrazjida",
+   "it": [
+    "disgraziata"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25533,
+   "d": "sgrèzji",
+   "it": [
+    "disgrazie"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25534,
+   "d": "siérpa",
+   "it": [
+    "sciarpa"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25535,
+   "d": "slancunè",
+   "it": [
+    "sciancati"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25536,
+   "d": "slarghè",
+   "it": [
+    "allargare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25537,
+   "d": "smàinta",
+   "it": [
+    "semente"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25538,
+   "d": "smarì",
+   "it": [
+    "smarrito"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25539,
+   "d": "smarida",
+   "it": [
+    "smarrita"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25540,
+   "d": "smarìs",
+   "it": [
+    "smarrirsi"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25541,
+   "d": "smatarèda",
+   "it": [
+    "stramazzata"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25542,
+   "d": "smett",
+   "it": [
+    "smettere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25543,
+   "d": "sóbit",
+   "it": [
+    "subito"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25544,
+   "d": "sòn",
+   "it": [
+    "sonno"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25545,
+   "d": "sorapensir",
+   "it": [
+    "soprapensiero"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25546,
+   "d": "spagnera",
+   "it": [
+    "erba spagna"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25547,
+   "d": "spàin",
+   "it": [
+    "spini"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25548,
+   "d": "spalanchèda",
+   "it": [
+    "spalancata"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25549,
+   "d": "sparagné",
+   "it": [
+    "risparmiare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25550,
+   "d": "sparè",
+   "it": [
+    "sparare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25551,
+   "d": "spass",
+   "it": [
+    "spasso"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25552,
+   "d": "spavent",
+   "it": [
+    "spavento"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25553,
+   "d": "spèc",
+   "it": [
+    "specchio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25554,
+   "d": "speciel",
+   "it": [
+    "speciale"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25555,
+   "d": "spèda",
+   "it": [
+    "spada"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25556,
+   "d": "spèr",
+   "it": [
+    "spari"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25557,
+   "d": "spérsi",
+   "it": [
+    "sperdute"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25558,
+   "d": "spess",
+   "it": [
+    "spesso"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25559,
+   "d": "spianèda",
+   "it": [
+    "spianata"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25560,
+   "d": "spondi",
+   "it": [
+    "sponde"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25561,
+   "d": "spron",
+   "it": [
+    "sprone"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25562,
+   "d": "spunté",
+   "it": [
+    "spuntare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25563,
+   "d": "spurtèl",
+   "it": [
+    "sportello"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25564,
+   "d": "spurtivi",
+   "it": [
+    "sportive"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25565,
+   "d": "spusè",
+   "it": [
+    "sposare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25566,
+   "d": "stamatàina",
+   "it": [
+    "stamattina"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25567,
+   "d": "staràla",
+   "it": [
+    "stara"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25568,
+   "d": "stés",
+   "it": [
+    "steso"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25569,
+   "d": "stmèna",
+   "it": [
+    "settimana"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25570,
+   "d": "stof",
+   "it": [
+    "stufi"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25571,
+   "d": "strach",
+   "it": [
+    "stanco"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25572,
+   "d": "strell",
+   "it": [
+    "strilli"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25573,
+   "d": "strett",
+   "it": [
+    "stretti"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25574,
+   "d": "strid",
+   "it": [
+    "stridio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25575,
+   "d": "strighi",
+   "it": [
+    "streghe"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25576,
+   "d": "sudizion",
+   "it": [
+    "soggezione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25577,
+   "d": "sufett",
+   "it": [
+    "soffitto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25578,
+   "d": "sufì",
+   "it": [
+    "soffiato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25579,
+   "d": "sulitèria",
+   "it": [
+    "solitaria"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25580,
+   "d": "sunadur",
+   "it": [
+    "suonatori"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25581,
+   "d": "sunè",
+   "it": [
+    "suonare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25582,
+   "d": "sunèda",
+   "it": [
+    "suonata"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25583,
+   "d": "sureli",
+   "it": [
+    "sorelle"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25584,
+   "d": "surtéja",
+   "it": [
+    "sorgente"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25585,
+   "d": "sutèni",
+   "it": [
+    "sottane"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25586,
+   "d": "svanéss",
+   "it": [
+    "svanisce"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25587,
+   "d": "svegg",
+   "it": [
+    "sveglio"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25588,
+   "d": "sveggia",
+   "it": [
+    "sveglia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25589,
+   "d": "svilt",
+   "it": [
+    "svelti"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25590,
+   "d": "svuìt",
+   "it": [
+    "vuoto"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25591,
+   "d": "svùiti",
+   "it": [
+    "vuote"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25592,
+   "d": "taca",
+   "it": [
+    "comincia"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25593,
+   "d": "tach",
+   "it": [
+    "cominciato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25594,
+   "d": "tambur",
+   "it": [
+    "tamburo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25595,
+   "d": "tarbién",
+   "it": [
+    "trebbiano"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25596,
+   "d": "tavulàin",
+   "it": [
+    "tavolino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25597,
+   "d": "temporèl",
+   "it": [
+    "temporale"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25598,
+   "d": "tènt",
+   "it": [
+    "tanti"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25599,
+   "d": "tentazion",
+   "it": [
+    "tentazione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25600,
+   "d": "tèrd",
+   "it": [
+    "tardi"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25601,
+   "d": "tèsta",
+   "it": [
+    "testa"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25602,
+   "d": "tèsti",
+   "it": [
+    "teste"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25603,
+   "d": "tetul",
+   "it": [
+    "titolo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25604,
+   "d": "tinazz",
+   "it": [
+    "tino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25605,
+   "d": "tinèl",
+   "it": [
+    "tinello"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25606,
+   "d": "tlaragna",
+   "it": [
+    "ragnatela"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25607,
+   "d": "tócch",
+   "it": [
+    "tocchi"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25608,
+   "d": "tolt",
+   "it": [
+    "preso"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25609,
+   "d": "tond",
+   "it": [
+    "tondo"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25610,
+   "d": "tòpi",
+   "it": [
+    "toppe"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25611,
+   "d": "tórna",
+   "it": [
+    "attorno"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25612,
+   "d": "traditora",
+   "it": [
+    "traditrice"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25613,
+   "d": "traguèrd",
+   "it": [
+    "traguardo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25614,
+   "d": "tramuntena",
+   "it": [
+    "tramontana"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25615,
+   "d": "trapiént",
+   "it": [
+    "trapianto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25616,
+   "d": "trasfusion",
+   "it": [
+    "trasfusione"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25617,
+   "d": "trasparénta",
+   "it": [
+    "trasparente"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25618,
+   "d": "trasparéss",
+   "it": [
+    "traspare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25619,
+   "d": "trasparint",
+   "it": [
+    "trasparenti"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25620,
+   "d": "travarsè",
+   "it": [
+    "attraversare"
+   ],
+   "var": "CE",
+   "cat": "Locuzione",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25621,
+   "d": "trezza",
+   "it": [
+    "treccia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25622,
+   "d": "trézzi",
+   "it": [
+    "trecce"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25623,
+   "d": "tròpa",
+   "it": [
+    "troppa"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25624,
+   "d": "truvèda",
+   "it": [
+    "trovata"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25625,
+   "d": "tuchè",
+   "it": [
+    "toccare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25626,
+   "d": "turnè",
+   "it": [
+    "tornare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25627,
+   "d": "tuschèn",
+   "it": [
+    "toscano"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25628,
+   "d": "ucil",
+   "it": [
+    "occhiali"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25629,
+   "d": "ucin",
+   "it": [
+    "occhietti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25630,
+   "d": "udor",
+   "it": [
+    "odore"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25631,
+   "d": "uliv",
+   "it": [
+    "ulivi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25632,
+   "d": "ultma",
+   "it": [
+    "ultima"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25633,
+   "d": "univérs",
+   "it": [
+    "universo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25634,
+   "d": "uréccia",
+   "it": [
+    "orecchio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25635,
+   "d": "urèl",
+   "it": [
+    "orlo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25636,
+   "d": "urganàin",
+   "it": [
+    "organetto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25637,
+   "d": "vandemma",
+   "it": [
+    "vendemmia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25638,
+   "d": "vandmadur",
+   "it": [
+    "vendemmiatori"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25639,
+   "d": "vdé",
+   "it": [
+    "vedere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25640,
+   "d": "vècia",
+   "it": [
+    "vecchia"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25641,
+   "d": "véggh",
+   "it": [
+    "vedo"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25642,
+   "d": "vél",
+   "it": [
+    "velo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25643,
+   "d": "velocesta",
+   "it": [
+    "velocista"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25644,
+   "d": "vènd",
+   "it": [
+    "vendere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25645,
+   "d": "vengh",
+   "it": [
+    "vengo"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25646,
+   "d": "verd",
+   "it": [
+    "verde"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25647,
+   "d": "verda",
+   "it": [
+    "verde"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25648,
+   "d": "verdì",
+   "it": [
+    "verde"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25649,
+   "d": "vert",
+   "it": [
+    "aperto"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25650,
+   "d": "vésta",
+   "it": [
+    "vista"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25651,
+   "d": "viél",
+   "it": [
+    "viale"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25652,
+   "d": "vigliun",
+   "it": [
+    "veglioni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25653,
+   "d": "vióli",
+   "it": [
+    "viole"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25654,
+   "d": "vird",
+   "it": [
+    "verdi"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25655,
+   "d": "virs",
+   "it": [
+    "versi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25656,
+   "d": "vitoria",
+   "it": [
+    "vittoria"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25657,
+   "d": "vitorji",
+   "it": [
+    "vittorie"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25658,
+   "d": "viulàin",
+   "it": [
+    "violino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25659,
+   "d": "vivar",
+   "it": [
+    "vivere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25660,
+   "d": "vlin",
+   "it": [
+    "veleni"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25661,
+   "d": "vlù",
+   "it": [
+    "voluto"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25662,
+   "d": "vluntira",
+   "it": [
+    "volentieri"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25663,
+   "d": "vnì",
+   "it": [
+    "venire"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25664,
+   "d": "vnù",
+   "it": [
+    "venuto"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25665,
+   "d": "voj",
+   "it": [
+    "voglio"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25666,
+   "d": "vol",
+   "it": [
+    "volo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25667,
+   "d": "vosa",
+   "it": [
+    "voce"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25668,
+   "d": "vulèda",
+   "it": [
+    "volata"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25669,
+   "d": "vulènt",
+   "it": [
+    "volante"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25670,
+   "d": "vulènti",
+   "it": [
+    "volanti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25671,
+   "d": "vultèda",
+   "it": [
+    "svolta"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25672,
+   "d": "zaferèn",
+   "it": [
+    "zafferano"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25673,
+   "d": "zal",
+   "it": [
+    "gialli"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25674,
+   "d": "zala",
+   "it": [
+    "gialla"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25675,
+   "d": "zali",
+   "it": [
+    "gialle"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25676,
+   "d": "zarchè",
+   "it": [
+    "cercare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25677,
+   "d": "zarmoja",
+   "it": [
+    "germoglia"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25678,
+   "d": "zarvèl",
+   "it": [
+    "cervello"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25679,
+   "d": "zé",
+   "it": [
+    "zio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25680,
+   "d": "zénar",
+   "it": [
+    "cenere"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25681,
+   "d": "zènd",
+   "it": [
+    "accendere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25682,
+   "d": "zenti",
+   "it": [
+    "gente"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25683,
+   "d": "Zenza",
+   "it": [
+    "senza"
+   ],
+   "var": "CE",
+   "cat": "Altro",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25684,
+   "d": "zerta",
+   "it": [
+    "certa"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25685,
+   "d": "zetti",
+   "it": [
+    "zitte"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25686,
+   "d": "zigaretti",
+   "it": [
+    "sigarette"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25687,
+   "d": "zipréss",
+   "it": [
+    "cipressi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25688,
+   "d": "zirasul",
+   "it": [
+    "girasoli"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25689,
+   "d": "znina",
+   "it": [
+    "piccola"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25690,
+   "d": "znòc",
+   "it": [
+    "ginocchio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25691,
+   "d": "zó",
+   "it": [
+    "giù"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25692,
+   "d": "zóbia",
+   "it": [
+    "giovedì"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25693,
+   "d": "zris",
+   "it": [
+    "ciliegio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25694,
+   "d": "zucun",
+   "it": [
+    "zucconi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25695,
+   "d": "zurnèda",
+   "it": [
+    "giornata"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25696,
+   "d": "zuvnòt",
+   "it": [
+    "giovanotto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25697,
+   "d": "zuvnott",
+   "it": [
+    "giovanotti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25698,
+   "d": "abrazzadóni",
+   "it": [
+    "abbracci"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25699,
+   "d": "abrazzedi",
+   "it": [
+    "abbracciate"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25700,
+   "d": "abrazzès",
+   "it": [
+    "abbracciare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25701,
+   "d": "afazè",
+   "it": [
+    "affacciato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25702,
+   "d": "aglion",
+   "it": [
+    "solleone"
+   ],
+   "var": "CE",
+   "cat": "Locuzione",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25703,
+   "d": "agunìa",
+   "it": [
+    "agonizzante"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25704,
+   "d": "anibjì",
+   "it": [
+    "velati"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25705,
+   "d": "antiga",
+   "it": [
+    "antica"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25706,
+   "d": "anvod",
+   "it": [
+    "nipote"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25707,
+   "d": "apuzè",
+   "it": [
+    "appoggiato"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25708,
+   "d": "arbajun",
+   "it": [
+    "erbe selvatiche"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25709,
+   "d": "ariveda",
+   "it": [
+    "arrivata"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25710,
+   "d": "arlusór",
+   "it": [
+    "luccicore"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25711,
+   "d": "armadura",
+   "it": [
+    "armatura"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25712,
+   "d": "avantur",
+   "it": [
+    "clienti"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25713,
+   "d": "averti",
+   "it": [
+    "aperte"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25714,
+   "d": "avril",
+   "it": [
+    "aprile"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25715,
+   "d": "bambès",
+   "it": [
+    "bambagia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25716,
+   "d": "biéduli",
+   "it": [
+    "bietole"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25717,
+   "d": "bottasó",
+   "it": [
+    "parapiglia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25718,
+   "d": "bulèda",
+   "it": [
+    "chiazza"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25719,
+   "d": "busìi",
+   "it": [
+    "bugie"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25720,
+   "d": "buteda",
+   "it": [
+    "gettata"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25721,
+   "d": "calzàina",
+   "it": [
+    "calce"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25722,
+   "d": "cambaron",
+   "it": [
+    "stanzone"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25723,
+   "d": "ciapèdi",
+   "it": [
+    "prese"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25724,
+   "d": "cumbinazion",
+   "it": [
+    "caso"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25725,
+   "d": "donca",
+   "it": [
+    "dunque"
+   ],
+   "var": "CE",
+   "cat": "Congiunzione",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25726,
+   "d": "filaràin",
+   "it": [
+    "corteggiatore"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25727,
+   "d": "finida",
+   "it": [
+    "finita"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25728,
+   "d": "fiurida",
+   "it": [
+    "fiorita"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25729,
+   "d": "froll",
+   "it": [
+    "volteggio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25730,
+   "d": "fuméda",
+   "it": [
+    "fumata"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25731,
+   "d": "furzàina",
+   "it": [
+    "forchetta"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25732,
+   "d": "gagína",
+   "it": [
+    "rossina"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25733,
+   "d": "ganassa",
+   "it": [
+    "guancia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25734,
+   "d": "garganèl",
+   "it": [
+    "gola"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25735,
+   "d": "giazz",
+   "it": [
+    "ghiaccio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25736,
+   "d": "imbadarlès",
+   "it": [
+    "gingillarsi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25737,
+   "d": "incazzè",
+   "it": [
+    "incavolato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25738,
+   "d": "inchènta",
+   "it": [
+    "fermi"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25739,
+   "d": "infrunté",
+   "it": [
+    "indovinate"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25740,
+   "d": "infughidi",
+   "it": [
+    "infuocate"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25741,
+   "d": "inglupett",
+   "it": [
+    "avviluppo"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25742,
+   "d": "ingulè",
+   "it": [
+    "ingoiato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25743,
+   "d": "intavanè",
+   "it": [
+    "annebbiato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25744,
+   "d": "lèzar",
+   "it": [
+    "leggere"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25745,
+   "d": "libritin",
+   "it": [
+    "taccuino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25746,
+   "d": "luvàin",
+   "it": [
+    "lupini"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25747,
+   "d": "manga",
+   "it": [
+    "manica"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25748,
+   "d": "nosa",
+   "it": [
+    "noce"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25749,
+   "d": "palugh",
+   "it": [
+    "pisolino"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25750,
+   "d": "palun",
+   "it": [
+    "vede"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25751,
+   "d": "partghèr",
+   "it": [
+    "aratro"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25752,
+   "d": "pastàini",
+   "it": [
+    "compresse"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25753,
+   "d": "pavajóti",
+   "it": [
+    "farfalle"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25754,
+   "d": "pirulé",
+   "it": [
+    "volteggiare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25755,
+   "d": "pranzipjì",
+   "it": [
+    "cominciato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25756,
+   "d": "pranzipjiva",
+   "it": [
+    "metteva"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25757,
+   "d": "pscolla",
+   "it": [
+    "pozzanghera"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25758,
+   "d": "pscolli",
+   "it": [
+    "pozzanghere"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25759,
+   "d": "pulid",
+   "it": [
+    "puliti"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25760,
+   "d": "Saibadga",
+   "it": [
+    "selvaggia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25761,
+   "d": "salida",
+   "it": [
+    "salita"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25762,
+   "d": "sarac",
+   "it": [
+    "sputacchi"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25763,
+   "d": "sbiavì",
+   "it": [
+    "sbiadito"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25764,
+   "d": "sbranchèda",
+   "it": [
+    "stracciata"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25765,
+   "d": "scavidè",
+   "it": [
+    "evitare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25766,
+   "d": "scói",
+   "it": [
+    "scoglio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25767,
+   "d": "scupè",
+   "it": [
+    "accoppato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25768,
+   "d": "sdazz",
+   "it": [
+    "setaccio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25769,
+   "d": "sfunézz",
+   "it": [
+    "scompiglio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25770,
+   "d": "sfurbì",
+   "it": [
+    "lucidare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25771,
+   "d": "sgalèmbar",
+   "it": [
+    "traverso"
+   ],
+   "var": "CE",
+   "cat": "Avverbio",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25772,
+   "d": "sgavagné",
+   "it": [
+    "disimpegnare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25773,
+   "d": "sguilé",
+   "it": [
+    "scivolare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25774,
+   "d": "siéd",
+   "it": [
+    "brulicare"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25775,
+   "d": "squézz",
+   "it": [
+    "schizzo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25776,
+   "d": "sradè",
+   "it": [
+    "diradato"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25777,
+   "d": "stuglè",
+   "it": [
+    "sdraiare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25778,
+   "d": "tartajé",
+   "it": [
+    "balbettare"
+   ],
+   "var": "CE",
+   "cat": "Verbo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25779,
+   "d": "tàtar",
+   "it": [
+    "cianfrusaglie"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25780,
+   "d": "tisga",
+   "it": [
+    "tisica"
+   ],
+   "var": "CE",
+   "cat": "Aggettivo",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25781,
+   "d": "tumbàin",
+   "it": [
+    "loculo"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25782,
+   "d": "vicióni",
+   "it": [
+    "ricovero"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25783,
+   "d": "vit",
+   "it": [
+    "vedi"
+   ],
+   "var": "CE",
+   "cat": "Verbo declinato",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25784,
+   "d": "vlud",
+   "it": [
+    "velluto"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25785,
+   "d": "zàcul",
+   "it": [
+    "anitre"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25786,
+   "d": "zarmoi",
+   "it": [
+    "germoglio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25787,
+   "d": "zéji",
+   "it": [
+    "ciglia"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25788,
+   "d": "zéra",
+   "it": [
+    "cera"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
+  },
+  {
+   "id": 25789,
+   "d": "zérc",
+   "it": [
+    "cerchio"
+   ],
+   "var": "CE",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:C. Pedrelli Du caval"
   }
  ],
  "synonyms": {}

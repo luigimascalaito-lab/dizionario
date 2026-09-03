@@ -319,7 +319,7 @@ function rilevaDirezione(q){
 function cercaIT(nq, esatta){
   const out = new Map(); // voce.id+ -> {v, glosses:[], via}
   for(const [k, arr] of IDX.itIdx){
-    let match = esatta ? (k===nq) : (k===nq || k.startsWith(nq) || (nq.length>3 && k.includes(nq)));
+    let match = esatta ? (k===nq) : k.startsWith(nq);
     if(!match) continue;
     for(const {v, gloss, via} of arr){
       const id = (v.id||'a')+'|'+v.d;
@@ -334,7 +334,7 @@ function cercaDial(nq, esatta){
   const out = [];
   const visti = new Set();
   for(const [k, arr] of IDX.dialIdx){
-    let match = esatta ? (k===nq) : (k===nq || k.startsWith(nq) || (nq.length>3 && k.includes(nq)));
+    let match = esatta ? (k===nq) : k.startsWith(nq);
     if(!match) continue;
     for(const v of arr){ const id=(v.id||'a')+'|'+v.d; if(!visti.has(id)){visti.add(id); out.push(v);} }
   }

@@ -103750,16 +103750,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11131,
-   "d": "te",
-   "it": [
-    "nel"
-   ],
-   "var": "SM",
-   "cat": "Altro",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11133,
    "d": "pròima",
    "it": [
@@ -104262,31 +104252,10 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11186,
-   "d": "salté",
-   "it": [
-    "saltati"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11187,
    "d": "de",
    "it": [
     "dal"
-   ],
-   "var": "SM",
-   "cat": "Altro",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11188,
-   "d": "ma",
-   "it": [
-    "a",
-    "al"
    ],
    "var": "SM",
    "cat": "Altro",
@@ -104375,16 +104344,6 @@
    ],
    "var": "SM",
    "cat": "Avverbio",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11198,
-   "d": "agrèsta",
-   "it": [
-    "vergogna"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
    "src": "corpus:Gori"
   },
   {
@@ -104533,16 +104492,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11217,
-   "d": "insugnéli",
-   "it": [
-    "sognarle"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11220,
    "d": "gambi",
    "it": [
@@ -104608,16 +104557,6 @@
    "d": "bróti",
    "it": [
     "brutte"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11227,
-   "d": "simpatihi",
-   "it": [
-    "simpatiche"
    ],
    "var": "SM",
    "cat": "Aggettivo",
@@ -104694,16 +104633,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11235,
-   "d": "péu",
-   "it": [
-    "pure"
-   ],
-   "var": "SM",
-   "cat": "Avverbio",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11236,
    "d": "lènsa",
    "it": [
@@ -104772,16 +104701,6 @@
    "d": "bazóila",
    "it": [
     "preoccupati"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11243,
-   "d": "róid",
-   "it": [
-    "ridi"
    ],
    "var": "SM",
    "cat": "Verbo declinato",
@@ -104933,16 +104852,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11258,
-   "d": "capésa",
-   "it": [
-    "capiscano"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
    "src": "corpus:Gori"
   },
   {
@@ -105120,26 +105029,6 @@
    ],
    "var": "SM",
    "cat": "Avverbio",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11276,
-   "d": "arvénz",
-   "it": [
-    "rimani"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11277,
-   "d": "instèch",
-   "it": [
-    "infilato"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
    "src": "corpus:Gori"
   },
   {
@@ -105433,16 +105322,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11308,
-   "d": "slavi",
-   "it": [
-    "slave"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11309,
    "d": "sa l'òs-cia d'duò",
    "it": [
@@ -105457,7 +105336,7 @@
    "d": "birél",
    "it": [
     "pisello",
-    "membro"
+    "membro maschile"
    ],
    "var": "SM",
    "cat": "Sostantivo",
@@ -105540,16 +105419,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11318,
-   "d": "ciri",
-   "it": [
-    "eri"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11319,
    "d": "zcórd",
    "it": [
@@ -105578,17 +105447,6 @@
    ],
    "var": "SM",
    "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11324,
-   "d": "cós",
-   "it": [
-    "cozzo"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
    "src": "corpus:Gori"
   },
   {
@@ -106084,16 +105942,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11371,
-   "d": "tachì",
-   "it": [
-    "attaccati"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11372,
    "d": "méur",
    "it": [
@@ -106191,16 +106039,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11381,
-   "d": "sè",
-   "it": [
-    "sì"
-   ],
-   "var": "SM",
-   "cat": "Avverbio",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11382,
    "d": "na",
    "it": [
@@ -106271,16 +106109,6 @@
    ],
    "var": "SM",
    "cat": "Avverbio",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11389,
-   "d": "scapuzé",
-   "it": [
-    "inciampati"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
    "src": "corpus:Gori"
   },
   {
@@ -106386,16 +106214,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11401,
-   "d": "epure",
-   "it": [
-    "eppure"
-   ],
-   "var": "SM",
-   "cat": "Congiunzione",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11402,
    "d": "giazé",
    "it": [
@@ -106436,16 +106254,6 @@
    ],
    "var": "SM",
    "cat": "Congiunzione",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11408,
-   "d": "di",
-   "it": [
-    "dici"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
    "src": "corpus:Gori"
   },
   {
@@ -106601,7 +106409,7 @@
    "id": 11424,
    "d": "ciavé",
    "it": [
-    "chiavare"
+    "scopare"
    ],
    "var": "SM",
    "cat": "Verbo",
@@ -106723,17 +106531,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11438,
-   "d": "pavéura",
-   "it": [
-    "paura"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11439,
    "d": "d'un ènt chènt",
    "it": [
@@ -106766,17 +106563,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11442,
-   "d": "ghég",
-   "it": [
-    "bilie"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "pl",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11443,
    "d": "régan",
    "it": [
@@ -106795,17 +106581,6 @@
    ],
    "var": "SM",
    "cat": "Locuzione",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11445,
-   "d": "pó",
-   "it": [
-    "po'",
-    "poco"
-   ],
-   "var": "SM",
-   "cat": "Avverbio",
    "src": "corpus:Gori"
   },
   {
@@ -107040,17 +106815,6 @@
    ],
    "var": "SM",
    "cat": "Avverbio",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11469,
-   "d": "muturin",
-   "it": [
-    "motorino"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
    "src": "corpus:Gori"
   },
   {
@@ -107670,8 +107434,7 @@
    "id": 11532,
    "d": "ciavì",
    "it": [
-    "fregati",
-    "chiavati"
+    "fregati"
    ],
    "var": "SM",
    "cat": "Verbo declinato",
@@ -107908,17 +107671,6 @@
    ],
    "var": "SM",
    "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11561,
-   "d": "uich ènd",
-   "it": [
-    "fine settimana"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
    "src": "corpus:Gori"
   },
   {
@@ -108590,8 +108342,7 @@
    "id": 11636,
    "d": "bér",
    "it": [
-    "birri",
-    "sbirri"
+    "birri"
    ],
    "var": "SM",
    "cat": "Sostantivo",
@@ -108660,17 +108411,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11643,
-   "d": "scavstédi",
-   "it": [
-    "bastonate"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "pl",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11645,
    "d": "brusé",
    "it": [
@@ -108678,17 +108418,6 @@
    ],
    "var": "SM",
    "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11646,
-   "d": "paiòun",
-   "it": [
-    "pagliericcio"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
    "src": "corpus:Gori"
   },
   {
@@ -109082,27 +108811,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11687,
-   "d": "sgatì",
-   "it": [
-    "pettinati"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11688,
-   "d": "baióch",
-   "it": [
-    "soldo"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11689,
    "d": "cantè",
    "it": [
@@ -109117,17 +108825,6 @@
    "d": "zigh",
    "it": [
     "cieco"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11691,
-   "d": "càcal",
-   "it": [
-    "cispa"
    ],
    "var": "SM",
    "cat": "Sostantivo",
@@ -109275,16 +108972,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11709,
-   "d": "insugnéla",
-   "it": [
-    "sognarla"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
    "src": "corpus:Gori"
   },
   {
@@ -109670,17 +109357,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11747,
-   "d": "rè",
-   "it": [
-    "re"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11748,
    "d": "signòur",
    "it": [
@@ -109722,17 +109398,6 @@
    ],
    "var": "SM",
    "cat": "Locuzione",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11752,
-   "d": "tiré",
-   "it": [
-    "tirare",
-    "sparare"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
    "src": "corpus:Gori"
   },
   {
@@ -109799,16 +109464,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11759,
-   "d": "agristè",
-   "it": [
-    "trattenersi"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11760,
    "d": "amazèi",
    "it": [
@@ -109870,16 +109525,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11766,
-   "d": "amaz",
-   "it": [
-    "ammazzi"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11767,
    "d": "piasòir",
    "it": [
@@ -109904,7 +109549,7 @@
   },
   {
    "id": 11769,
-   "d": "spargui",
+   "d": "sparguì",
    "it": [
     "sparsi"
    ],
@@ -110040,16 +109685,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11782,
-   "d": "métni",
-   "it": [
-    "mettercene"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11783,
    "d": "sacòuna",
    "it": [
@@ -110166,17 +109801,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "pl",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11794,
-   "d": "cadina",
-   "it": [
-    "catenina"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
    "src": "corpus:Gori"
   },
   {
@@ -110628,16 +110252,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11849,
-   "d": "magni",
-   "it": [
-    "giganti"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11850,
    "d": "lizir",
    "it": [
@@ -110874,17 +110488,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11874,
-   "d": "mas-ci",
-   "it": [
-    "maschio"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11875,
    "d": "fémni",
    "it": [
@@ -110981,17 +110584,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11886,
-   "d": "quérta",
-   "it": [
-    "coperta"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11887,
    "d": "vapòur",
    "it": [
@@ -111000,16 +110592,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11889,
-   "d": "inruséda",
-   "it": [
-    "arrossata"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
    "src": "corpus:Gori"
   },
   {
@@ -111086,32 +110668,10 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11899,
-   "d": "mér",
-   "it": [
-    "mari"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "pl",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11901,
    "d": "fiéum",
    "it": [
     "fiumi"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "pl",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11903,
-   "d": "surtì",
-   "it": [
-    "sorgenti"
    ],
    "var": "SM",
    "cat": "Sostantivo",
@@ -111174,17 +110734,6 @@
    "d": "diavuléri",
    "it": [
     "diavoleria"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11910,
-   "d": "péróiqual",
-   "it": [
-    "pericolo"
    ],
    "var": "SM",
    "cat": "Sostantivo",
@@ -111882,17 +111431,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11986,
-   "d": "sòida",
-   "it": [
-    "sete"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11987,
    "d": "fèna",
    "it": [
@@ -111947,16 +111485,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 11992,
-   "d": "magh",
-   "it": [
-    "mangio"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 11993,
    "d": "udurèda",
    "it": [
@@ -111996,18 +111524,6 @@
    ],
    "var": "SM",
    "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 11997,
-   "d": "smasè",
-   "it": [
-    "frugare",
-    "scoprire",
-    "rovistare"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
    "src": "corpus:Gori"
   },
   {
@@ -112057,7 +111573,6 @@
    "id": 12002,
    "d": "grènfi",
    "it": [
-    "granfie",
     "artigli"
    ],
    "var": "SM",
@@ -112098,7 +111613,7 @@
   },
   {
    "id": 12006,
-   "d": "vnii a tò",
+   "d": "vni a tò",
    "it": [
     "venite a prendere"
    ],
@@ -112139,17 +111654,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 12010,
-   "d": "prilé",
-   "it": [
-    "frullare",
-    "girare"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 12011,
    "d": "bólia",
    "it": [
@@ -112169,16 +111673,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12013,
-   "d": "sufiéndi",
-   "it": [
-    "soffiandoci"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
    "src": "corpus:Gori"
   },
   {
@@ -112228,17 +111722,6 @@
    "d": "braz",
    "it": [
     "braccio"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12021,
-   "d": "grènfa",
-   "it": [
-    "granfia"
    ],
    "var": "SM",
    "cat": "Sostantivo",
@@ -112338,17 +111821,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 12031,
-   "d": "stória",
-   "it": [
-    "storia"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 12032,
    "d": "diferénta",
    "it": [
@@ -112389,16 +111861,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12036,
-   "d": "racutèla",
-   "it": [
-    "raccontarla"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
    "src": "corpus:Gori"
   },
   {
@@ -112550,28 +112012,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 12056,
-   "d": "péval",
-   "it": [
-    "paoli"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "pl",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12057,
-   "d": "fés-ci",
-   "it": [
-    "fischi"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "pl",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 12060,
    "d": "murèl",
    "it": [
@@ -112690,17 +112130,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 12075,
-   "d": "burgóis",
-   "it": [
-    "borghesi"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "pl",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 12076,
    "d": "burgòis",
    "it": [
@@ -112720,16 +112149,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12078,
-   "d": "zarcaré",
-   "it": [
-    "cercherai"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
    "src": "corpus:Gori"
   },
   {
@@ -113047,16 +112466,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12109,
-   "d": "tucarà",
-   "it": [
-    "toccherà"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
    "src": "corpus:Gori"
   },
   {
@@ -114012,17 +113421,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 12224,
-   "d": "murghint",
-   "it": [
-    "muco"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 12225,
    "d": "giazì",
    "it": [
@@ -114240,17 +113638,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 12249,
-   "d": "stòmg",
-   "it": [
-    "stomaco"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 12250,
    "d": "smés",
    "it": [
@@ -114326,17 +113713,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 12257,
-   "d": "tróqual",
-   "it": [
-    "tozzo"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 12258,
    "d": "déur",
    "it": [
@@ -114376,16 +113752,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12262,
-   "d": "masì",
-   "it": [
-    "nascosti"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
    "src": "corpus:Gori"
   },
   {
@@ -114659,16 +114025,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 12292,
-   "d": "indurmóit",
-   "it": [
-    "addormentati"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 12293,
    "d": "spandléun",
    "it": [
@@ -114709,17 +114065,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "pl",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12297,
-   "d": "gréla",
-   "it": [
-    "viva",
-    "briosa"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
    "src": "corpus:Gori"
   },
   {
@@ -114821,7 +114166,7 @@
   },
   {
    "id": 12310,
-   "d": "baióc",
+   "d": "baióch",
    "it": [
     "soldi"
    ],
@@ -114905,17 +114250,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12319,
-   "d": "fré",
-   "it": [
-    "libellule"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "pl",
    "src": "corpus:Gori"
   },
   {
@@ -115033,16 +114367,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "pl",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12334,
-   "d": "juté zò",
-   "it": [
-    "buttare giù"
-   ],
-   "var": "SM",
-   "cat": "Locuzione",
    "src": "corpus:Gori"
   },
   {
@@ -115436,8 +114760,7 @@
    "id": 12376,
    "d": "lóv",
    "it": [
-    "golosi",
-    "lupi"
+    "golosi"
    ],
    "var": "SM",
    "cat": "Sostantivo",
@@ -116001,17 +115324,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 12435,
-   "d": "bucaléun",
-   "it": [
-    "mattoni forati"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "pl",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 12436,
    "d": "zimòint",
    "it": [
@@ -116454,16 +115766,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 12480,
-   "d": "artaì",
-   "it": [
-    "ritagliati"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 12481,
    "d": "bulòun",
    "it": [
@@ -116490,18 +115792,6 @@
    "d": "strafócc",
    "it": [
     "cianfrusaglie"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "pl",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12485,
-   "d": "aféri",
-   "it": [
-    "affari",
-    "comodi"
    ],
    "var": "SM",
    "cat": "Sostantivo",
@@ -116594,26 +115884,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 12496,
-   "d": "instichèm",
-   "it": [
-    "infilarmi"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12497,
-   "d": "ciucé",
-   "it": [
-    "succhiare"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 12498,
    "d": "ambròla",
    "it": [
@@ -116634,16 +115904,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 12500,
-   "d": "pòsta 'd chè",
-   "it": [
-    "a che scopo"
-   ],
-   "var": "SM",
-   "cat": "Locuzione",
    "src": "corpus:Gori"
   },
   {
@@ -116942,7 +116202,8 @@
    "id": 12529,
    "d": "sraza",
    "it": [
-    "traligna"
+    "degenera",
+    "si corrompe"
    ],
    "var": "SM",
    "cat": "Verbo declinato",
@@ -166235,7 +165496,7 @@
    "id": 17811,
    "d": "artai",
    "it": [
-    "ritagliati"
+    "ritagli"
    ],
    "var": "SM",
    "cat": "Aggettivo",
@@ -166523,16 +165784,6 @@
    ],
    "var": "SM",
    "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 17846,
-   "d": "carezèla",
-   "it": [
-    "accarezzarla"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
    "src": "corpus:Gori"
   },
   {
@@ -166918,17 +166169,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 17898,
-   "d": "finestròun",
-   "it": [
-    "finestrone"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 17901,
    "d": "fòin",
    "it": [
@@ -166937,16 +166177,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 17902,
-   "d": "fós",
-   "it": [
-    "fosse"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
    "src": "corpus:Gori"
   },
   {
@@ -166968,17 +166198,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 17906,
-   "d": "furistir",
-   "it": [
-    "forestieri"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "pl",
    "src": "corpus:Gori"
   },
   {
@@ -167011,16 +166230,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 17912,
-   "d": "gni",
-   "it": [
-    "ci"
-   ],
-   "var": "SM",
-   "cat": "Pronome",
    "src": "corpus:Gori"
   },
   {
@@ -167101,12 +166310,12 @@
   },
   {
    "id": 17921,
-   "d": "impacém",
+   "d": "impacés",
    "it": [
-    "ci trastulliamo"
+    "trastullarsi"
    ],
    "var": "SM",
-   "cat": "Verbo declinato",
+   "cat": "Verbo",
    "src": "corpus:Gori"
   },
   {
@@ -167201,27 +166410,6 @@
    "var": "SM",
    "cat": "Sostantivo",
    "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 17936,
-   "d": "isupédi",
-   "it": [
-    "intrise"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 17937,
-   "d": "jutè",
-   "it": [
-    "buttare",
-    "gettare"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
    "src": "corpus:Gori"
   },
   {
@@ -167509,16 +166697,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 17971,
-   "d": "ògni",
-   "it": [
-    "ogni"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 17972,
    "d": "óna",
    "it": [
@@ -167555,17 +166733,6 @@
    "d": "paia",
    "it": [
     "paglia"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "num": "sg",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 17977,
-   "d": "pairéz",
-   "it": [
-    "pagliericcio"
    ],
    "var": "SM",
    "cat": "Sostantivo",
@@ -167804,16 +166971,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 18006,
-   "d": "punsè",
-   "it": [
-    "appoggiato"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 18009,
    "d": "purt",
    "it": [
@@ -167848,16 +167005,6 @@
    "d": "putù",
    "it": [
     "potuto"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 18016,
-   "d": "puzé",
-   "it": [
-    "poggiati"
    ],
    "var": "SM",
    "cat": "Verbo declinato",
@@ -167969,16 +167116,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 18031,
-   "d": "sarém",
-   "it": [
-    "saremo"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 18032,
    "d": "savéu",
    "it": [
@@ -168083,8 +167220,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 18045,
@@ -168251,16 +167388,6 @@
    ],
    "var": "SM",
    "cat": "Verbo declinato",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 18067,
-   "d": "sti",
-   "it": [
-    "questi"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
    "src": "corpus:Gori"
   },
   {
@@ -168573,16 +167700,6 @@
    ],
    "var": "SM",
    "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 18112,
-   "d": "zcòur",
-   "it": [
-    "parlano"
-   ],
-   "var": "SM",
-   "cat": "Verbo declinato",
    "src": "corpus:Gori"
   },
   {
@@ -225619,16 +224736,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 23928,
-   "d": "mòrt",
-   "it": [
-    "morto"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 23929,
    "d": "squagné",
    "it": [
@@ -225656,8 +224763,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 23932,
@@ -225678,8 +224785,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 23934,
@@ -225700,8 +224807,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 23936,
@@ -225771,8 +224878,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 23943,
@@ -225832,8 +224939,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 23949,
@@ -225884,8 +224991,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 23954,
@@ -225895,8 +225002,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 23955,
@@ -225926,8 +225033,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 23958,
@@ -225937,8 +225044,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 23959,
@@ -225968,8 +225075,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 23962,
@@ -225989,17 +225096,7 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
-  },
-  {
-   "id": 23964,
-   "d": "inquél",
-   "it": [
-    "tutto"
-   ],
-   "var": "SM",
-   "cat": "Pronome",
+   "num": "sg",
    "src": "corpus:Gori"
   },
   {
@@ -226024,7 +225121,7 @@
   },
   {
    "id": 23967,
-   "d": "tóintar e t scap",
+   "d": "t óintar e t scap",
    "it": [
     "Entri ed esci"
    ],
@@ -226070,8 +225167,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 23972,
@@ -226081,8 +225178,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 23973,
@@ -226092,8 +225189,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 23974,
@@ -226103,8 +225200,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 23975,
@@ -226148,16 +225245,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 23979,
-   "d": "s-centè",
-   "it": [
-    "schiantare"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 23980,
    "d": "ròsghè",
    "it": [
@@ -226185,8 +225272,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 23983,
@@ -226196,8 +225283,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 23984,
@@ -226207,19 +225294,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
-  },
-  {
-   "id": 23985,
-   "d": "infézna",
-   "it": [
-    "immagine"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 23986,
@@ -226269,8 +225345,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 23991,
@@ -226290,8 +225366,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 23993,
@@ -226342,17 +225418,7 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
-  },
-  {
-   "id": 23998,
-   "d": "introvda",
-   "it": [
-    "torbida"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
+   "num": "sg",
    "src": "corpus:Gori"
   },
   {
@@ -226363,8 +225429,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24000,
@@ -226515,8 +225581,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24015,
@@ -226526,8 +225592,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24016,
@@ -226557,8 +225623,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24019,
@@ -226589,16 +225655,6 @@
    ],
    "var": "SM",
    "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
-   "id": 24022,
-   "d": "inorucèda",
-   "it": [
-    "aggrovigliato"
-   ],
-   "var": "SM",
-   "cat": "Aggettivo",
    "src": "corpus:Gori"
   },
   {
@@ -226650,8 +225706,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24028,
@@ -226661,8 +225717,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24029,
@@ -226682,8 +225738,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24031,
@@ -226714,17 +225770,6 @@
    "var": "SM",
    "cat": "Locuzione",
    "src": "corpus:Gori"
-  },
-  {
-   "id": 24034,
-   "d": "élbar",
-   "it": [
-    "albero"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
   },
   {
    "id": 24035,
@@ -226787,8 +225832,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24041,
@@ -226798,8 +225843,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24042,
@@ -226809,8 +225854,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24043,
@@ -226820,8 +225865,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24044,
@@ -226851,8 +225896,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24047,
@@ -226863,8 +225908,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24048,
@@ -226899,17 +225944,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 24051,
-   "d": "agristès",
-   "it": [
-    "avere dubbi",
-    "rammaricarsi"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 24052,
    "d": "sèndich",
    "it": [
@@ -226917,8 +225951,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24053,
@@ -226928,8 +225962,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24054,
@@ -226949,8 +225983,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24056,
@@ -226964,17 +225998,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 24057,
-   "d": "asasòin",
-   "it": [
-    "assassini"
-   ],
-   "var": "SM",
-   "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
-  },
-  {
    "id": 24058,
    "d": "bumbózi",
    "it": [
@@ -226982,8 +226005,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24059,
@@ -227003,8 +226026,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24061,
@@ -227014,8 +226037,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24062,
@@ -227045,8 +226068,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24065,
@@ -227056,8 +226079,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24066,
@@ -227067,8 +226090,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24067,
@@ -227088,8 +226111,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24069,
@@ -227132,17 +226155,6 @@
    "src": "corpus:Gori"
   },
   {
-   "id": 24073,
-   "d": "biasé",
-   "it": [
-    "biascicare",
-    "dire a mezza voce"
-   ],
-   "var": "SM",
-   "cat": "Verbo",
-   "src": "corpus:Gori"
-  },
-  {
    "id": 24074,
    "d": "incévè",
    "it": [
@@ -227161,8 +226173,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24076,
@@ -227183,8 +226195,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24078,
@@ -227204,8 +226216,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24080,
@@ -227216,8 +226228,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24081,
@@ -227248,8 +226260,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24084,
@@ -227270,8 +226282,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24086,
@@ -227322,8 +226334,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24091,
@@ -227395,8 +226407,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24098,
@@ -227416,8 +226428,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24100,
@@ -227479,8 +226491,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24106,
@@ -227490,8 +226502,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24107,
@@ -227552,8 +226564,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24113,
@@ -227563,8 +226575,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24114,
@@ -227691,8 +226703,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24126,
@@ -227703,8 +226715,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24127,
@@ -227714,8 +226726,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24128,
@@ -227725,8 +226737,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24129,
@@ -227746,8 +226758,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24131,
@@ -227788,8 +226800,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24136,
@@ -227830,8 +226842,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24140,
@@ -227842,8 +226854,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24141,
@@ -227966,8 +226978,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24153,
@@ -227977,8 +226989,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24154,
@@ -228018,8 +227030,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24158,
@@ -228060,8 +227072,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24162,
@@ -228083,8 +227095,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24164,
@@ -228095,8 +227107,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24165,
@@ -228106,8 +227118,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24166,
@@ -228127,8 +227139,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24168,
@@ -228139,8 +227151,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24169,
@@ -228160,8 +227172,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24171,
@@ -228191,8 +227203,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24174,
@@ -228202,8 +227214,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24175,
@@ -228213,8 +227225,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24176,
@@ -228235,8 +227247,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24178,
@@ -228257,8 +227269,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24180,
@@ -228268,8 +227280,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24181,
@@ -228279,8 +227291,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24182,
@@ -228300,8 +227312,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24184,
@@ -228321,8 +227333,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24186,
@@ -228343,8 +227355,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24188,
@@ -228354,8 +227366,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "sg"
+   "num": "sg",
+   "src": "corpus:Gori"
   },
   {
    "id": 24189,
@@ -228366,8 +227378,8 @@
    ],
    "var": "SM",
    "cat": "Sostantivo",
-   "src": "corpus:Gori",
-   "num": "pl"
+   "num": "pl",
+   "src": "corpus:Gori"
   },
   {
    "id": 24190,

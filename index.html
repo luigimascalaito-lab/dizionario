@@ -474,7 +474,14 @@ function frRiga(e){
       : 'R. Baldini, <i>' + escFr(e.b) + '</i>' + (e.t ? ', \u00ab' + escFr(e.t) + '\u00bb' : '')) +
     '</span></li>';
 }
+/* filtro Fonte: con una fonte selezionata si mostrano solo le citazioni di quell'autore */
+function frFiltra(ex){
+  const F = window.__fsrc;
+  if(!ex || !F || !F.size) return ex;
+  return ex.filter(e => { const a = e.a || 'Baldini'; for(const f of F){ if(a===f || a.endsWith(' '+f)) return true; } return false; });
+}
 function frasiHtml(ex){
+  ex = frFiltra(ex);
   if(!ex || !ex.length) return '';
   return '<details class="frasi" open><summary>' + (ex.length===1 ? '1 citazione' : ex.length + ' citazioni') +
     ' d\u2019esempio</summary><ul>' + ex.map(frRiga).join('') + '</ul></details>';
@@ -482,8 +489,9 @@ function frasiHtml(ex){
 function frasiIt(dial){
   const gruppi = [];
   for(const v of dial.slice(0,14)){
-    if(!v.ex || !v.ex.length) continue;
-    gruppi.push('<li class="fr-gruppo"><span class="fr-forma">' + v.d + '</span><ul>' + v.ex.slice(0,2).map(frRiga).join('') + '</ul></li>');
+    const exv = frFiltra(v.ex);
+    if(!exv || !exv.length) continue;
+    gruppi.push('<li class="fr-gruppo"><span class="fr-forma">' + v.d + '</span><ul>' + exv.slice(0,2).map(frRiga).join('') + '</ul></li>');
     if(gruppi.length >= 6) break;
   }
   if(!gruppi.length) return '';
@@ -629,7 +637,7 @@ caricaDizionarioEsterno();
    viene costruito l'indice. Esportazione e pannello di amministrazione
    continuano a vedere il dizionario intero. */
 (function(){
-  const FCAT = new Set(), FVAR = new Set(), FSRC = new Set();
+  const FCAT = new Set(), FVAR = new Set(), FSRC = new Set(); window.__fsrc = FSRC;
   const ORDINE_CAT = ['Sostantivo','Aggettivo','Avverbio','Verbo','Verbo declinato',
                       'Pronome','Congiunzione','Locuzione','Altro'];
 

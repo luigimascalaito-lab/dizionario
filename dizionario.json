@@ -74101,7 +74101,8 @@
    "id": 2713,
    "d": "t'un sbréss",
    "it": [
-    "in un lampo"
+    "in un lampo",
+    "in un attimo"
    ],
    "var": "SA",
    "cat": "Locuzione",
@@ -577411,6 +577412,3906 @@
      "it": "con il fiato sui denti e sentivamo il cuore crescere dentro.",
      "b": "Par sénza gnènt",
      "t": "Fiéur ad ricórd",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28190,
+   "d": "’zòisi",
+   "it": [
+    "accese"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Prisunìr d’un’instèda ad luci ’zòisi e sóbti smórti l’arvanzarà, ad néun,",
+     "h": [
+      30,
+      36
+     ],
+     "it": "Prigionieri di un’estate di luci accese e presto spente resterà, di noi,",
+     "b": "La chèrta da zugh",
+     "t": "Cmè pavaiòti",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28191,
+   "d": "a bràza avérti",
+   "it": [
+    "a braccia aperte"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "a bràza avérti, cumè un vént dl’instèda.",
+     "h": [
+      0,
+      14
+     ],
+     "it": "a braccia aperte, come un vento d’estate.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "I tu murt",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28192,
+   "d": "amòuri",
+   "it": [
+    "more"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "ma la stasòun dagli amòuri biénchi",
+     "h": [
+      20,
+      26
+     ],
+     "it": "alla stagione delle more bianche",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "La stasòun dagli amòuri biénchi",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28193,
+   "d": "andarém",
+   "it": [
+    "andremo"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Admèn un bén d’ór andarém a carezè.",
+     "h": [
+      18,
+      25
+     ],
+     "it": "Domani un bene d’oro andremo ad accarezzare.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "E grèn u n fòura",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28194,
+   "d": "andè a stè",
+   "it": [
+    "andare ad abitare"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "andìmmi a stè tla Cuntrèda l’aria la s culuròiva ad rógg, spaluèndi, ’zidént di vécc",
+     "h": [
+      0,
+      13
+     ],
+     "it": "andavamo ad abitare nella Contrada l’aria si colorava di grida, pallonate, improperi dei vecchi",
+     "b": "Par sénza gnènt",
+     "t": "Fiéur ad ricórd",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28195,
+   "d": "andè ad ciòta",
+   "it": [
+    "scendere in strada"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e u m vén vòia d’andè ad ciòta a dói la mi.",
+     "h": [
+      15,
+      30
+     ],
+     "it": "e mi viene voglia di scendere in strada a dire la mia.",
+     "b": "Par sénza gnènt",
+     "t": "I zchéurs dla zénta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28196,
+   "d": "andéva",
+   "it": [
+    "andava"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "ch’l’andéva a spas par e’ zil",
+     "h": [
+      0,
+      11
+     ],
+     "it": "che andava a spasso per il cielo",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "Un ròba bèla",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28197,
+   "d": "àpa",
+   "it": [
+    "abbia"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "“A so a què” e alòura u t pèr ch’l’àpa la vòusa",
+     "h": [
+      30,
+      38
+     ],
+     "it": "e allora ti pare che abbia la voce",
+     "b": "La chèrta da zugh",
+     "t": "L’arzént dla nòta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28198,
+   "d": "arciàpa",
+   "it": [
+    "riprendono"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "alòura i zchéurs i arciàpa vigòur",
+     "h": [
+      19,
+      26
+     ],
+     "it": "allora i discorsi riprendono vigore",
+     "b": "Par sénza gnènt",
+     "t": "I zchéurs dla zénta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28199,
+   "d": "aréss",
+   "it": [
+    "riescono"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "ènca i baiócch i n’aréss",
+     "h": [
+      17,
+      24
+     ],
+     "it": "anche i soldi non fanno riuscita",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "Furistìr",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28200,
+   "d": "aróla",
+   "it": [
+    "focolare"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "tla faldèda dla tu ma davènti a un’aróla.",
+     "h": [
+      32,
+      40
+     ],
+     "it": "in grembo a tua madre davanti a un focolare.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "E’ bèl dla vóita",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28201,
+   "d": "arzantèdi",
+   "it": [
+    "argentate"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "L’asasòin d’una pavaiòta e làsa in zóir impróunti arzantèdi.",
+     "h": [
+      50,
+      59
+     ],
+     "it": "L’assassino di una falena lascia in giro impronte argentate.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "L’asasòin d’una pavaiòta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28202,
+   "d": "asasòin",
+   "it": [
+    "assassino"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "L’asasòin d’una pavaiòta e làsa in zóir impróunti arzantèdi.",
+     "h": [
+      0,
+      9
+     ],
+     "it": "L’assassino di una falena lascia in giro impronte argentate.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "L’asasòin d’una pavaiòta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28203,
+   "d": "aspìtivi",
+   "it": [
+    "aspettavi"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "A t’ò vést te spèc sal mèni tal bascòzi ta m’aspìtivi.",
+     "h": [
+      43,
+      53
+     ],
+     "it": "Ti ho visto nello specchio con le mani nelle tasche mi aspettavi.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "L’éultum cécch",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28204,
+   "d": "avérti",
+   "it": [
+    "aperte"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "a bràza avérti, cumè un vént dl’instèda.",
+     "h": [
+      8,
+      14
+     ],
+     "it": "a braccia aperte, come un vento d’estate.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "I tu murt",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28205,
+   "d": "avéss",
+   "it": [
+    "avesse"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "E se própria un quèl u m’avéss da purtè via e’ sòul",
+     "h": [
+      23,
+      30
+     ],
+     "it": "E se proprio qualcosa dovesse portarmi via il sole",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "L’òmbra d’una cumèta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28206,
+   "d": "aviléss",
+   "it": [
+    "avvilisci"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Ta t’aviléss se ta n sint piò la tu vóusa",
+     "h": [
+      3,
+      12
+     ],
+     "it": "Ti avvilisci se non senti più la tua voce",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Cèma la tu pavéura",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28207,
+   "d": "avrà",
+   "it": [
+    "avrà"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Quèl ch’u n còunta u n m’avrà.",
+     "h": [
+      23,
+      29
+     ],
+     "it": "Ciò che non conta non mi avrà.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "L’òmbra d’una cumèta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28208,
+   "d": "avsòin",
+   "it": [
+    "avvicini"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "se ta t’avsòin e sal pènzi stóili ch’a l sòuna cumè tamburéll",
+     "h": [
+      6,
+      14
+     ],
+     "it": "se ti avvicini e con le pance sottili che suonano come tamburelli",
+     "b": "Par sénza gnènt",
+     "t": "I gat dal Cuntrèdi",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28209,
+   "d": "bèrda",
+   "it": [
+    "si acconcia"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e la s bèrda sòura i scalòin e la ciàcra d’inquèl:",
+     "h": [
+      7,
+      12
+     ],
+     "it": "e si acconcia sugli scalini di casa e conversa di tutto:",
+     "b": "Par sénza gnènt",
+     "t": "L’è arvàta l’instèda",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28210,
+   "d": "bràza",
+   "it": [
+    "braccia"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "a bràza avérti, cumè un vént dl’instèda.",
+     "h": [
+      2,
+      7
+     ],
+     "it": "a braccia aperte, come un vento d’estate.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "I tu murt",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28211,
+   "d": "bréugla",
+   "it": [
+    "crosta"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "una gàta la bréugla ch’la fa e’ pòst ma la pèla nóva.",
+     "h": [
+      12,
+      19
+     ],
+     "it": "la crosta che lascia spazio alla pelle nuova.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La pèla nóva",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28212,
+   "d": "bsugnarébb",
+   "it": [
+    "bisognerebbe"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Bsugnarébb campè cumè s’u i fóss sèmpra du",
+     "h": [
+      0,
+      10
+     ],
+     "it": "Bisognerebbe vivere come se ci fossero sempre",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "S’un fiòur tra i cavéll",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28213,
+   "d": "buté sò",
+   "it": [
+    "mettere su a cuocere"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "E adès pr’arscaldè la chèsa a bótt so una pida.",
+     "h": [
+      30,
+      37
+     ],
+     "it": "E adesso per riscaldare la casa mi cuocio una piada.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Pr’arscaldè la chèsa",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28214,
+   "d": "cadnàz",
+   "it": [
+    "catenaccio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "E’ régid, la nòta e’ cadnàz ma la pórta.",
+     "h": [
+      21,
+      27
+     ],
+     "it": "Il freddo, la notte il catenaccio alla porta.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Invérni",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28215,
+   "d": "càmbia",
+   "it": [
+    "cambia"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "l sìnt quant e’ càmbia e’ vént.",
+     "h": [
+      16,
+      22
+     ],
+     "it": "e lo senti quando cambia il vento.",
+     "b": "La chèrta da zugh",
+     "t": "E’ malàn dla nòta",
+     "a": "A. Teodorani"
+    },
+    {
+     "d": "vólta la càmbia tòun: la pèr énca più bóna.",
+     "h": [
+      9,
+      15
+     ],
+     "it": "cambia tono: sembra anche più buona.",
+     "b": "Par sénza gnènt",
+     "t": "L’è arvàta l’instèda",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28216,
+   "d": "camóin",
+   "it": [
+    "cammino"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e me a camóin tla piàza svóita drì",
+     "h": [
+      7,
+      13
+     ],
+     "it": "ed io cammino nella piazza vuota",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La zénta da baiócch",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28217,
+   "d": "caplèta",
+   "it": [
+    "bacinella"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "E’ pensìr dal ròbi vèci l’è cumè l’àqua ch’la infràida t’una caplèta.",
+     "h": [
+      61,
+      68
+     ],
+     "it": "Il pensiero delle cose passate è come l’acqua che ristagna in una bacinella.",
+     "b": "La chèrta da zugh",
+     "t": "I dè",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28218,
+   "d": "capréz",
+   "it": [
+    "capriccio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "pianzéu par un capréz.",
+     "h": [
+      15,
+      21
+     ],
+     "it": "che ha pianto per un capriccio.",
+     "b": "La chèrta da zugh",
+     "t": "Aria ad mèrz",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28219,
+   "d": "carezè",
+   "it": [
+    "accarezzare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Admèn un bén d’ór andarém a carezè.",
+     "h": [
+      28,
+      34
+     ],
+     "it": "Domani un bene d’oro andremo ad accarezzare.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "E grèn u n fòura",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28220,
+   "d": "cartunzès",
+   "it": [
+    "cartongesso"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Drì la paròida ad cartunzès una vólta u i éra e’ mèr.",
+     "h": [
+      18,
+      27
+     ],
+     "it": "Dietro alla parete di cartongesso un tempo c’era il mare.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Un mèr antóigh",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28221,
+   "d": "cavès",
+   "it": [
+    "togliersi"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "cavès al vòi e pulóis la bòca",
+     "h": [
+      0,
+      5
+     ],
+     "it": "togliersi le voglie e pulirsi la bocca",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "In préssia",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28222,
+   "d": "cavès al vòi",
+   "it": [
+    "togliersi le voglie"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "cavès al vòi e pulóis la bòca",
+     "h": [
+      0,
+      12
+     ],
+     "it": "togliersi le voglie e pulirsi la bocca",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "In préssia",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28223,
+   "d": "cécch",
+   "it": [
+    "goccio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "i s’è sculè l’éultmi cécch ad sòul",
+     "h": [
+      21,
+      26
+     ],
+     "it": "si sono bevuti l’ultimo goccio di sole",
+     "b": "Par sénza gnènt",
+     "t": "L’è arvàta l’instèda",
+     "a": "A. Teodorani"
+    },
+    {
+     "d": "A m’u n so vultè ò scambié par amòur l’éultum cécch te fònd de bicìr.",
+     "h": [
+      46,
+      51
+     ],
+     "it": "Non mi sono voltata ho scambiato per amore l’ultimo goccio nel fondo del bicchiere.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "L’éultum cécch",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28224,
+   "d": "chi lo sa",
+   "it": [
+    "chissà"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "chi lo sa s’l’è quèll dl’àqua ad cològna...",
+     "h": [
+      0,
+      9
+     ],
+     "it": "chissà se è quello dell’acqua di colonia sul mio comò...",
+     "b": "Par sénza gnènt",
+     "t": "Àqua ad cològna",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28225,
+   "d": "ciacaréd",
+   "it": [
+    "chiacchierati"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "ciacaréd lòngh i viél, ti trébb di gazótt.",
+     "h": [
+      0,
+      8
+     ],
+     "it": "chiacchierati lungo i viali, nei trebbi degli uccelli.",
+     "b": "La chèrta da zugh",
+     "t": "Mèrz",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28226,
+   "d": "ciamèva",
+   "it": [
+    "chiamava"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Cenerentola la s ciamèva cla bèla gatìna:",
+     "h": [
+      17,
+      24
+     ],
+     "it": "Cenerentola si chiamava quella bella gattina:",
+     "b": "Par sénza gnènt",
+     "t": "Fiéur ad ricórd",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28227,
+   "d": "cridéva",
+   "it": [
+    "credevo"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "a cridéva m’al fóli",
+     "h": [
+      2,
+      9
+     ],
+     "it": "credevo alle fiabe",
+     "b": "La chèrta da zugh",
+     "t": "E’ nòn",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28228,
+   "d": "crisòiva",
+   "it": [
+    "cresceva"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e a sintìmmi e’ cór ch’ u s crisòiva dròinta.",
+     "h": [
+      28,
+      36
+     ],
+     "it": "e sentivamo il cuore crescere dentro.",
+     "b": "Par sénza gnènt",
+     "t": "Fiéur ad ricórd",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28229,
+   "d": "culuròiva",
+   "it": [
+    "si colorava"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "andìmmi a stè tla Cuntrèda l’aria la s culuròiva ad rógg, spaluèndi, ’zidént di vécc",
+     "h": [
+      39,
+      48
+     ],
+     "it": "andavamo ad abitare nella Contrada l’aria si colorava di grida, pallonate, improperi dei vecchi",
+     "b": "Par sénza gnènt",
+     "t": "Fiéur ad ricórd",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28230,
+   "d": "cumèta",
+   "it": [
+    "aquilone"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "a vrébb ch’e’ fóss l’òmbra d’una cumèta.",
+     "h": [
+      33,
+      39
+     ],
+     "it": "vorrei che fosse l’ombra di un aquilone.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "L’òmbra d’una cumèta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28231,
+   "d": "cunsulaziòun",
+   "it": [
+    "consolazione"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "tróv niséuna cunsulaziòun e par tótt i fugh ch’i s’è smórt",
+     "h": [
+      13,
+      25
+     ],
+     "it": "che non hanno trovato alcuna consolazione e per tutti i fuochi che si sono estinti da soli",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Par tótt al pianzéudi, par tótt i fugh",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28232,
+   "d": "curòid",
+   "it": [
+    "corredi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "da imbastói i curòid",
+     "h": [
+      14,
+      20
+     ],
+     "it": "da imbastirci i corredi",
+     "b": "Sòta la guàza",
+     "t": "La dóta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28233,
+   "d": "custidéss",
+   "it": [
+    "custodiscono"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "un sòn che i ócc i custidéss.",
+     "h": [
+      19,
+      28
+     ],
+     "it": "un sonno che gli occhi custodiscono.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "I mi znìn",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28234,
+   "d": "d’inèlt",
+   "it": [
+    "in alto"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "La zénta da baiócch la sta d’inèlt",
+     "h": [
+      27,
+      34
+     ],
+     "it": "La gente benestante vive in alto",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La zénta da baiócch",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28235,
+   "d": "dà",
+   "it": [
+    "dà"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "U n’è e’ varnéi ch’u i dà dan né e’ sòul ch’e’ spàca la tèra.",
+     "h": [
+      23,
+      25
+     ],
+     "it": "Non è il freddo a tormentarli né il sole che spacca la terra.",
+     "b": "Sòta la guàza",
+     "t": "Murt",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28236,
+   "d": "da bòi",
+   "it": [
+    "da bere"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "l’éra tótta da bòi.",
+     "h": [
+      12,
+      18
+     ],
+     "it": "era tutta da bere.",
+     "b": "La chèrta da zugh",
+     "t": "L’udòur de sàbdi",
+     "a": "A. Teodorani"
+    },
+    {
+     "d": "L’è un cèr d’aria quasi da bòi",
+     "h": [
+      24,
+      30
+     ],
+     "it": "È un chiaro d’aria quasi da bere",
+     "b": "La chèrta da zugh",
+     "t": "Mèrz",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28237,
+   "d": "dè par dè",
+   "it": [
+    "giorno dopo giorno"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Ma i ócc, dè par dè,",
+     "h": [
+      10,
+      19
+     ],
+     "it": "Ma gli occhi, giorno dopo giorno,",
+     "b": "Sòta la guàza",
+     "t": "Murt",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28238,
+   "d": "dégh",
+   "it": [
+    "dico"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "E tótt al vólti a dégh ch’a m so d’arcurdè.",
+     "h": [
+      18,
+      22
+     ],
+     "it": "E tutte le volte dico che mi devo ricordare.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La pèla nóva",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28239,
+   "d": "détta",
+   "it": [
+    "detta"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "U n’è détta l’éultma paróla gnénca davènti m’una làstra ad mèrmi.",
+     "h": [
+      6,
+      11
+     ],
+     "it": "Non è detta l’ultima parola nemmeno davanti a una lastra di marmo.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "L’éultma paróla",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28240,
+   "d": "e’ ségn dla cròusa",
+   "it": [
+    "il segno della croce"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e ségn dla cròusa a i pii de lèt.",
+     "h": [
+      0,
+      17
+     ],
+     "it": "e segno della croce ai piedi del letto.",
+     "b": "La chèrta da zugh",
+     "t": "La mórta",
+     "a": "A. Teodorani"
+    },
+    {
+     "d": "Fè in préssia cumè e’ ségn dla cròusa davènti al madunìni,",
+     "h": [
+      19,
+      37
+     ],
+     "it": "Fare in fretta come il segno della croce davanti alle cellette votive,",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "In préssia",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28241,
+   "d": "ém",
+   "it": [
+    "abbiamo"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Ém cmóinz senza guardès ém finói senza di gnént.",
+     "h": [
+      0,
+      2
+     ],
+     "it": "Abbiamo cominciato senza guardarci abbiamo finito senza dire nulla.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "...",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28242,
+   "d": "ènt",
+   "it": [
+    "altro"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "di déu e sòta un ènt.",
+     "h": [
+      17,
+      20
+     ],
+     "it": "e avanti il prossimo.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "Sòta un ènt",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28243,
+   "d": "erbazzéun",
+   "it": [
+    "sterpaglie"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "I gat dal Cuntrèdi tótt ócc i fa cut da spèsa i erbazzéun dla Bósca.",
+     "h": [
+      48,
+      57
+     ],
+     "it": "I gatti delle Contrade tutt’occhi fanno capolino da dietro le sterpaglie della Bosca.",
+     "b": "Par sénza gnènt",
+     "t": "I gat dal Cuntrèdi",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28244,
+   "d": "éuna",
+   "it": [
+    "una"
+   ],
+   "var": "SA",
+   "cat": "Pronome",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Éuna cumè la léuna tal nòti ad me u s vòid una fìtìna stóila.",
+     "h": [
+      0,
+      4
+     ],
+     "it": "Una come la luna nelle notti di me si vede una fetta sottile.",
+     "b": "Sòta la guàza",
+     "t": "Cumè la léuna",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28245,
+   "d": "fè du tóir",
+   "it": [
+    "fare due tiri"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "E me a insugnéva snò un burdèl da fè du tóir s’una pàla.",
+     "h": [
+      37,
+      44
+     ],
+     "it": "Ed io sognavo solo un bambino per farci due tiri con una palla.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La ràida",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28246,
+   "d": "fè e’ badalócch",
+   "it": [
+    "darsi convegno"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "guardè i pizéun ch’i fa e’ badalócch",
+     "h": [
+      21,
+      36
+     ],
+     "it": "guardare i piccioni che si danno convegno",
+     "b": "Par sénza gnènt",
+     "t": "La pèsa",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28247,
+   "d": "fè e’ pòst",
+   "it": [
+    "lasciare spazio"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "una gàta la bréugla ch’la fa e’ pòst ma la pèla nóva.",
+     "h": [
+      26,
+      36
+     ],
+     "it": "la crosta che lascia spazio alla pelle nuova.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La pèla nóva",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28248,
+   "d": "fè in préssia",
+   "it": [
+    "fare in fretta"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Fè in préssia cumè e’ ségn dla cròusa davènti al madunìni,",
+     "h": [
+      0,
+      13
+     ],
+     "it": "Fare in fretta come il segno della croce davanti alle cellette votive,",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "In préssia",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28249,
+   "d": "fè zatóina",
+   "it": [
+    "stringere alleanze"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "al quèli a l fa zatóina tla léusa de schéur.",
+     "h": [
+      13,
+      23
+     ],
+     "it": "le cose stringono alleanze alla luce del buio.",
+     "b": "Par sénza gnènt",
+     "t": "E’ témp dla nòta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28250,
+   "d": "fès ad chèrna",
+   "it": [
+    "incarnarsi"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e la s’è fàta ad chèrna.",
+     "h": [
+      9,
+      23
+     ],
+     "it": "e si è incarnata.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "Un ròba bèla",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28251,
+   "d": "fès nòta",
+   "it": [
+    "farsi notte"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Quant u s fa nòta e a n’ò",
+     "h": [
+      10,
+      17
+     ],
+     "it": "Quando si fa notte",
+     "b": "Par sénza gnènt",
+     "t": "A péns ma te",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28252,
+   "d": "fès prèst a dói",
+   "it": [
+    "far presto a dire"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "U s fa prèst a dói: “Setèmbri!”",
+     "h": [
+      4,
+      18
+     ],
+     "it": "Si fa presto a dire: “Settembre!”",
+     "b": "La chèrta da zugh",
+     "t": "Éultum dè ad lói",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28253,
+   "d": "fiuréssa",
+   "it": [
+    "fiorisca"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "fiuréssa par tótta la vóita.",
+     "h": [
+      0,
+      8
+     ],
+     "it": "che fiorisca per tutta la vita.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Una primavera",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28254,
+   "d": "fóint",
+   "it": [
+    "finti"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e la i à i fiéur fóint te vès.",
+     "h": [
+      17,
+      22
+     ],
+     "it": "ed ha i fiori finti nel vaso.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La brèva spòusa",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28255,
+   "d": "fórza ad",
+   "it": [
+    "a furia di"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Dal vólti, fórza ad pensè,",
+     "h": [
+      11,
+      19
+     ],
+     "it": "A volte, a furia di pensare,",
+     "b": "Par sénza gnènt",
+     "t": "A péns ma te",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28256,
+   "d": "fróffla",
+   "it": [
+    "fiocco"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "una fróffla ad nòiva ch’la sguélla mótta spèsa i vódrí apanéd,",
+     "h": [
+      4,
+      11
+     ],
+     "it": "un fiocco di neve che scivola muto dietro i vetri appannati,",
+     "b": "Par sénza gnènt",
+     "t": "E’ gòsta acsè póch insugné",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28257,
+   "d": "furmighìna",
+   "it": [
+    "formichina"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "la furmighìna s’una mulóiga",
+     "h": [
+      3,
+      13
+     ],
+     "it": "la formichina",
+     "b": "Par sénza gnènt",
+     "t": "La furmighìna",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28258,
+   "d": "géva",
+   "it": [
+    "diceva"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e ma che patàca de mi fradèl ch’u m géva:",
+     "h": [
+      36,
+      40
+     ],
+     "it": "e a quello sciocco di mio fratello che mi diceva:",
+     "b": "La chèrta da zugh",
+     "t": "E’ nòn",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28259,
+   "d": "giamìn",
+   "it": [
+    "tegamino"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "dla ròida u i è sèmpra lii s’un giamìn tal mèni.",
+     "h": [
+      32,
+      38
+     ],
+     "it": "oltre la rete c’è sempre lei con un tegamino tra le mani.",
+     "b": "La chèrta da zugh",
+     "t": "La burdèla sla sutanìna ròssa",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28260,
+   "d": "girébb",
+   "it": [
+    "direbbero"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "i m girébb: “Zcórda!”",
+     "h": [
+      4,
+      10
+     ],
+     "it": "mi direbbero: “Dimentica!”",
+     "b": "La chèrta da zugh",
+     "t": "I dè",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28261,
+   "d": "gulér",
+   "it": [
+    "collari"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "te sòun di campanéll tachéd m’i gulér di gat",
+     "h": [
+      32,
+      37
+     ],
+     "it": "nel suono dei campanelli attaccati ai collari dei gatti",
+     "b": "La chèrta da zugh",
+     "t": "L’arzént dla nòta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28262,
+   "d": "in purtisiòun",
+   "it": [
+    "in processione"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "in purtisiòun so ma la méura",
+     "h": [
+      0,
+      13
+     ],
+     "it": "in processione lungo la mura",
+     "b": "La chèrta da zugh",
+     "t": "L’arzént dla nòta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28263,
+   "d": "in zimma",
+   "it": [
+    "in cima"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "in zimma al nòsti òmbri lònghi ad pavéura e nuièzza",
+     "h": [
+      0,
+      8
+     ],
+     "it": "in cima alle nostre ombre lunghe di paura e di noia",
+     "b": "Par sénza gnènt",
+     "t": "Àqua ad cològna",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28264,
+   "d": "in zóir",
+   "it": [
+    "in giro"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "né d’andè in zóir.",
+     "h": [
+      10,
+      17
+     ],
+     "it": "nemmeno di andare in giro.",
+     "b": "Par sénza gnènt",
+     "t": "A péns ma te",
+     "a": "A. Teodorani"
+    },
+    {
+     "d": "L’asasòin d’una pavaiòta e làsa in zóir impróunti arzantèdi.",
+     "h": [
+      32,
+      39
+     ],
+     "it": "L’assassino di una falena lascia in giro impronte argentate.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "L’asasòin d’una pavaiòta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28265,
+   "d": "incapàna",
+   "it": [
+    "tramonta"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e intènt e’ sòul u s’incapàna dri la cìsa.",
+     "h": [
+      19,
+      29
+     ],
+     "it": "mentre il sole muore piano dietro la chiesa.",
+     "b": "Par sénza gnènt",
+     "t": "Àqua ad cològna",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28266,
+   "d": "inèlt",
+   "it": [
+    "in alto"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "La zénta da baiócch la sta d’inèlt",
+     "h": [
+      27,
+      34
+     ],
+     "it": "La gente benestante vive in alto",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La zénta da baiócch",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28267,
+   "d": "ingranznóid",
+   "it": [
+    "raggrinzito"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "tótt sèch, ingranznóid, acsè inótil...",
+     "h": [
+      11,
+      22
+     ],
+     "it": "tutto secco, raggrinzito, così inutile...",
+     "b": "Par sénza gnènt",
+     "t": "Èlbar dàgli ilusiòun",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28268,
+   "d": "inótil",
+   "it": [
+    "inutile"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "tótt sèch, ingranznóid, acsè inótil...",
+     "h": [
+      29,
+      35
+     ],
+     "it": "tutto secco, raggrinzito, così inutile...",
+     "b": "Par sénza gnènt",
+     "t": "Èlbar dàgli ilusiòun",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28269,
+   "d": "instècca",
+   "it": [
+    "si infila"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "La s’instècca tra i rém fétt,",
+     "h": [
+      3,
+      13
+     ],
+     "it": "S’infila tra i rami fitti,",
+     "b": "Par sénza gnènt",
+     "t": "E’ témp dla nòta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28270,
+   "d": "instichéss",
+   "it": [
+    "si infilasse"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Ch’la s’instichéss d’impartótt ma piò ad tótt",
+     "h": [
+      6,
+      18
+     ],
+     "it": "Che si infilasse ovunque ma soprattutto",
+     "b": "Par sénza gnènt",
+     "t": "Musica",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28271,
+   "d": "insugnéva",
+   "it": [
+    "sognavo"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "E me a insugnéva snò un burdèl da fè du tóir s’una pàla.",
+     "h": [
+      7,
+      16
+     ],
+     "it": "Ed io sognavo solo un bambino per farci due tiri con una palla.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La ràida",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28272,
+   "d": "lampiunzìn",
+   "it": [
+    "lampioncini"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e tla léusa biénca di lampiunzìn",
+     "h": [
+      22,
+      32
+     ],
+     "it": "e nella luce bianca dei piccoli lampioni",
+     "b": "Par sénza gnènt",
+     "t": "L’è arvàta l’instèda",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28273,
+   "d": "làstra",
+   "it": [
+    "lastra"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "U n’è détta l’éultma paróla gnénca davènti m’una làstra ad mèrmi.",
+     "h": [
+      49,
+      55
+     ],
+     "it": "Non è detta l’ultima parola nemmeno davanti a una lastra di marmo.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "L’éultma paróla",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28274,
+   "d": "macìna",
+   "it": [
+    "macchiolina"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Mèinch d’una macìna sòura la pèla dla tèra",
+     "h": [
+      13,
+      19
+     ],
+     "it": "Più piccola di una macchiolina sulla pelle della terra",
+     "b": "Par sénza gnènt",
+     "t": "La furmighìna",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28275,
+   "d": "mantnòi",
+   "it": [
+    "mantenere"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "s’ un fat d’arcurdè s’ un segrét da mantnòi.",
+     "h": [
+      36,
+      43
+     ],
+     "it": "con un nodo alla gola, con un fatto da ricordare con un segreto da mantenere.",
+     "b": "Par sénza gnènt",
+     "t": "L’è arvàta l’instèda",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28276,
+   "d": "masè",
+   "it": [
+    "nascondere"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "masè un quèl t’una bascòza",
+     "h": [
+      0,
+      4
+     ],
+     "it": "nascondere qualcosa nella tasca",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "In préssia",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28277,
+   "d": "mèinch",
+   "it": [
+    "meno"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Mèinch d’una macìna sòura la pèla dla tèra",
+     "h": [
+      0,
+      6
+     ],
+     "it": "Più piccola di una macchiolina sulla pelle della terra",
+     "b": "Par sénza gnènt",
+     "t": "La furmighìna",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28278,
+   "d": "mèrmi",
+   "it": [
+    "marmo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "U n’è détta l’éultma paróla gnénca davènti m’una làstra ad mèrmi.",
+     "h": [
+      59,
+      64
+     ],
+     "it": "Non è detta l’ultima parola nemmeno davanti a una lastra di marmo.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "L’éultma paróla",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28279,
+   "d": "mès",
+   "it": [
+    "riposto"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "mès tla bascòza dal mi sicurèzzi",
+     "h": [
+      0,
+      3
+     ],
+     "it": "ti avevo riposto nella tasca delle mie certezze",
+     "b": "Par sénza gnènt",
+     "t": "Èlbar dàgli ilusiòun",
+     "a": "A. Teodorani"
+    },
+    {
+     "d": "S’un fóss stè par cla ràida i s sarébb mès al mèni madòs.",
+     "h": [
+      39,
+      42
+     ],
+     "it": "Non fosse stato per quella rete si sarebbero messi le mani addosso.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La ràida",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28280,
+   "d": "mètsi e’ cór in pèsa",
+   "it": [
+    "mettersi il cuore in pace"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Mètsi e’ cór in pèsa l’è",
+     "h": [
+      0,
+      20
+     ],
+     "it": "Mettersi il cuore in pace",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "E’ cór in pèsa",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28281,
+   "d": "mil",
+   "it": [
+    "acciacchi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "de magnè, di baiócch, di mil",
+     "h": [
+      25,
+      28
+     ],
+     "it": "di cibo, di soldi, di acciacchi",
+     "b": "Par sénza gnènt",
+     "t": "L’è arvàta l’instèda",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28282,
+   "d": "móccia",
+   "it": [
+    "mucchio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "L’instèda di burdéll la i à una móccia d’an e la nòsta l’è un’eterna primavera.",
+     "h": [
+      32,
+      38
+     ],
+     "it": "L’estate dei bambini ha un mucchio di anni e la nostra è un’eterna primavera.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Eterna primavera",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28283,
+   "d": "mótta",
+   "it": [
+    "muta"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "una fróffla ad nòiva ch’la sguélla mótta spèsa i vódrí apanéd,",
+     "h": [
+      35,
+      40
+     ],
+     "it": "un fiocco di neve che scivola muta dietro i vetri appannati,",
+     "b": "Par sénza gnènt",
+     "t": "E’ gòsta acsè póch insugné",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28284,
+   "d": "mótti",
+   "it": [
+    "mute"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "tra ’l fàzi sbiavóidi, al fàzi mótti",
+     "h": [
+      31,
+      36
+     ],
+     "it": "tra le facce sbiadite, le facce mute",
+     "b": "Par sénza gnènt",
+     "t": "A t zìrch",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28285,
+   "d": "mulètti",
+   "it": [
+    "mollette"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "pàsa sòta un pòunt ad mulètti.",
+     "h": [
+      22,
+      29
+     ],
+     "it": "che passa sotto a un ponte di mollette.",
+     "b": "Sòta la guàza",
+     "t": "La bicilèta di insógni",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28286,
+   "d": "ninè",
+   "it": [
+    "cullare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "A t’ò ninè fin’ a fèt indurmantè èli",
+     "h": [
+      6,
+      10
+     ],
+     "it": "Ti ho cullato fino a farti addormentare",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Èli e ràdghi",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28287,
+   "d": "niséuna",
+   "it": [
+    "nessuna"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "tróv niséuna cunsulaziòun e par tótt i fugh ch’i s’è smórt",
+     "h": [
+      5,
+      12
+     ],
+     "it": "che non hanno trovato alcuna consolazione e per tutti i fuochi che si sono estinti da soli",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Par tótt al pianzéudi, par tótt i fugh",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28288,
+   "d": "nonsochè",
+   "it": [
+    "non so che"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "U m ciàpa pién una vòia nóva un nonsochè,",
+     "h": [
+      32,
+      40
+     ],
+     "it": "Mi prende piano una voglia nuova",
+     "b": "La chèrta da zugh",
+     "t": "Mèrz",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28289,
+   "d": "óss",
+   "it": [
+    "uscio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "da un óss avért l’avnóiva l’udòur dla chèsa dla Caterina.",
+     "h": [
+      6,
+      9
+     ],
+     "it": "da un uscio aperto veniva l’odore della casa della Caterina.",
+     "b": "La chèrta da zugh",
+     "t": "U n’è la Siberia",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28290,
+   "d": "pansènd",
+   "it": [
+    "pensando"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Pansènd, dop d’un pó,",
+     "h": [
+      0,
+      7
+     ],
+     "it": "Pensando, dopo un po’,",
+     "b": "Par sénza gnènt",
+     "t": "Èlbar dàgli ilusiòun",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28291,
+   "d": "pansès",
+   "it": [
+    "pensarsi"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "L’è bèl turnè a pansès dop ch’ u s’è stè dalòngh una màsa.",
+     "h": [
+      16,
+      22
+     ],
+     "it": "È bello tornare a pensarsi dopo essere stati lontani per molto tempo.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Turnè a pansès",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28292,
+   "d": "paréva",
+   "it": [
+    "pareva"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "paréva éun ad chi prestigiatéur",
+     "h": [
+      0,
+      6
+     ],
+     "it": "che pareva uno di quei prestigiatori",
+     "b": "La chèrta da zugh",
+     "t": "La chèrta da zugh",
+     "a": "A. Teodorani"
+    },
+    {
+     "d": "La éra acsè stóila ch’la paréva una chèrta da zugh tal foto, un poster...",
+     "h": [
+      25,
+      31
+     ],
+     "it": "Era così sottile che pareva una carta da gioco nelle foto, un poster...",
+     "b": "La chèrta da zugh",
+     "t": "La chèrta da zugh",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28293,
+   "d": "paròida",
+   "it": [
+    "parete"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Drì la paròida ad cartunzès una vólta u i éra e’ mèr.",
+     "h": [
+      7,
+      14
+     ],
+     "it": "Dietro alla parete di cartongesso un tempo c’era il mare.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Un mèr antóigh",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28294,
+   "d": "pgnùl",
+   "it": [
+    "pinoli"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Énca se u n gnè piò pgnùl da zachè",
+     "h": [
+      20,
+      25
+     ],
+     "it": "Anche se non ci sono più pinoli da schiacciare",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "La stasòun dagli amòuri biénchi",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28295,
+   "d": "pianzéudi",
+   "it": [
+    "pianti"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Par tótt al pianzéudi ch’a l n’à",
+     "h": [
+      12,
+      21
+     ],
+     "it": "Per tutti i pianti",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Par tótt al pianzéudi, par tótt i fugh",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28296,
+   "d": "pimidóri",
+   "it": [
+    "pomodori"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Pr’andè dalòngh e’ basta póch e par avdòi l’arcobaleno e’ bàsta daquè al pimidóri.",
+     "h": [
+      73,
+      81
+     ],
+     "it": "Per andare lontano basta poco e per vedere l’arcobaleno basta annaffiare i pomodori.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Pr’andè dalòngh",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28297,
+   "d": "póppla",
+   "it": [
+    "chioma"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e un vandgìn lizìr e’ scavècia la póppla la s’artóira sbadaiénd s’ un magòun dròinta,",
+     "h": [
+      34,
+      40
+     ],
+     "it": "e un vento lieve scompiglia i capelli si ritira sbadigliando",
+     "b": "Par sénza gnènt",
+     "t": "L’è arvàta l’instèda",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28298,
+   "d": "pràiga",
+   "it": [
+    "prega"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e la pràiga e’ zil sa chi du ócc grénd.",
+     "h": [
+      5,
+      11
+     ],
+     "it": "e prega il cielo con quei due occhi grandi.",
+     "b": "La chèrta da zugh",
+     "t": "La burdèla sla sutanìna ròssa",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28299,
+   "d": "prighé",
+   "it": [
+    "pregare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "i tu ch’i n tróva pèsa gnénca a prighé.",
+     "h": [
+      32,
+      38
+     ],
+     "it": "che non trovano pace nemmeno a pregare.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Gnénca a prighé",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28300,
+   "d": "prisunìr",
+   "it": [
+    "prigionieri"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Prisunìr d’un’instèda ad luci ’zòisi e sóbti smórti l’arvanzarà, ad néun,",
+     "h": [
+      0,
+      8
+     ],
+     "it": "Prigionieri di un’estate di luci accese e presto spente resterà, di noi,",
+     "b": "La chèrta da zugh",
+     "t": "Cmè pavaiòti",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28301,
+   "d": "prisunìra",
+   "it": [
+    "prigioniera"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "énca me, cmè lii, a so prisunìra.",
+     "h": [
+      23,
+      32
+     ],
+     "it": "anche io, come lei, sono prigioniera.",
+     "b": "Par sénza gnènt",
+     "t": "Àqua ad cològna",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28302,
+   "d": "pruvarémm",
+   "it": [
+    "proveremo"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "quèla a pruvarémm ad salvès.",
+     "h": [
+      8,
+      17
+     ],
+     "it": "e con quella proveremo a salvarci.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Un talaràgn",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28303,
+   "d": "pulóis",
+   "it": [
+    "pulirsi"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "cavès al vòi e pulóis la bòca",
+     "h": [
+      15,
+      21
+     ],
+     "it": "togliersi le voglie e pulirsi la bocca",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "In préssia",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28304,
+   "d": "pursì",
+   "it": [
+    "qualunque"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e t’una nòta pursì",
+     "h": [
+      13,
+      18
+     ],
+     "it": "e in una notte qualunque",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Èli e ràdghi",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28305,
+   "d": "purtisiòun",
+   "it": [
+    "processione"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "in purtisiòun so ma la méura",
+     "h": [
+      3,
+      13
+     ],
+     "it": "in processione lungo la mura",
+     "b": "La chèrta da zugh",
+     "t": "L’arzént dla nòta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28306,
+   "d": "putrébb",
+   "it": [
+    "potrebbe"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "che la s putrébb sparagnè",
+     "h": [
+      9,
+      16
+     ],
+     "it": "che si potrebbe risparmiare",
+     "b": "Par sénza gnènt",
+     "t": "I zchéurs dla zénta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28307,
+   "d": "quèla",
+   "it": [
+    "quella"
+   ],
+   "var": "SA",
+   "cat": "Pronome",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "quèla a pruvarémm ad salvès.",
+     "h": [
+      0,
+      5
+     ],
+     "it": "e con quella proveremo a salvarci.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Un talaràgn",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28308,
+   "d": "ràisna",
+   "it": [
+    "resina"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e quant a l piénz ràisna e mél.",
+     "h": [
+      18,
+      24
+     ],
+     "it": "e quando piangono resina e miele.",
+     "b": "Sòta la guàza",
+     "t": "Al zéi",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28309,
+   "d": "régid",
+   "it": [
+    "freddo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "E’ régid, la nòta",
+     "h": [
+      3,
+      8
+     ],
+     "it": "Il freddo, la notte",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Invérni",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28310,
+   "d": "rugéva",
+   "it": [
+    "gridava"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Léu e’ rugéva sénza vòusa e lii la i andéva sòura.",
+     "h": [
+      7,
+      13
+     ],
+     "it": "Lui gridava senza voce e lei lo sovrastava.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La ràida",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28311,
+   "d": "saciapémm",
+   "it": [
+    "ci prendiamo"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Chi lo sa do che t ci t ci trop dalòngh a n saciapémm.",
+     "h": [
+      44,
+      53
+     ],
+     "it": "Chi lo sa dove sei sei troppo lontano non ci prendiamo.",
+     "b": "Par sénza gnènt",
+     "t": "A péns ma te",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28312,
+   "d": "salvès",
+   "it": [
+    "salvarsi"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "quèla a pruvarémm ad salvès.",
+     "h": [
+      21,
+      27
+     ],
+     "it": "e con quella proveremo a salvarci.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Un talaràgn",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28313,
+   "d": "sarébb",
+   "it": [
+    "sarebbero"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "S’un fóss stè par cla ràida i s sarébb mès al mèni madòs.",
+     "h": [
+      32,
+      38
+     ],
+     "it": "Non fosse stato per quella rete si sarebbero messi le mani addosso.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La ràida",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28314,
+   "d": "scapè fùra",
+   "it": [
+    "spuntare"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "da la nèbia l’è scap fùra",
+     "h": [
+      16,
+      25
+     ],
+     "it": "dalla nebbia è spuntato",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Èli e ràdghi",
+     "a": "A. Teodorani"
+    },
+    {
+     "d": "la zénta la scàpa fura",
+     "h": [
+      12,
+      22
+     ],
+     "it": "la gente se ne viene fuori",
+     "b": "Par sénza gnènt",
+     "t": "L’è arvàta l’instèda",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28315,
+   "d": "scapènd",
+   "it": [
+    "uscendo"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "l’udòur de sàbdi scapènd da scóla",
+     "h": [
+      17,
+      24
+     ],
+     "it": "l’odore del sabato uscendo da scuola",
+     "b": "La chèrta da zugh",
+     "t": "L’udòur de sàbdi",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28316,
+   "d": "segrét",
+   "it": [
+    "segreto"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "s’ un fat d’arcurdè s’ un segrét da mantnòi.",
+     "h": [
+      26,
+      32
+     ],
+     "it": "con un nodo alla gola, con un fatto da ricordare con un segreto da mantenere.",
+     "b": "Par sénza gnènt",
+     "t": "L’è arvàta l’instèda",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28317,
+   "d": "sintìmmi",
+   "it": [
+    "sentivamo"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e a sintìmmi e’ cór ch’ u s crisòiva dròinta.",
+     "h": [
+      4,
+      12
+     ],
+     "it": "e sentivamo il cuore crescere dentro.",
+     "b": "Par sénza gnènt",
+     "t": "Fiéur ad ricórd",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28318,
+   "d": "smanèdi",
+   "it": [
+    "scomposte"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "o cal nóvvli smanèdi",
+     "h": [
+      13,
+      20
+     ],
+     "it": "o quelle nuvole scomposte",
+     "b": "Par sénza gnènt",
+     "t": "E’ gòsta acsè póch insugné",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28319,
+   "d": "smès",
+   "it": [
+    "smesso"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "smès ad viazè te vént adlà",
+     "h": [
+      0,
+      4
+     ],
+     "it": "non ha mai smesso di viaggiare nel vento",
+     "b": "La chèrta da zugh",
+     "t": "La burdèla sla sutanìna ròssa",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28320,
+   "d": "sofét",
+   "it": [
+    "soffitto"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "una màcia ad pòurbia sòura e’ sofét.",
+     "h": [
+      30,
+      35
+     ],
+     "it": "una macchia di polvere sul soffitto.",
+     "b": "La chèrta da zugh",
+     "t": "Cmè pavaiòti",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28321,
+   "d": "sòta un ènt",
+   "it": [
+    "avanti il prossimo"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "di déu e sòta un ènt.",
+     "h": [
+      9,
+      20
+     ],
+     "it": "e avanti il prossimo.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "Sòta un ènt",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28322,
+   "d": "spàca",
+   "it": [
+    "spacca"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "U n’è e’ varnéi ch’u i dà dan né e’ sòul ch’e’ spàca la tèra.",
+     "h": [
+      47,
+      52
+     ],
+     "it": "Non è il freddo a tormentarli né il sole che spacca la terra.",
+     "b": "Sòta la guàza",
+     "t": "Murt",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28323,
+   "d": "spaluèndi",
+   "it": [
+    "pallonate"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "l’aria la s culuròiva ad rógg, spaluèndi, ’zidént di vécc",
+     "h": [
+      31,
+      40
+     ],
+     "it": "l’aria si colorava di grida, pallonate, improperi dei vecchi",
+     "b": "Par sénza gnènt",
+     "t": "Fiéur ad ricórd",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28324,
+   "d": "spès",
+   "it": [
+    "spesso"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "a i péns da spès",
+     "h": [
+      12,
+      16
+     ],
+     "it": "ci penso spesso",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "La stasòun dagli amòuri biénchi",
+     "a": "A. Teodorani"
+    },
+    {
+     "d": "da spès i è acsè stràch",
+     "h": [
+      3,
+      7
+     ],
+     "it": "spesso sono così stanchi",
+     "b": "Par sénza gnènt",
+     "t": "I zchéurs dla zénta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28325,
+   "d": "stóis",
+   "it": [
+    "distesi"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "la regina dl’an sa chi su dè lóngh, stóis cumè le stréssa de mèr",
+     "h": [
+      36,
+      41
+     ],
+     "it": "con quei suoi giorni lunghi, distesi come la striscia del mare",
+     "b": "Par sénza gnènt",
+     "t": "L’è arvàta l’instèda",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28326,
+   "d": "stràchi",
+   "it": [
+    "stanchi"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Du ciàcri un pó stràchi",
+     "h": [
+      16,
+      23
+     ],
+     "it": "Due chiacchiere un po’ stanche",
+     "b": "La chèrta da zugh",
+     "t": "Cmè pavaiòti",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28327,
+   "d": "surpràisa",
+   "it": [
+    "sorpresa"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "turnè pr’una surpràisa ch’la",
+     "h": [
+      13,
+      22
+     ],
+     "it": "tornare per una sorpresa che non c’è",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "I dè lóngh",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28328,
+   "d": "sutanìna",
+   "it": [
+    "gonnellina"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Ma cla burdèla sla sutanìna ròssa",
+     "h": [
+      19,
+      27
+     ],
+     "it": "A quella bambina con la gonnellina rossa",
+     "b": "La chèrta da zugh",
+     "t": "La burdèla sla sutanìna ròssa",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28329,
+   "d": "ténga",
+   "it": [
+    "sorregga"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e’ pèr ch’la ténga sò e’ mònd.",
+     "h": [
+      13,
+      18
+     ],
+     "it": "pare sorreggere il mondo.",
+     "b": "Par sénza gnènt",
+     "t": "La furmighìna",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28330,
+   "d": "tnì sò",
+   "it": [
+    "sorreggere"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e’ pèr ch’la ténga sò e’ mònd.",
+     "h": [
+      13,
+      21
+     ],
+     "it": "pare sorreggere il mondo.",
+     "b": "Par sénza gnènt",
+     "t": "La furmighìna",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28331,
+   "d": "tó e’ fiè",
+   "it": [
+    "togliere il fiato"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "s’una vòia màta ch’la m tó e’ fiè.",
+     "h": [
+      24,
+      33
+     ],
+     "it": "con una voglia matta che mi toglie il fiato.",
+     "b": "Par sénza gnènt",
+     "t": "A t zìrch",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28332,
+   "d": "tòca",
+   "it": [
+    "mi tocca",
+    "devo"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "U n gn’è gnént in fònd a e’ curidéur però u m tòca sèmpra guardè.",
+     "h": [
+      46,
+      50
+     ],
+     "it": "Non c’è nulla in fondo al corridoio però mi tocca sempre guardare.",
+     "b": "La chèrta da zugh",
+     "t": "Du an",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28333,
+   "d": "tóir",
+   "it": [
+    "tiri"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "E me a insugnéva snò un burdèl da fè du tóir s’una pàla.",
+     "h": [
+      40,
+      44
+     ],
+     "it": "Ed io sognavo solo un bambino per farci due tiri con una palla.",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La ràida",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28334,
+   "d": "tótt al vólti",
+   "it": [
+    "tutte le volte"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Tótt al vólti ch’a",
+     "h": [
+      0,
+      13
+     ],
+     "it": "Tutte le volte",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Pr’arscaldè la chèsa",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28335,
+   "d": "tremasòun",
+   "it": [
+    "fremito"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "La tremasòun m’e’ cór d’un burdèl l’è e’ vént tra ’l fói tèndri de zarìs.",
+     "h": [
+      3,
+      12
+     ],
+     "it": "Il fremito al cuore di un bambino è il vento tra le foglie tenere del ciliegio.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "E’ cór in pèsa",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28336,
+   "d": "vàga",
+   "it": [
+    "vada"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "pòsta che la n vàga véa.",
+     "h": [
+      15,
+      19
+     ],
+     "it": "affinché non se ne vada.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "La ròndna",
+     "a": "A. Teodorani"
+    },
+    {
+     "d": "ch’i vàga do ch’i vó andè.",
+     "h": [
+      5,
+      9
+     ],
+     "it": "e lascia che vadano dove vogliono andare.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Dròinta m’un souvenir",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28337,
+   "d": "vandgìn",
+   "it": [
+    "venticello"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e un vandgìn lizìr e’ scavècia la póppla la s’artóira sbadaiénd s’ un magòun dròinta,",
+     "h": [
+      5,
+      12
+     ],
+     "it": "e un vento lieve scompiglia i capelli si ritira sbadigliando",
+     "b": "Par sénza gnènt",
+     "t": "L’è arvàta l’instèda",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28338,
+   "d": "varghèta",
+   "it": [
+    "fede nuziale"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "ma du mèni s’una varghèta",
+     "h": [
+      17,
+      25
+     ],
+     "it": "ma due mani con una fede",
+     "b": "Sòta la guàza",
+     "t": "La strachèza",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28339,
+   "d": "vègi",
+   "it": [
+    "veglie"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "fin a impinóis ad vègi e ad sbadài.",
+     "h": [
+      18,
+      22
+     ],
+     "it": "fino a riempirsi di veglie e di sbadigli.",
+     "b": "Par sénza gnènt",
+     "t": "Fiéur ad ricórd",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28340,
+   "d": "vénga",
+   "it": [
+    "vengano"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "còunt ch’ i t vénga incòuntar lòu",
+     "h": [
+      14,
+      19
+     ],
+     "it": "fa conto che ti vengano incontro loro",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "I tu murt",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28341,
+   "d": "vóidri",
+   "it": [
+    "vetri"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "sòura i vóidri dal piscòlli sàgli umbrèli céusi, cmè equilibrésta,",
+     "h": [
+      8,
+      14
+     ],
+     "it": "sui vetri delle pozzanghere con gli ombrelli chiusi, come equilibristi,",
+     "b": "Par sénza gnènt",
+     "t": "Àqua ad cològna",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28342,
+   "d": "vòila",
+   "it": [
+    "vela"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e una vòila ti ócc.",
+     "h": [
+      6,
+      11
+     ],
+     "it": "e una vela negli occhi.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "Pr’andè dalòngh",
+     "a": "A. Teodorani"
+    },
+    {
+     "d": "e d’ògni talaràgn e’ fa una vòila",
+     "h": [
+      28,
+      33
+     ],
+     "it": "e d’ogni ragnatela fa una vela",
+     "b": "La chèrta da zugh",
+     "t": "Dròinta i tu ócc",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28343,
+   "d": "vultè",
+   "it": [
+    "voltare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "A m’u n so vultè ò scambié par amòur l’éultum cécch te fònd de bicìr.",
+     "h": [
+      11,
+      16
+     ],
+     "it": "Non mi sono voltata ho scambiato per amore l’ultimo goccio nel fondo del bicchiere.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "L’éultum cécch",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28344,
+   "d": "zachè",
+   "it": [
+    "schiacciare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "Énca se u n gnè piò pgnùl da zachè",
+     "h": [
+      29,
+      34
+     ],
+     "it": "Anche se non ci sono più pinoli da schiacciare",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "La stasòun dagli amòuri biénchi",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28345,
+   "d": "zarìs",
+   "it": [
+    "ciliegio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "La tremasòun m’e’ cór d’un burdèl l’è e’ vént tra ’l fói tèndri de zarìs.",
+     "h": [
+      67,
+      72
+     ],
+     "it": "Il fremito al cuore di un bambino è il vento tra le foglie tenere del ciliegio.",
+     "b": "La stasòun dagli amòuri biénchi",
+     "t": "E’ cór in pèsa",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28346,
+   "d": "zatóina",
+   "it": [
+    "alleanza"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "al quèli a l fa zatóina tla léusa de schéur.",
+     "h": [
+      16,
+      23
+     ],
+     "it": "le cose stringono alleanze alla luce del buio.",
+     "b": "Par sénza gnènt",
+     "t": "E’ témp dla nòta",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28347,
+   "d": "zcórda",
+   "it": [
+    "dimentica"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "i m girébb: “Zcórda!”",
+     "h": [
+      13,
+      19
+     ],
+     "it": "mi direbbero: “Dimentica!”",
+     "b": "La chèrta da zugh",
+     "t": "I dè",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28348,
+   "d": "zénta da baiócch",
+   "it": [
+    "gente benestante"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "La zénta da baiócch",
+     "h": [
+      3,
+      19
+     ],
+     "it": "La gente benestante",
+     "b": "S'un fiòur tra i cavéll",
+     "t": "La zénta da baiócch",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28349,
+   "d": "zgudébbli",
+   "it": [
+    "antipatico"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "cumè e’ vént, dal vólti acsè zgudébbli,",
+     "h": [
+      29,
+      38
+     ],
+     "it": "come il vento, a volte così antipatico,",
+     "b": "Par sénza gnènt",
+     "t": "Saibàdga",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28350,
+   "d": "zimma",
+   "it": [
+    "cima"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "in zimma al nòsti òmbri lònghi ad pavéura e nuièzza",
+     "h": [
+      3,
+      8
+     ],
+     "it": "in cima alle nostre ombre lunghe di paura e di noia",
+     "b": "Par sénza gnènt",
+     "t": "Àqua ad cològna",
+     "a": "A. Teodorani"
+    }
+   ]
+  },
+  {
+   "id": 28351,
+   "d": "zirchè",
+   "it": [
+    "cercare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Teodorani",
+   "ex": [
+    {
+     "d": "e la t pórta a zirchè un pó ad frèsch ti cantéun",
+     "h": [
+      15,
+      21
+     ],
+     "it": "e ti porta a cercare un po’ di fresco negli angoli",
+     "b": "Par sénza gnènt",
+     "t": "L’è arvàta l’instèda",
      "a": "A. Teodorani"
     }
    ]

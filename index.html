@@ -14,6 +14,13 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#8F432A">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Dizionèri">
 <meta name="twitter:image" content="https://luigimascalaito-lab.github.io/dizionario/anteprima.png">
 <style>
 :root{
@@ -23,6 +30,10 @@
   --serif:'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif;
   --sans:'Gill Sans','Gill Sans MT',Seravek,'Trebuchet MS',Verdana,sans-serif;
 }
+#installa-box{margin-top:.9rem;display:none}
+#installa{font-family:var(--sans);font-size:.78rem;letter-spacing:.06em;background:var(--ruggine);color:var(--carta);border:0;padding:.55rem 1.1rem;cursor:pointer;box-shadow:3px 3px 0 rgba(143,67,42,.25)}
+#installa:hover{background:var(--ruggine-scura)}
+#installa-ios{font-family:var(--sans);font-size:.74rem;color:var(--inchiostro-lieve);line-height:1.5;display:none}
 *{box-sizing:border-box;margin:0;padding:0}
 html{-webkit-text-size-adjust:100%}
 body{background:var(--tela);color:var(--inchiostro);font-family:var(--serif);min-height:100vh;
@@ -210,6 +221,7 @@ body.admin .azioni-inline{display:inline-flex}
 <h1>Dizionario Poetico Italiano <span class="tilde">⇄</span> Romagnolo</h1>
 <div class="sotto">SA = Santarcangelo, GA = Gambettola/Montiano/Longiano, SM = San Mauro Pascoli, GT = Gatteo, CE = Cesena</div>
 <div class="fonti">Lessico tratto dal corpus letterario romagnolo.</div>
+<div id="installa-box"><button id="installa" type="button">Installa l’app</button><div id="installa-ios">Per installarla su iPhone o iPad: tocca <strong>Condividi</strong> in Safari, poi <strong>Aggiungi alla schermata Home</strong>.</div></div>
 </header>
 
 <main>
@@ -925,6 +937,28 @@ caricaDizionarioEsterno();
 
 })();
 
+</script>
+<script>
+/* ── installazione come app (PWA) ── */
+(function(){
+  const box=document.getElementById('installa-box'), btn=document.getElementById('installa'), ios=document.getElementById('installa-ios');
+  const standalone=window.matchMedia('(display-mode: standalone)').matches||navigator.standalone===true;
+  let evento=null;
+  if('serviceWorker' in navigator && location.protocol.startsWith('http')){
+    window.addEventListener('load',()=>{navigator.serviceWorker.register('sw.js').catch(()=>{});});
+  }
+  if(standalone) return;
+  window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();evento=e;box.style.display='block';btn.style.display='inline-block';});
+  btn.addEventListener('click',async()=>{
+    if(!evento) return;
+    evento.prompt();
+    try{await evento.userChoice;}catch(_){}
+    evento=null;box.style.display='none';
+  });
+  window.addEventListener('appinstalled',()=>{box.style.display='none';});
+  const iosDev=/iphone|ipad|ipod/i.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+  if(iosDev){box.style.display='block';btn.style.display='none';ios.style.display='block';}
+})();
 </script>
 </body>
 </html>

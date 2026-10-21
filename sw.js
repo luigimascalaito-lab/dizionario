@@ -1,69 +1,20 @@
-/* Service worker del Dizionèri — funzionamento offline
-   Strategia:
-   - App shell (index.html, icone, manifest): cache-first con aggiornamento in background.
-   - dizionario.json: network-first (così gli aggiornamenti arrivano subito),
-     con fallback alla copia in cache quando si è offline.
-   Per pubblicare una nuova versione dell'app basta incrementare VERSION. */
-
-const VERSION = 'v1';
-const CACHE = 'dizioneri-' + VERSION;
-
-const SHELL = [
-  './',
-  './index.html',
-  './manifest.webmanifest',
-  './icon-192.png',
-  './icon-512.png',
-  './icon-maskable-512.png',
-  './apple-touch-icon.png',
-  './dizionario.json'
-];
-
-self.addEventListener('install', (e) => {
-  e.waitUntil(
-    caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting())
-  );
+// Service worker del Dizionario. Aumentare VERSIONE a ogni nuova edizione.
+const VERSIONE = 'dizionario-v1';
+const BASE_FILES = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
+self.addEventListener('install', e => {
+  e.waitUntil(caches.open(VERSIONE).then(c => c.addAll(BASE_FILES)).then(() => self.skipWaiting()));
 });
-
-self.addEventListener('activate', (e) => {
-  e.waitUntil(
-    caches.keys().then((keys) =>
-      Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k)))
-    ).then(() => self.clients.claim())
-  );
+self.addEventListener('activate', e => {
+  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== VERSIONE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
 });
-
-self.addEventListener('fetch', (e) => {
-  const url = new URL(e.request.url);
-  if (e.request.method !== 'GET' || url.origin !== location.origin) return;
-
-  // dizionario.json: prima la rete, poi la cache
-  if (url.pathname.endsWith('dizionario.json')) {
-    e.respondWith(
-      fetch(e.request)
-        .then((r) => {
-          const copia = r.clone();
-          caches.open(CACHE).then((c) => c.put(e.request, copia));
-          return r;
-        })
-        .catch(() => caches.match(e.request))
-    );
-    return;
-  }
-
-  // tutto il resto (app shell): prima la cache, poi la rete
+// Rete prima, cache come ripiego: con la connessione si vede sempre l'edizione aggiornata, senza connessione l'app funziona comunque.
+self.addEventListener('fetch', e => {
+  const r = e.request;
+  if (r.method !== 'GET' || new URL(r.url).origin !== location.origin) return;
   e.respondWith(
-    caches.match(e.request).then((hit) => {
-      const rete = fetch(e.request)
-        .then((r) => {
-          if (r && r.ok) {
-            const copia = r.clone();
-            caches.open(CACHE).then((c) => c.put(e.request, copia));
-          }
-          return r;
-        })
-        .catch(() => hit);
-      return hit || rete;
-    })
+    fetch(r).then(resp => {
+      if (resp && resp.ok) { const copia = resp.clone(); caches.open(VERSIONE).then(c => c.put(r, copia)); }
+      return resp;
+    }).catch(() => caches.match(r).then(m => m || (r.mode === 'navigate' ? caches.match('./index.html') : undefined)))
   );
 });

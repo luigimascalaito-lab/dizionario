@@ -581315,6 +581315,8852 @@
      "a": "A. Teodorani"
     }
    ]
+  },
+  {
+   "id": 28352,
+   "d": "a péil d'àqua",
+   "it": [
+    "a pelo d'acqua"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e tótt cal tèsti a péil d’àqua ch’agli andéva sò e zò im paréiva tótt cuchél:",
+     "h": [
+      17,
+      30
+     ],
+     "it": "e tutte quelle teste a pelo d’acqua che andavano su e giù mi sembravano tutti gabbiani.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28353,
+   "d": "a tóta béra",
+   "it": [
+    "a tutta birra"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "a tóta béra, tachéd cumè di ragn,",
+     "h": [
+      0,
+      11
+     ],
+     "it": "a tutta birra, attaccati come dei ragni,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28354,
+   "d": "abunamént",
+   "it": [
+    "abbonamento"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "t an pò dì gnént ènca slè i tu i bócc dl’abunamént!",
+     "h": [
+      41,
+      50
+     ],
+     "it": "non puoi dire niente anche se sono i tuoi i soldi dell’abbonamento!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28355,
+   "d": "acelerèda",
+   "it": [
+    "accelerata"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "parchè se li la dà n’acelerèda,...",
+     "h": [
+      21,
+      30
+     ],
+     "it": "perché se lei dà un’accelerata,...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28356,
+   "d": "ad sfiénc",
+   "it": [
+    "di fianco"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ad sfiénc, da tnèi l’aria e tirè indrì la pènza.",
+     "h": [
+      0,
+      9
+     ],
+     "it": "di fianco, da trattenere l’aria e tirare indietro la pancia.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Bèla la liguria",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28357,
+   "d": "agnéll",
+   "it": [
+    "agnelli"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I agnéll chi gnóla e i s’amócia t’un cantòun de srai.",
+     "h": [
+      2,
+      8
+     ],
+     "it": "Gli agnelli che piagnucolano e si ammassano in un angolo del serraglio.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28358,
+   "d": "alegrì",
+   "it": [
+    "allegria"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E pu l’alegrì, a ridìmi s’un ciòcc ad frósta.",
+     "h": [
+      7,
+      13
+     ],
+     "it": "E poi l’allegria, ridevamo con uno schiocco di frusta (con poco).",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28359,
+   "d": "alèss",
+   "it": [
+    "lesso"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ingrinznéid, smulachèd cmè e’ grass tl alèss: at vrébb avdéi ma tè sa ste spettécal!”",
+     "h": [
+      39,
+      44
+     ],
+     "it": "Raggrinzito, molle come il grasso del lesso: vorrei vedere te con questo spettacolo!»",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28360,
+   "d": "amàz",
+   "it": [
+    "ammazzi"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ch’ la n stà bóna gnénca s ta la amàz!",
+     "h": [
+      33,
+      37
+     ],
+     "it": "che non sta buona neanche se l’ammazzi!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28361,
+   "d": "ambróla",
+   "it": [
+    "midollo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "l’ambróla... oh l’era òura,...",
+     "h": [
+      2,
+      9
+     ],
+     "it": "oh era ora,...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La ciàuga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28362,
+   "d": "améur",
+   "it": [
+    "gelsi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "al foi di améur par i ramséll,",
+     "h": [
+      10,
+      15
+     ],
+     "it": "le foglie di gelso per i bachi da seta,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28363,
+   "d": "andè ad curtèl",
+   "it": [
+    "camminare di coltello"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ch’ u t vén d’andè ’vènti ad curtèl,",
+     "h": [
+      26,
+      35
+     ],
+     "it": "che ti viene da camminare di coltello,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Bèla la liguria",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28364,
+   "d": "andè l'impróssia",
+   "it": [
+    "andare a quel paese"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Va là, va l’impróssia, nu fàmm zcòr mèl... ènca tè!",
+     "h": [
+      7,
+      21
+     ],
+     "it": "Va là, va a quel paese; non farmi parlare male... anche tu!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28365,
+   "d": "andè pré travérs",
+   "it": [
+    "andare per traverso"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "un còunta gnént ch’ la t stàga bén o ch’ la t vàga pré travérs.",
+     "h": [
+      46,
+      62
+     ],
+     "it": "non conta niente che ti stia bene o che ti vada per traverso.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28366,
+   "d": "arcnòss",
+   "it": [
+    "riconoscere"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E chi giubidomini,... che dòp, màs-ci e fèinni, vai arcnòss tè, se t’ci bón!",
+     "h": [
+      52,
+      59
+     ],
+     "it": "E quei giubboni,... che dopo, maschi e femmine, valli a riconoscere, se sei capace!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Pzulìn: chi burdlàzz",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28367,
+   "d": "ardótt",
+   "it": [
+    "ridotti"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Pòra néun cum ch’a s sémm ardótt!",
+     "h": [
+      26,
+      32
+     ],
+     "it": "Poveri noi, come siamo ridotti!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "quàtar cópp...dop de fròunt u s’era ardótt un pógn ’d mundèzi.",
+     "h": [
+      36,
+      42
+     ],
+     "it": "dopo il fronte (la guerra) si era ridotta un pugno di macerie.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Àmo, té bèla ardótt un distacamént ad Gambètla sa tótt chi cadévar a lè ’d fura.",
+     "h": [
+      13,
+      19
+     ],
+     "it": "Ah ma, ti sei ormai ridotta a un distaccamento di Gambettola con tutti quei cadaveri lì fuori.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28368,
+   "d": "aréiv",
+   "it": [
+    "arrivo"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "aréiv, sichéur, mal pórti de paradèis.",
+     "h": [
+      0,
+      5
+     ],
+     "it": "arrivo, sicuro, alle porte del paradiso.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Bèla la liguria",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Bòia de castéig!... ’Spèta ch’aréiv...",
+     "h": [
+      30,
+      35
+     ],
+     "it": "Boia del castigo!... Aspetta che arrivo...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28369,
+   "d": "armistiéd",
+   "it": [
+    "mescolato"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "cmè mgnàzz armistiéd sa sgadézz e nafta:",
+     "h": [
+      11,
+      20
+     ],
+     "it": "come sanguinaccio mescolato con segatura e nafta:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28370,
+   "d": "arsèida",
+   "it": [
+    "riuscita"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "in módi che al madòni al fa piò arsèida.",
+     "h": [
+      32,
+      39
+     ],
+     "it": "in modo che le madonne facciano più riuscita.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Cèvi e bascòzi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28371,
+   "d": "arvanzè in bulèta",
+   "it": [
+    "restare in bolletta"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "s t an vó arvanzè in bulèta!",
+     "h": [
+      10,
+      27
+     ],
+     "it": "se non vuoi restare in bolletta!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28372,
+   "d": "arvènz cmè un quaiòun",
+   "it": [
+    "rimanere come un coglione"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "dop t’arvènz da par tè cmè un quaiòun!",
+     "h": [
+      6,
+      37
+     ],
+     "it": "dopo rimani da per te come un coglione!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28373,
+   "d": "as la simi vésta brótta",
+   "it": [
+    "vedersela brutta"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "A vléila própri déila tótta, as la simi vésta brótta!",
+     "h": [
+      29,
+      52
+     ],
+     "it": "A volerla proprio dire tutta, ce l’eravamo vista brutta!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28374,
+   "d": "asèida",
+   "it": [
+    "aceto"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Àmo... enca Lucio l’era fórt cmè l’asèida: u i n’éva sèmpra óna dal nóvi.",
+     "h": [
+      35,
+      41
+     ],
+     "it": "Ah ma... anche Lucio era forte come l’aceto: ne aveva sempre una nuova.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28375,
+   "d": "assègn",
+   "it": [
+    "assegno"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "quànd ch’u i era da scambiè ’n assègn, andìmi da la Piera.",
+     "h": [
+      31,
+      37
+     ],
+     "it": "quando c’era da cambiare un assegno, andavamo dalla Piera.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28376,
+   "d": "avèi i calzett",
+   "it": [
+    "essere grossa"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "mo quèsta própri... la à i calzett!",
+     "h": [
+      25,
+      34
+     ],
+     "it": "ma questa proprio... ha i calzetti (è grossa)!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Te mèr in bicicléta",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28377,
+   "d": "azdòuri",
+   "it": [
+    "casalinghe"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Quei chi avèiva parchigè cme dò azdòuri un pó imbariéghi,",
+     "h": [
+      32,
+      39
+     ],
+     "it": "Quelli che avevano parcheggiato come due casalinghe un po’ ubriache,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28378,
+   "d": "badzé",
+   "it": [
+    "battezzato"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "A n avémm fat in témp ’arivé chi s’à badzé sóbit:",
+     "h": [
+      37,
+      42
+     ],
+     "it": "Non abbiamo fatto in tempo ad arrivare che ci hanno battezzato subito:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28379,
+   "d": "bagatè",
+   "it": [
+    "rovinare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "se t vu campè Forz’ ad dèi la t’à bèla bagatè...",
+     "h": [
+      39,
+      45
+     ],
+     "it": "se vuoi campare, a forza di darci ti ha già bell’e rovinato...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28380,
+   "d": "baghéin",
+   "it": [
+    "maiali"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I vidléun strasnéd par la murdèccia, i baghéin chi rògg, I brécc ’hi péunta.",
+     "h": [
+      39,
+      46
+     ],
+     "it": "I vitelloni trascinati per la mordecchia, i maiali che urlano, gli asini che si impuntano.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "u s’è fat e baghéin de Gnózz,",
+     "h": [
+      12,
+      19
+     ],
+     "it": "è cresciuto il maiale del Gnozz,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28381,
+   "d": "baghéin spinòus",
+   "it": [
+    "porcospino"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Sa chi cavéll tótt intacunéd e’ pèr chi àpa un baghéin spinòus sla tèsta.",
+     "h": [
+      47,
+      62
+     ],
+     "it": "Con quei capelli tutti impiastricciati sembra che abbiano un porcospino sulla testa.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Pzulìn: chi burdlàzz",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28382,
+   "d": "balé",
+   "it": [
+    "ballare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "a balé u s sèlta,",
+     "h": [
+      2,
+      6
+     ],
+     "it": "a ballare si salta,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28383,
+   "d": "bandunè",
+   "it": [
+    "abbandonare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ció mo t an pò bandunè l’òcc ch’it ròusa!...",
+     "h": [
+      15,
+      22
+     ],
+     "it": "Di ma non puoi abbandonare l’occhio (distrarti) che ti tosano!...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28384,
+   "d": "baritìn",
+   "it": [
+    "barettino"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "am mètt disdèi m’un baritìn e am sò frighè da par me:",
+     "h": [
+      20,
+      27
+     ],
+     "it": "mi siedo a un barettino e mi sono fregato da solo:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28385,
+   "d": "batèiva",
+   "it": [
+    "trebbiavano"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Quànd ch’i batèiva e i paséva i zént quintél...",
+     "h": [
+      11,
+      18
+     ],
+     "it": "Quando battevano e passavano i cento quintali...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28386,
+   "d": "batèna",
+   "it": [
+    "battana"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Muntéd sò sla batèna de mi cugnéd,",
+     "h": [
+      14,
+      20
+     ],
+     "it": "Saliti sulla battana di mio cognato,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28387,
+   "d": "béfani",
+   "it": [
+    "befane"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Non c’è bisogno di svelar arcani, l’è snò l’ardéus ad cal bróti béfani!",
+     "h": [
+      64,
+      70
+     ],
+     "it": "Non c’è bisogno di svelar arcani, è solo l’adunata di quelle brutte befane!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28388,
+   "d": "béra",
+   "it": [
+    "birra"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "a tóta béra, tachéd cumè di ragn,",
+     "h": [
+      7,
+      11
+     ],
+     "it": "a tutta birra, attaccati come dei ragni,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28389,
+   "d": "bindiléun",
+   "it": [
+    "perditempo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ad bindiléun u i n’era una gran màsa mo i n era da par lòu:",
+     "h": [
+      3,
+      12
+     ],
+     "it": "Di perditempo ce n’erano tanti, ma non erano soli: delle più belle spose...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28390,
+   "d": "bisinìn",
+   "it": [
+    "pochino"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Un bisinìn!!!",
+     "h": [
+      3,
+      10
+     ],
+     "it": "Un pochino!!!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28391,
+   "d": "bócc",
+   "it": [
+    "soldi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "t an pò dì gnént ènca slè i tu i bócc dl’abunamént!",
+     "h": [
+      33,
+      37
+     ],
+     "it": "non puoi dire niente anche se sono i tuoi i soldi dell’abbonamento!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28392,
+   "d": "bóta",
+   "it": [
+    "buttata"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Che pchè chi la àpa bóta zò!",
+     "h": [
+      20,
+      24
+     ],
+     "it": "Che peccato che l’abbiano buttata giù!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "I la à bóta zò ’d nòta, u n s’ne incórt nisséun.",
+     "h": [
+      7,
+      11
+     ],
+     "it": "L’hanno buttata giù di notte, non se n’è accorto nessuno.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La giustificaziòun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28393,
+   "d": "bóta zò",
+   "it": [
+    "buttare giù"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Che pchè chi la àpa bóta zò!",
+     "h": [
+      20,
+      27
+     ],
+     "it": "Che peccato che l’abbiano buttata giù!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "I la à bóta zò ’d nòta, u n s’ne incórt nisséun.",
+     "h": [
+      7,
+      14
+     ],
+     "it": "L’hanno buttata giù di notte, non se n’è accorto nessuno.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La giustificaziòun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28394,
+   "d": "bràzz",
+   "it": [
+    "braccio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Fùra de canzèl sla spórtla sòta bràzz zirchè tal bascòzi che patàca ad màzz!",
+     "h": [
+      32,
+      37
+     ],
+     "it": "Fuori dal cancello con la sporta sotto il braccio cercare nelle tasche quello stupido mazzo!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Cèvi e bascòzi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28395,
+   "d": "brécc",
+   "it": [
+    "asini"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I vidléun strasnéd par la murdèccia, i baghéin chi rògg, I brécc ’hi péunta.",
+     "h": [
+      59,
+      64
+     ],
+     "it": "I vitelloni trascinati per la mordecchia, i maiali che urlano, gli asini che si impuntano.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28396,
+   "d": "brènc",
+   "it": [
+    "branco"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "che ènca lòu, pu, i era un brènc.",
+     "h": [
+      27,
+      32
+     ],
+     "it": "che anche loro, poi, erano un branco.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28397,
+   "d": "brótta",
+   "it": [
+    "brutta"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "A vléila própri déila tótta, as la simi vésta brótta!",
+     "h": [
+      46,
+      52
+     ],
+     "it": "A volerla proprio dire tutta, ce l’eravamo vista brutta!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28398,
+   "d": "bruglòus",
+   "it": [
+    "ruvido"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "sòura m’una gìtèda d’un cimént bruglòus varniséd s una varnéisa ancòra piò bruglòusa ch’ l’era piò sgustòusa sóta i pì,",
+     "h": [
+      31,
+      39
+     ],
+     "it": "sopra una gettata di un cemento ruvido verniciata con una vernice ancora più ruvida che era tanto fastidiosa sotto i piedi che neanche i gusci delle telline...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28399,
+   "d": "brusè",
+   "it": [
+    "bruciare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "amarcórd quand chi avnéiva a tó al traversèini da brusè d’invéran te caméin;",
+     "h": [
+      50,
+      55
+     ],
+     "it": "mi ricordo quando venivano a prendere le traversine per bruciarle d’inverno nel camino;",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28400,
+   "d": "bucaléun",
+   "it": [
+    "boccalone"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "no snò cmè i gazótt mo própri te sénz ad bucaléun!",
+     "h": [
+      41,
+      49
+     ],
+     "it": "non solo come gli uccelli, ma proprio nel senso di boccaloni!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "che póri burdèl e cla famèia davènti i ócc ad tótt i bucaléun d’ Italia.",
+     "h": [
+      53,
+      61
+     ],
+     "it": "quel povero bambino e quella famiglia davanti agli occhi di tutti i perdigiorno d’Italia.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28401,
+   "d": "buccéun",
+   "it": [
+    "bottiglioni"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "te fè i buccéun,",
+     "h": [
+      8,
+      15
+     ],
+     "it": "nel fare i bottiglioni,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè da la zèa rósa",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28402,
+   "d": "bulèta",
+   "it": [
+    "bolletta"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "s t an vó arvanzè in bulèta!",
+     "h": [
+      21,
+      27
+     ],
+     "it": "se non vuoi restare in bolletta!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28403,
+   "d": "bumbardamént",
+   "it": [
+    "bombardamenti"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "u i è stè piò mórt ad chi du dè che sòta i bumbardamént di americhèn e’ dè ’d San Pitar:",
+     "h": [
+      43,
+      55
+     ],
+     "it": "ci sono stati più morti in quei due giorni che sotto ai bombardamenti degli americani il giorno di San Pietro:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28404,
+   "d": "burdlàzz",
+   "it": [
+    "ragazzacci"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Pzulìn: chi burdlàzz",
+     "h": [
+      4,
+      12
+     ],
+     "it": "Quei ragazzacci",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Pzulìn: chi burdlàzz",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28405,
+   "d": "buscilòt",
+   "it": [
+    "ciotola"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ció Elena, t an é un buscilòt?",
+     "h": [
+      21,
+      29
+     ],
+     "it": "Dì Elena, non hai una ciotola?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28406,
+   "d": "butè un òcc",
+   "it": [
+    "dare un'occhiata"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "A sò aquè, a i bótt un òcc,",
+     "h": [
+      11,
+      26
+     ],
+     "it": "Sono qui, ci butto un occhio,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28407,
+   "d": "cadèvar",
+   "it": [
+    "cadavere"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Senza mórt, gnént cadèvar e gnénca un fug.",
+     "h": [
+      18,
+      25
+     ],
+     "it": "Senza morti, niente cadaveri e neanche un fuoco.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Àmo, té bèla ardótt un distacamént ad Gambètla sa tótt chi cadévar a lè ’d fura.",
+     "h": [
+      59,
+      66
+     ],
+     "it": "Ah ma, ti sei ormai ridotta a un distaccamento di Gambettola con tutti quei cadaveri lì fuori.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28408,
+   "d": "calzinéll",
+   "it": [
+    "telline"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "che gnénca al còzli di calzinéll...",
+     "h": [
+      23,
+      32
+     ],
+     "it": "sopra una gettata di un cemento ruvido verniciata con una vernice ancora più ruvida che era tanto fastidiosa sotto i piedi che neanche i gusci delle telline...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28409,
+   "d": "caméin",
+   "it": [
+    "cammino"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "sa sté sulèr, ch’a caméin...un patàca e’ tàca a scampanlè ch’ u m’à fat ciapè un azidént!... ’Sel suzéd mai?...",
+     "h": [
+      19,
+      25
+     ],
+     "it": "con questo pavimento, che cammino... uno scemo comincia a scampanellare che mi ha fatto prendere un accidente!...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "amarcórd quand chi avnéiva a tó al traversèini da brusè d’invéran te caméin;",
+     "h": [
+      69,
+      75
+     ],
+     "it": "mi ricordo quando venivano a prendere le traversine per bruciarle d’inverno nel camino;",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28410,
+   "d": "caméisa",
+   "it": [
+    "camicia"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "par bagné gióst la caméisa.",
+     "h": [
+      19,
+      26
+     ],
+     "it": "per bagnare giusto la camicia.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28411,
+   "d": "camp-sènt",
+   "it": [
+    "camposanto"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "s an m’u n móv mè a s’avdémm gióst in piàza o me camp-sènt!",
+     "h": [
+      49,
+      58
+     ],
+     "it": "se non mi muovo io, ci vediamo giusto in piazza o al camposanto!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28412,
+   "d": "cantìr",
+   "it": [
+    "campo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ci té mézz d’un cantìr ad tèra arèda!",
+     "h": [
+      16,
+      22
+     ],
+     "it": "Sei nel mezzo di un campo di terra arata!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "l’érba pri cunèi ad spuntéun ti cantìr ’d spagnèra sa félza e gavàgn,",
+     "h": [
+      32,
+      38
+     ],
+     "it": "l’erba per i conigli chine nei campi di erba medica con falce e cesto,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28413,
+   "d": "cararméd",
+   "it": [
+    "carriarmati"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La Gina la era ma la finèstra ch’la guardéva al su véidi sòta i cararméd,",
+     "h": [
+      64,
+      72
+     ],
+     "it": "La Gina era alla finestra che guardava le sue viti sotto i carriarmati,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28414,
+   "d": "caratrèzz",
+   "it": [
+    "carro attrezzi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "L’altredè i m’à dmand sa putìmi andè tó una màchina se caratrèzz!",
+     "h": [
+      55,
+      64
+     ],
+     "it": "L’altro giorno mi hanno chiesto se potevamo andare a prendere una macchina con il carro attrezzi!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28415,
+   "d": "caróti",
+   "it": [
+    "barbabietole"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "A ch’ brót lavòur cl’è cavè al caróti!",
+     "h": [
+      31,
+      37
+     ],
+     "it": "Ah che brutto lavoro è cavare le barbabietole!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Ah, l’è ’ndè a s-ciuché al caróti da un su améig ma la Gióla.",
+     "h": [
+      27,
+      33
+     ],
+     "it": "Ah, è andato a conciare le barbabietole da un suo amico alla Giola.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28416,
+   "d": "cascarà",
+   "it": [
+    "cascherà"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "un cascarà de tótt,",
+     "h": [
+      3,
+      10
+     ],
+     "it": "non cascherà del tutto,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28417,
+   "d": "caschèdi",
+   "it": [
+    "cadute"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Parchè dal vólti, sa cal caschèdi sciòchi,",
+     "h": [
+      25,
+      33
+     ],
+     "it": "Perché delle volte, con quelle stupide cadute,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28418,
+   "d": "castéig",
+   "it": [
+    "castigo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Bòia de castéig!... ’Spèta ch’aréiv...",
+     "h": [
+      8,
+      15
+     ],
+     "it": "Boia del castigo!... Aspetta che arrivo...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28419,
+   "d": "cazèda",
+   "it": [
+    "cazzata"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ch’l’àpa fat ’na cazèda?",
+     "h": [
+      17,
+      23
+     ],
+     "it": "Che abbia fatto una cazzata?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28420,
+   "d": "céusa",
+   "it": [
+    "chiusa"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "méss in mòstra, cavéd dla céusa, tirat sla zira!",
+     "h": [
+      26,
+      31
+     ],
+     "it": "Messi in mostra, levati dalla chiusa, tirati con la cera!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28421,
+   "d": "chi t à fàt ch'un t à magné",
+   "it": [
+    "chi ti ha fatto non ti ha mangiato, nessuno ha potere illimitato su di te"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "chi t à fàt ch’un t à magné;",
+     "h": [
+      0,
+      27
+     ],
+     "it": "chi ti ha fatto e non ti ha mangiato;",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28422,
+   "d": "ch'u t vègna 'n'azidént",
+   "it": [
+    "che ti venga un accidente"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ma vuìlt invìci - ch’u t vègna ’n’azidént! -",
+     "h": [
+      18,
+      41
+     ],
+     "it": "A voialtri invece - che ti venga un accidente! -",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28423,
+   "d": "ciacarè",
+   "it": [
+    "chiacchierare"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Mo quand ch’al tàca l’è tótt un ciacarè.",
+     "h": [
+      32,
+      39
+     ],
+     "it": "Ma quando attaccano, è tutto un chiacchierare.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28424,
+   "d": "ciapè par quaiòun",
+   "it": [
+    "prendere per coglione"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Dal vólti um pèr ch’ is ciàpa par quaiéun,",
+     "h": [
+      24,
+      41
+     ],
+     "it": "Delle volte mi pare che ci prendano per coglioni,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè da la zèa rósa",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28425,
+   "d": "ciàuga",
+   "it": [
+    "caditoia"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La ciàuga",
+     "h": [
+      3,
+      8
+     ],
+     "it": "La caditoia",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La ciàuga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28426,
+   "d": "ciucénd",
+   "it": [
+    "succhiando"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La s spargóia sòura st’asfèlt carògna e cmè se stéss ciucénd ma l’òss,",
+     "h": [
+      53,
+      60
+     ],
+     "it": "Si sparge sopra quest’asfalto carogna e come se stesse succhiando all’osso il midollo...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La ciàuga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28427,
+   "d": "cnòsa",
+   "it": [
+    "conoscano"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "sperémma che i nóst fiùl i n la cnòsa la guèra,",
+     "h": [
+      32,
+      37
+     ],
+     "it": "speriamo che i nostri figli non la conoscano la guerra,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28428,
+   "d": "cnusìvi",
+   "it": [
+    "conoscevi"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ènca chi catéiv ta i cnusìvi ’d famèia, tal savìvi préima ch’ugn’era da fidés...",
+     "h": [
+      21,
+      28
+     ],
+     "it": "Anche quelli cattivi li conoscevi di famiglia, lo sapevi prima che non ci si poteva fidare...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28429,
+   "d": "cócc",
+   "it": [
+    "appostamento"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Da znin andéva te cócc se mi ba e an é savèiva che se s-ciop,",
+     "h": [
+      18,
+      22
+     ],
+     "it": "Da piccolo andavo nel cuccio con il mio babbo e non lo sapevo che con il fucile,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28430,
+   "d": "còunt",
+   "it": [
+    "conti"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "T an còunt un càzz,",
+     "h": [
+      5,
+      10
+     ],
+     "it": "Non conti un cazzo,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Dóbbi ch’i n s rènda còunt?",
+     "h": [
+      21,
+      26
+     ],
+     "it": "Dubbio (possibile) che non si rendano conto?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Pzulìn: chi burdlàzz",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "T còunt cmè e’ dò d spèdi sla bréscl’a bastòun!",
+     "h": [
+      2,
+      7
+     ],
+     "it": "Conti come il due di spade con briscola a bastoni!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28431,
+   "d": "còunta",
+   "it": [
+    "conta"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "un còunta gnént ch’ la t stàga bén o ch’ la t vàga pré travérs.",
+     "h": [
+      3,
+      9
+     ],
+     "it": "non conta niente che ti stia bene o che ti vada per traverso.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "e quand sla rèma e’ vèrc di stéuran e’ fà la pàla te capàn i fà la còunta,",
+     "h": [
+      67,
+      73
+     ],
+     "it": "e quando sulla rama lo stormo degli storni fa la palla nel capanno fanno la conta,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28432,
+   "d": "còuntra",
+   "it": [
+    "contro"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Che e’ scanzléin u t’arrivéva còuntra e’ bènc!",
+     "h": [
+      30,
+      37
+     ],
+     "it": "Che il cancellino ti arrivava contro il banco!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "a t li mócc tótti alazò còuntra cla bósca.",
+     "h": [
+      24,
+      31
+     ],
+     "it": "te le ammucchio tutte laggiù contro quella boscaglia.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28433,
+   "d": "cudlènz",
+   "it": [
+    "codone"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E pu e’ fis-ciòun e’ cudlènz e e’ pazèt ma la vulèda,",
+     "h": [
+      21,
+      28
+     ],
+     "it": "E poi il fischione e il codone e l’alzavola alla volata,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28434,
+   "d": "cumpagnamént",
+   "it": [
+    "funerale"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Eh, e mi cumpagnamént...",
+     "h": [
+      9,
+      21
+     ],
+     "it": "Sì, e ai funerali...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28435,
+   "d": "cumpagnéda",
+   "it": [
+    "accompagnata"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "jusen sla su vèdva cla s’era cumpagnéda sa Necc,",
+     "h": [
+      29,
+      39
+     ],
+     "it": "la Rosa era andata a stare su al passeggio (il viale Marini) nella casa di Graziano insieme con la vedova che si era accompagnata con Necc,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28436,
+   "d": "cumpagnì",
+   "it": [
+    "compagnia"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ènca al su fióli agli era da cumpagnì.",
+     "h": [
+      29,
+      37
+     ],
+     "it": "Anche le sue figlie erano da compagnia.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28437,
+   "d": "cunsideraziòun",
+   "it": [
+    "considerazione"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "tla miséria, la zénta la i tnéva ma la cunsideraziòun ’d chilt e i zarchéva da fè al ròbi giósti.",
+     "h": [
+      39,
+      53
+     ],
+     "it": "nella miseria, la gente ci teneva alla considerazione degli altri e cercavano di fare le cose giuste.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28438,
+   "d": "cuntadéin",
+   "it": [
+    "contadino"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "i cuntadéin i gna la féva a truvé i cunféin,",
+     "h": [
+      2,
+      11
+     ],
+     "it": "i contadini non ce la facevano a trovare i confini,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "e dop, Giulio u s’ à pórt tla chèsa de cuntadéin ’d Marcsènt,",
+     "h": [
+      39,
+      48
+     ],
+     "it": "perché bombardavano spesso; e dopo, Giulio ci ha portato nella casa del contadino di Marcosanti,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28439,
+   "d": "cuntè cmè e' dò d spèdi",
+   "it": [
+    "non contare niente"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "T còunt cmè e’ dò d spèdi sla bréscl’a bastòun!",
+     "h": [
+      8,
+      25
+     ],
+     "it": "Conti come il due di spade con briscola a bastoni!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28440,
+   "d": "curazèdi",
+   "it": [
+    "corazzate"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "chi féva chi suldè sénza s-ciuptèdi, da drì cagli armadéuri curazèdi.",
+     "h": [
+      60,
+      68
+     ],
+     "it": "che facevano quei soldati senza schioppettate, da dietro quelle armature corazzate.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28441,
+   "d": "cuséin",
+   "it": [
+    "cuscini"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Léigti mo un cuséin me chéul!",
+     "h": [
+      13,
+      19
+     ],
+     "it": "Legati un cuscino al culo!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "disdèi sòura chi cuséin se chéul bagnéd;",
+     "h": [
+      17,
+      23
+     ],
+     "it": "seduti sopra quei cuscini con il culo bagnato;",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28442,
+   "d": "custèza",
+   "it": [
+    "costina"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "’Csa vut figadétt e budéll ’d zunzèza: un assaggino,... ci matt ’na custèza!",
+     "h": [
+      68,
+      75
+     ],
+     "it": "Cosa vuoi fegatelli e budelli di salsiccia: un assaggino,... sei matto una costina!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28443,
+   "d": "da rèta",
+   "it": [
+    "dai retta"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Da rèta, un ent piò bèl ugn’è!",
+     "h": [
+      0,
+      7
+     ],
+     "it": "Dai retta, un altro più bello non c’è!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ piò bèl de mònd",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "La è ignurènta cmè un banchèt, l’an t dà rèta,... la téira drét!",
+     "h": [
+      38,
+      45
+     ],
+     "it": "È ignorante come un banchetto, non ti dà retta... tira dritto!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28444,
+   "d": "de chènt adlà",
+   "it": [
+    "dall'altra parte"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "la zénta la s zéira de chènt adlà.",
+     "h": [
+      20,
+      33
+     ],
+     "it": "la gente si gira dall’altra parte.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Un brótt rabài",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28445,
+   "d": "dè 'd mórs ti garétt",
+   "it": [
+    "dare di morso nei garretti, che gli corre dietro"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "i éva ’na miséria cla i déva ’d mórs ti garétt.",
+     "h": [
+      24,
+      46
+     ],
+     "it": "avevano una miseria che gli dava di morso nei garretti.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28446,
+   "d": "dè fug",
+   "it": [
+    "dare fuoco"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Cla vólta che Stramèda l’à dè fug ma la chèsa par mandè vea i sfuléd?...",
+     "h": [
+      27,
+      33
+     ],
+     "it": "Quella volta che Strameda ha dato fuoco alla casa per cacciare gli sfollati?...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28447,
+   "d": "dè 'n ucèda",
+   "it": [
+    "dare un'occhiata"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Dài pò, adès a i sémm... déma ’n ucèda ma st’“Atlantica”.",
+     "h": [
+      25,
+      38
+     ],
+     "it": "Dai pure, adesso ci siamo... diamo un’occhiata a quest’Atlantica.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28448,
+   "d": "dè 'na mòsa",
+   "it": [
+    "darsi una mossa",
+    "sbrigarsi"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Andémma,... dat ’na mòsa... tó t dò dèida, t an capéss?",
+     "h": [
+      12,
+      24
+     ],
+     "it": "Andiamo,... datti una mossa... togliti di due dita, non capisci?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28449,
+   "d": "dè te scròch",
+   "it": [
+    "schiacciare il pulsante"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Che tè dé te scròch e t véid tótt un’ ent mònd....",
+     "h": [
+      7,
+      19
+     ],
+     "it": "Che tu dai nel pulsante (schiacci il pulsante) e vedi tutto un altro mondo....",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Pzulìn: e’ scròch",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28450,
+   "d": "dei de vò",
+   "it": [
+    "dare del voi"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Gióst quèlca vólta a zirchè i fóng, si no u t tucarèbb dei de vò!",
+     "h": [
+      55,
+      64
+     ],
+     "it": "Giusto qualche volta a cercare i funghi, se no ti toccherebbe dargli del voi!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28451,
+   "d": "dèila véinta",
+   "it": [
+    "dargliela vinta"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "U t tòca dèila véinta,",
+     "h": [
+      9,
+      21
+     ],
+     "it": "Ti tocca dargliela vinta,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28452,
+   "d": "déss",
+   "it": [
+    "desse"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Amonò, ’sel t givi, ch’la t déss rasòun?",
+     "h": [
+      28,
+      32
+     ],
+     "it": "Ah ma no, cosa dicevi, che ti desse ragione?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28453,
+   "d": "didrì",
+   "it": [
+    "dietro"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "a savémm ’sè che suzéd in chèva i méunt mo s’avémm da dè ’na mèna m’un sgraziéd ch’u t sta didrì de chèul... te fiòcc!...",
+     "h": [
+      91,
+      96
+     ],
+     "it": "sappiamo cosa succede alla fine dei monti, ma se dobbiamo dare una mano a un disgraziato che ti sta dietro al culo... nel fiocco!...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè da la zèa rósa",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28454,
+   "d": "dimigèna",
+   "it": [
+    "damigiana"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ènca se dòp ch’la è stè svéita la dimigèna,",
+     "h": [
+      34,
+      42
+     ],
+     "it": "anche se dopo che è stata vuotata la damigiana,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè da la zèa rósa",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28455,
+   "d": "diogrezia",
+   "it": [
+    "diograzia"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ch’ um tuchéva andè dmandè e’ lat ma la Gina ad Nécia e diogrezia cla i era li a dês ’na mèna,",
+     "h": [
+      56,
+      65
+     ],
+     "it": "che mi toccava andare a chiedere il latte alla Gina ad Nécia, e diograzia che c’era lei a darci una mano,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28456,
+   "d": "disdèi",
+   "it": [
+    "seduti"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "disdèi sòura chi cuséin se chéul bagnéd;",
+     "h": [
+      0,
+      6
+     ],
+     "it": "seduti sopra quei cuscini con il culo bagnato;",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "am mètt disdèi m’un baritìn e am sò frighè da par me:",
+     "h": [
+      8,
+      14
+     ],
+     "it": "mi siedo a un barettino e mi sono fregato da solo:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28457,
+   "d": "distacamént",
+   "it": [
+    "distaccamento"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Àmo, té bèla ardótt un distacamént ad Gambètla sa tótt chi cadévar a lè ’d fura.",
+     "h": [
+      23,
+      34
+     ],
+     "it": "Ah ma, ti sei ormai ridotta a un distaccamento di Gambettola con tutti quei cadaveri lì fuori.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28458,
+   "d": "divartéis",
+   "it": [
+    "divertirsi"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Snò pre góst ad divartéis cmè di burdéll,",
+     "h": [
+      16,
+      25
+     ],
+     "it": "Solo il gusto di divertirsi come dei bambini,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28459,
+   "d": "duccè",
+   "it": [
+    "squadrare",
+    "addocchiare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ tàca ’duccè e’ motòur e’ guerda e’ sfróccia e’ scrola la testa e pu e’ tàca a réid e a guardès da tònda.",
+     "h": [
+      9,
+      14
+     ],
+     "it": "Comincia a squadrare il motore e guarda e armeggia e scuote la testa e poi comincia a ridere e a guardarsi intorno.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28460,
+   "d": "dusént",
+   "it": [
+    "duecento"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Pu, té zardéin, i à piént un uléiv ad dusént ann.",
+     "h": [
+      38,
+      44
+     ],
+     "it": "Poi, nel giardino, hanno piantato un ulivo di duecento anni.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La giustificaziòun",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "T’muréss invalnèd d’ e’ tu fiùl dop che té véint dusént miliéun me Sisal e t an é fat témp a fe testamént.",
+     "h": [
+      49,
+      55
+     ],
+     "it": "Morissi avvelenato da tuo figlio dopo che hai vinto duecento milioni alla Sisal (lotteria) e non hai fatto tempo a fare testamento.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Un brótt rabài",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28461,
+   "d": "dvanadéur",
+   "it": [
+    "dipanatoio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ènca tè, Elena, ut vén fastéidi se vént de dvanadéur...",
+     "h": [
+      43,
+      52
+     ],
+     "it": "anche tu, Elena, svieni con il vento del dipanatoio (per un nonnulla)...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28462,
+   "d": "e' bazéila",
+   "it": [
+    "si danna"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "In bazéila a mettsi drétt...",
+     "h": [
+      3,
+      10
+     ],
+     "it": "Non si dannano a mettersi dritti...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28463,
+   "d": "eleghènt",
+   "it": [
+    "elegante"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Sgnòur eleghènt!",
+     "h": [
+      7,
+      15
+     ],
+     "it": "Signore elegante!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28464,
+   "d": "fatòur",
+   "it": [
+    "fattore"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "la Nita, la éva tólt Gobbi, e’ fatòur.",
+     "h": [
+      31,
+      37
+     ],
+     "it": "perché la sua sorella, la Nita, la Nita, aveva sposato Gobbi, il fattore.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28465,
+   "d": "favaròun",
+   "it": [
+    "colombaccio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ pivinàzz e pu e’ gamblòun insèn sla fléina e e’ clòmb favaròun,",
+     "h": [
+      57,
+      65
+     ],
+     "it": "Il chiurlo e poi la pittima maggiore insieme con la pavoncella e il colombaccio,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28466,
+   "d": "fè bèla fighéura",
+   "it": [
+    "fare bella figura"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "An s’avdémm mai; fam fè bèla fighéura cla vólta ch’a putémm fè dò ciàcri.",
+     "h": [
+      21,
+      37
+     ],
+     "it": "Non ci vediamo mai; fammi fare bella figura quella volta che possiamo fare due chiacchiere.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28467,
+   "d": "fè féinta",
+   "it": [
+    "fare finta"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Al fa féinta che i ànn is séa inciudè,",
+     "h": [
+      3,
+      12
+     ],
+     "it": "Fanno finta che gli anni si siano inchiodati,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28468,
+   "d": "fè la còunta",
+   "it": [
+    "fare la conta"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e quand sla rèma e’ vèrc di stéuran e’ fà la pàla te capàn i fà la còunta,",
+     "h": [
+      61,
+      73
+     ],
+     "it": "e quando sulla rama lo stormo degli storni fa la palla nel capanno fanno la conta,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28469,
+   "d": "fè la féin de zóccar",
+   "it": [
+    "fare la fine dello zucchero"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Éun ma tè e éun mu mè; si no a fémm la féin de zóccar!",
+     "h": [
+      31,
+      53
+     ],
+     "it": "Uno a te e uno a me; se no facciamo la fine dello zucchero!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28470,
+   "d": "félza",
+   "it": [
+    "falce"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "l’érba pri cunèi ad spuntéun ti cantìr ’d spagnèra sa félza e gavàgn,",
+     "h": [
+      54,
+      59
+     ],
+     "it": "l’erba per i conigli chine nei campi di erba medica con falce e cesto,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28471,
+   "d": "fèssla madòs da réid",
+   "it": [
+    "farsela addosso dal ridere"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "u s la féva madòs da réid.",
+     "h": [
+      4,
+      25
+     ],
+     "it": "se la faceva addosso dal ridere.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28472,
+   "d": "fiéd",
+   "it": [
+    "combinato"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Mó gvérda cmè chi và fiéd... e i n s vargògna mégga!",
+     "h": [
+      21,
+      25
+     ],
+     "it": "Ma guarda come vanno combinati... e non si vergognano mica!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Pzulìn: chi burdlàzz",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28473,
+   "d": "finèida",
+   "it": [
+    "finita"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ fat l’è, che la n è ancòura finèida...",
+     "h": [
+      31,
+      38
+     ],
+     "it": "Il fatto è che non è ancora finita...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Cèvi e bascòzi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28474,
+   "d": "fiòcc",
+   "it": [
+    "fiocco"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "a savémm ’sè che suzéd in chèva i méunt mo s’avémm da dè ’na mèna m’un sgraziéd ch’u t sta didrì de chèul... te fiòcc!...",
+     "h": [
+      112,
+      117
+     ],
+     "it": "sappiamo cosa succede alla fine dei monti, ma se dobbiamo dare una mano a un disgraziato che ti sta dietro al culo... nel fiocco!...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè da la zèa rósa",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28475,
+   "d": "firmé",
+   "it": [
+    "firmato"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I s’è firmé la giustificaziòun da par lòu.",
+     "h": [
+      6,
+      11
+     ],
+     "it": "Si sono firmati la giustificazione da soli.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La giustificaziòun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28476,
+   "d": "fis-ciòun",
+   "it": [
+    "fischione"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E pu e’ fis-ciòun e’ cudlènz e e’ pazèt ma la vulèda,",
+     "h": [
+      8,
+      17
+     ],
+     "it": "E poi il fischione e il codone e l’alzavola alla volata,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Ta t arcórd quànd ch’i sunéva e’ fis-ciòun tla tèra ’d Zamàgna?",
+     "h": [
+      33,
+      42
+     ],
+     "it": "Ti ricordi quando suonavano il fischio (della mietitrebbia) nella terra di Zamagna?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28477,
+   "d": "fisc-iaròuna",
+   "it": [
+    "canterina"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "la lódla màta, cla fisc-iaròuna te paldràz,",
+     "h": [
+      19,
+      31
+     ],
+     "it": "l’allodola dei prati, quella canterina nell’erba secca,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28478,
+   "d": "fléina",
+   "it": [
+    "pavoncella"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ pivinàzz e pu e’ gamblòun insèn sla fléina e e’ clòmb favaròun,",
+     "h": [
+      39,
+      45
+     ],
+     "it": "Il chiurlo e poi la pittima maggiore insieme con la pavoncella e il colombaccio,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28479,
+   "d": "fóng",
+   "it": [
+    "funghi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Gióst quèlca vólta a zirchè i fóng, si no u t tucarèbb dei de vò!",
+     "h": [
+      30,
+      34
+     ],
+     "it": "Giusto qualche volta a cercare i funghi, se no ti toccherebbe dargli del voi!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28480,
+   "d": "forz' ad",
+   "it": [
+    "a forza di"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "se t vu campè Forz’ ad dèi la t’à bèla bagatè...",
+     "h": [
+      14,
+      22
+     ],
+     "it": "se vuoi campare, a forza di darci ti ha già bell’e rovinato...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28481,
+   "d": "frazz",
+   "it": [
+    "ferraglie"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "mo gvérda ’csè cla vést t’un pógn ad frazz!",
+     "h": [
+      37,
+      42
+     ],
+     "it": "ma guarda cosa ha visto in un pugno di ferraglie!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28482,
+   "d": "frènc",
+   "it": [
+    "lire"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "quéng euro, che pù l’è sèmpra trentaméla frènc!",
+     "h": [
+      41,
+      46
+     ],
+     "it": "quindici euro, che poi sono sempre trentamila franchi (lire)!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "che mè a dégg: gnénca par zéntméla frènc all’òura!...",
+     "h": [
+      35,
+      40
+     ],
+     "it": "che io dico: neanche per centomila lire all’ora!...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Te mèr in bicicléta",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28483,
+   "d": "frighè",
+   "it": [
+    "fregato"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "am mètt disdèi m’un baritìn e am sò frighè da par me:",
+     "h": [
+      36,
+      42
+     ],
+     "it": "mi siedo a un barettino e mi sono fregato da solo:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28484,
+   "d": "fug",
+   "it": [
+    "fuoco"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Senza mórt, gnént cadèvar e gnénca un fug.",
+     "h": [
+      38,
+      41
+     ],
+     "it": "Senza morti, niente cadaveri e neanche un fuoco.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Cla vólta che Stramèda l’à dè fug ma la chèsa par mandè vea i sfuléd?...",
+     "h": [
+      30,
+      33
+     ],
+     "it": "Quella volta che Strameda ha dato fuoco alla casa per cacciare gli sfollati?...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28485,
+   "d": "fuiétt",
+   "it": [
+    "foglietti"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ pèr adèss, sa tótt chi fuiétt!",
+     "h": [
+      26,
+      32
+     ],
+     "it": "Sembra adesso, con tutti quei foglietti!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28486,
+   "d": "fundaziòun",
+   "it": [
+    "fondazioni"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "agli à fat al ràdghi sòtt’al fundaziòun.",
+     "h": [
+      29,
+      39
+     ],
+     "it": "hanno fatto le radici sotto le fondazioni.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Bèla la liguria",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28487,
+   "d": "gamblòun",
+   "it": [
+    "pittima maggiore"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ pivinàzz e pu e’ gamblòun insèn sla fléina e e’ clòmb favaròun,",
+     "h": [
+      20,
+      28
+     ],
+     "it": "Il chiurlo e poi la pittima maggiore insieme con la pavoncella e il colombaccio,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28488,
+   "d": "gambrétt",
+   "it": [
+    "gambe all'aria"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "si no te fòs gambrétt ta i vè zò tè.",
+     "h": [
+      13,
+      21
+     ],
+     "it": "se no nel fosso a gambe all’aria ci vai giù te.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28489,
+   "d": "gang",
+   "it": [
+    "ganci"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ céul di parénch, si gang spandléun.",
+     "h": [
+      23,
+      27
+     ],
+     "it": "Il lamento dei paranchi, coi ganci a penzoloni, un pavimento lercio.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28490,
+   "d": "gàti da olisènt",
+   "it": [
+    "sbornie da olio santo, molto intense"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "l’eva dal gàti da Olisènt:",
+     "h": [
+      15,
+      25
+     ],
+     "it": "aveva delle sbornie da olio santo:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28491,
+   "d": "gènghi",
+   "it": [
+    "rocce"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Scrichéd tra i méunt e si pi instécc tal gènghi.",
+     "h": [
+      41,
+      47
+     ],
+     "it": "Schiacciati tra i monti e con i piedi conficcati nelle rocce.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Bèla la liguria",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28492,
+   "d": "ginz",
+   "it": [
+    "prima"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Scapè ginz, piottòst che dòp... ch’ e’ tacchéss e’ su lavòur!",
+     "h": [
+      6,
+      10
+     ],
+     "it": "Scappare prima, piuttosto che dopo... che cominciasse il suo lavoro!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28493,
+   "d": "gióst",
+   "it": [
+    "giusto"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "par bagné gióst la caméisa.",
+     "h": [
+      10,
+      15
+     ],
+     "it": "per bagnare giusto la camicia.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "S agni sò mè a tnéivi radanédi, a s incuntrémm gióst mi matrimóni...",
+     "h": [
+      47,
+      52
+     ],
+     "it": "Se non ci sono io a tenervi ordinate (a badarvi), ci incontriamo giusto ai matrimoni...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "s an m’u n móv mè a s’avdémm gióst in piàza o me camp-sènt!",
+     "h": [
+      29,
+      34
+     ],
+     "it": "se non mi muovo io, ci vediamo giusto in piazza o al camposanto!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Gióst quèlca vólta a zirchè i fóng, si no u t tucarèbb dei de vò!",
+     "h": [
+      0,
+      5
+     ],
+     "it": "Giusto qualche volta a cercare i funghi, se no ti toccherebbe dargli del voi!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28494,
+   "d": "gìtèda",
+   "it": [
+    "gettata"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "sòura m’una gìtèda d’un cimént bruglòus varniséd s una varnéisa ancòra piò bruglòusa ch’ l’era piò sgustòusa sóta i pì,",
+     "h": [
+      12,
+      18
+     ],
+     "it": "sopra una gettata di un cemento ruvido verniciata con una vernice ancora più ruvida che era tanto fastidiosa sotto i piedi che neanche i gusci delle telline...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28495,
+   "d": "giubidomini",
+   "it": [
+    "giubboni"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E chi giubidomini,... che dòp, màs-ci e fèinni, vai arcnòss tè, se t’ci bón!",
+     "h": [
+      6,
+      17
+     ],
+     "it": "E quei giubboni,... che dopo, maschi e femmine, valli a riconoscere, se sei capace!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Pzulìn: chi burdlàzz",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28496,
+   "d": "giustificaziòun",
+   "it": [
+    "giustificazione"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I s’è firmé la giustificaziòun da par lòu.",
+     "h": [
+      15,
+      30
+     ],
+     "it": "Si sono firmati la giustificazione da soli.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La giustificaziòun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28497,
+   "d": "givi",
+   "it": [
+    "dicevi"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "’sel t givi, ch’la caléss sèmpra?",
+     "h": [
+      7,
+      11
+     ],
+     "it": "cosa dicevi, che calasse sempre (fosse sempre facile)?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Amonò, ’sel t givi, ch’la t déss rasòun?",
+     "h": [
+      14,
+      18
+     ],
+     "it": "Ah ma no, cosa dicevi, che ti desse ragione?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28498,
+   "d": "gnóla",
+   "it": [
+    "piagnucolano"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I agnéll chi gnóla e i s’amócia t’un cantòun de srai.",
+     "h": [
+      13,
+      18
+     ],
+     "it": "Gli agnelli che piagnucolano e si ammassano in un angolo del serraglio.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28499,
+   "d": "grépp",
+   "it": [
+    "rupi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Di piò béll paistìn tachéd sò ma chi grépp che s t’ a t apòzz e’ pèr chi àpa da zuclé par la fadéiga chi fà a ’rvanzè drétt.",
+     "h": [
+      37,
+      42
+     ],
+     "it": "Dei più bei paesini attaccati sopra quelle rupi che se ti appoggi sembra che debbano dondolare per la fatica che fanno a restare dritti.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Bèla la liguria",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28500,
+   "d": "guàia",
+   "it": [
+    "guaio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e se qualcadéun ul tòcca... a guàia!!!",
+     "h": [
+      30,
+      35
+     ],
+     "it": "e se qualcuno lo tocca... sono guai!!!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28501,
+   "d": "guéida",
+   "it": [
+    "guidano"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Intanimódi quei ch’i guéida i gni stà dréinta tal rëighi,",
+     "h": [
+      21,
+      27
+     ],
+     "it": "In tutti i modi quelli che guidano non ci stanno dentro le righe,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28502,
+   "d": "gvardè",
+   "it": [
+    "guardare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "par gvardè ’lè dréinta,",
+     "h": [
+      4,
+      10
+     ],
+     "it": "per guardare lì dentro,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28503,
+   "d": "ignurènt cmè un banchèt",
+   "it": [
+    "ignorante come un banchetto, senza rimedio"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La è ignurènta cmè un banchèt, l’an t dà rèta,... la téira drét!",
+     "h": [
+      15,
+      29
+     ],
+     "it": "È ignorante come un banchetto, non ti dà retta... tira dritto!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28504,
+   "d": "ignurènta",
+   "it": [
+    "ignorante"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La è ignurènta cmè un banchèt, l’an t dà rèta,... la téira drét!",
+     "h": [
+      5,
+      14
+     ],
+     "it": "È ignorante come un banchetto, non ti dà retta... tira dritto!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28505,
+   "d": "impinéida",
+   "it": [
+    "riempita"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "da lè a zéinc minéud i la à impinéida.",
+     "h": [
+      28,
+      37
+     ],
+     "it": "da lì a cinque minuti l’hanno riempita.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28506,
+   "d": "incaplé",
+   "it": [
+    "arrabbiarsi"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Gvèrda,... su i é ’na roba ch’ la m fa incaplé,",
+     "h": [
+      39,
+      46
+     ],
+     "it": "Guarda,... se c’è una cosa che mi fa arrabbiare,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Cèvi e bascòzi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28507,
+   "d": "incaplèda",
+   "it": [
+    "arrabbiata"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La Nèlla incaplèda e lengualònga:",
+     "h": [
+      9,
+      18
+     ],
+     "it": "La Nella arrabbiata e lingualunga:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28508,
+   "d": "incatramèda",
+   "it": [
+    "incatramata"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Sòura ma sta tèra incatramèda.",
+     "h": [
+      18,
+      29
+     ],
+     "it": "Sopra questa terra incatramata.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La ciàuga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28509,
+   "d": "inciudè",
+   "it": [
+    "inchiodati"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Al fa féinta che i ànn is séa inciudè,",
+     "h": [
+      30,
+      37
+     ],
+     "it": "Fanno finta che gli anni si siano inchiodati,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28510,
+   "d": "incórt",
+   "it": [
+    "accorto"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I la à bóta zò ’d nòta, u n s’ne incórt nisséun.",
+     "h": [
+      33,
+      39
+     ],
+     "it": "L’hanno buttata giù di notte, non se n’è accorto nessuno.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La giustificaziòun",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Vut ch’e’ nòst Sgnòur benedètt un s’ n un sea incórt che l’òm u i è vnéu malfié?",
+     "h": [
+      46,
+      52
+     ],
+     "it": "Vuoi che il nostro Signore benedetto non se ne sia accorto che l’uomo gli è venuto malcreato?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28511,
+   "d": "incosciént",
+   "it": [
+    "incoscienti"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I è própri di incosciént!",
+     "h": [
+      14,
+      24
+     ],
+     "it": "Sono proprio degli incoscienti!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28512,
+   "d": "indimpartót",
+   "it": [
+    "dappertutto"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ti bar, tal chèsi, indimpartót: mo us po’ fè ’vdéi ’na ròba acsè?",
+     "h": [
+      19,
+      30
+     ],
+     "it": "Nei bar, nelle case, dappertutto: ma si può far vedere una cosa così?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28513,
+   "d": "ingrinznéid",
+   "it": [
+    "raggrinzito"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ingrinznéid, smulachèd cmè e’ grass tl alèss: at vrébb avdéi ma tè sa ste spettécal!”",
+     "h": [
+      0,
+      11
+     ],
+     "it": "Raggrinzito, molle come il grasso del lesso: vorrei vedere te con questo spettacolo!»",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28514,
+   "d": "instécc",
+   "it": [
+    "conficcato"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Scrichéd tra i méunt e si pi instécc tal gènghi.",
+     "h": [
+      29,
+      36
+     ],
+     "it": "Schiacciati tra i monti e con i piedi conficcati nelle rocce.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Bèla la liguria",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28515,
+   "d": "instichè",
+   "it": [
+    "infilare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Àmo, at vrébb avdei ma tè, snò sna mèna, instichè te pirimpéscar sta putèna!",
+     "h": [
+      41,
+      49
+     ],
+     "it": "Ah, ma vorrei vedere te, solo con una mano, conficcare nella serratura questa puttana!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Cèvi e bascòzi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28516,
+   "d": "intacunéd",
+   "it": [
+    "impiastricciato"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Sa chi cavéll tótt intacunéd e’ pèr chi àpa un baghéin spinòus sla tèsta.",
+     "h": [
+      19,
+      28
+     ],
+     "it": "Con quei capelli tutti impiastricciati sembra che abbiano un porcospino sulla testa.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Pzulìn: chi burdlàzz",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28517,
+   "d": "interésa",
+   "it": [
+    "interessa"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La deciéid li indò ch’l’à d’andè, ugn’interésa quel t péns tè.",
+     "h": [
+      38,
+      46
+     ],
+     "it": "Lo decide lei dove deve andare, non le interessa quello che pensi tu.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28518,
+   "d": "invalnèd",
+   "it": [
+    "avvelenato"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "T’muréss invalnèd d’ e’ tu fiùl dop che té véint dusént miliéun me Sisal e t an é fat témp a fe testamént.",
+     "h": [
+      9,
+      17
+     ],
+     "it": "Morissi avvelenato da tuo figlio dopo che hai vinto duecento milioni alla Sisal (lotteria) e non hai fatto tempo a fare testamento.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Un brótt rabài",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28519,
+   "d": "la léuna te pòzz",
+   "it": [
+    "la luna nel pozzo"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "A la ’vémm véuda la léuna te pòzz...",
+     "h": [
+      20,
+      33
+     ],
+     "it": "L’abbiamo avuta la luna nel pozzo...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28520,
+   "d": "lamantès de bród gras",
+   "it": [
+    "lamentarsi del brodo grasso, dell'abbondanza"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ugnè malàz, prighéma Sènta Déura ch’an putémm lamantès de bród gras.",
+     "h": [
+      46,
+      67
+     ],
+     "it": "Non c’è malaccio, preghiamo santa Dura (che duri), che non possiamo lamentarci del brodo grasso.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28521,
+   "d": "lazaréun",
+   "it": [
+    "lazzaroni"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Canài, léudar, lazaréun: i magna tótt aquè da néun.",
+     "h": [
+      15,
+      23
+     ],
+     "it": "Canaglie, parassiti, lazzaroni: mangiano tutti qui da noi.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè da la zèa rósa",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28522,
+   "d": "lengualònga",
+   "it": [
+    "lingualunga"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La Nèlla incaplèda e lengualònga:",
+     "h": [
+      21,
+      32
+     ],
+     "it": "La Nella arrabbiata e lingualunga:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28523,
+   "d": "léudar",
+   "it": [
+    "parassiti"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Canài, léudar, lazaréun: i magna tótt aquè da néun.",
+     "h": [
+      7,
+      13
+     ],
+     "it": "Canaglie, parassiti, lazzaroni: mangiano tutti qui da noi.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè da la zèa rósa",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28524,
+   "d": "lofa",
+   "it": [
+    "fagotto"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "s’ ’na lofa ch’e’ pèr ch’i sea caghé madòss.",
+     "h": [
+      7,
+      11
+     ],
+     "it": "con un fagotto che pare si siano cagati addosso.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Pzulìn: chi burdlàzz",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28525,
+   "d": "luzòus",
+   "it": [
+    "lercio"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Un sulèr luzòus.",
+     "h": [
+      9,
+      15
+     ],
+     "it": "Il lamento dei paranchi, coi ganci a penzoloni, un pavimento lercio.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28526,
+   "d": "macapgnùl",
+   "it": [
+    "frosone"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e’ stardàc e e’ macapgnùl,",
+     "h": [
+      16,
+      25
+     ],
+     "it": "lo strillozzo e il frosone,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28527,
+   "d": "malfié",
+   "it": [
+    "malcreato"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Vut ch’e’ nòst Sgnòur benedètt un s’ n un sea incórt che l’òm u i è vnéu malfié?",
+     "h": [
+      73,
+      79
+     ],
+     "it": "Vuoi che il nostro Signore benedetto non se ne sia accorto che l’uomo gli è venuto malcreato?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28528,
+   "d": "mangìm",
+   "it": [
+    "mangime"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "un pógn d’ mangìm e dla pulènta...",
+     "h": [
+      11,
+      17
+     ],
+     "it": "un pugno di mangime e della polenta...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè da la zèa rósa",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "I partéss da tótt i cantéun cmè al galéini ch’a l córr mé mangìm,",
+     "h": [
+      58,
+      64
+     ],
+     "it": "Partono da ogni cantone come le galline che corrono al mangime,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28529,
+   "d": "manini",
+   "it": [
+    "manine"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "T à n é al manini?",
+     "h": [
+      11,
+      17
+     ],
+     "it": "Oh più noiosa che sei... non hai le manine?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28530,
+   "d": "mantnèis",
+   "it": [
+    "mantenersi"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "U n s pò, agli à da mantnèis in réiga!",
+     "h": [
+      20,
+      28
+     ],
+     "it": "Non si può, devono mantenersi in riga!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28531,
+   "d": "màs-ci",
+   "it": [
+    "maschi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E chi giubidomini,... che dòp, màs-ci e fèinni, vai arcnòss tè, se t’ci bón!",
+     "h": [
+      31,
+      37
+     ],
+     "it": "E quei giubboni,... che dopo, maschi e femmine, valli a riconoscere, se sei capace!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Pzulìn: chi burdlàzz",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28532,
+   "d": "mazagàt",
+   "it": [
+    "giunchi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La parzèvla, sbutéda ti mazagàt, che ta la cém se vérs, cumpàgn de gat.",
+     "h": [
+      24,
+      31
+     ],
+     "it": "Il beccaccino, acquattato fra i giunchi, che lo richiami con il verso, uguale al gatto.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28533,
+   "d": "mazlér",
+   "it": [
+    "macellai"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E sòura tótt che diavuléri... piò fórt: i móccal sécc di mazlér.",
+     "h": [
+      57,
+      63
+     ],
+     "it": "E sopra tutto quel caos... più forti: le bestemmie asciutte dei macellai.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28534,
+   "d": "màzz",
+   "it": [
+    "mazzo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Fùra de canzèl sla spórtla sòta bràzz zirchè tal bascòzi che patàca ad màzz!",
+     "h": [
+      71,
+      75
+     ],
+     "it": "Fuori dal cancello con la sporta sotto il braccio cercare nelle tasche quello stupido mazzo!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Cèvi e bascòzi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28535,
+   "d": "mecànic",
+   "it": [
+    "meccanico"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e féva e’ mecànic ad lavòur ste burdlàz.",
+     "h": [
+      10,
+      17
+     ],
+     "it": "faceva il meccanico di lavoro questo ragazzo.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28536,
+   "d": "mercia",
+   "it": [
+    "marcia"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "U s’è tòcc fè mercia indr’,",
+     "h": [
+      14,
+      20
+     ],
+     "it": "Ci è toccato fare marcia indietro,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28537,
+   "d": "mètt in féila",
+   "it": [
+    "mettere in fila"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Sa mètt in féila quei ch’ ò fat in tri dè,",
+     "h": [
+      3,
+      16
+     ],
+     "it": "Se metto in fila quelli che ho fatto in tre giorni,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Bèla la liguria",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28538,
+   "d": "mgnàzz",
+   "it": [
+    "sanguinaccio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "cmè mgnàzz armistiéd sa sgadézz e nafta:",
+     "h": [
+      4,
+      10
+     ],
+     "it": "come sanguinaccio mescolato con segatura e nafta:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28539,
+   "d": "mócc",
+   "it": [
+    "ammucchio"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "a t li mócc tótti alazò còuntra cla bósca.",
+     "h": [
+      7,
+      11
+     ],
+     "it": "te le ammucchio tutte laggiù contro quella boscaglia.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28540,
+   "d": "moccàl",
+   "it": [
+    "moccoli"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E sòura tótt che diavuléri... piò fórt: i móccal sécc di mazlér.",
+     "h": [
+      42,
+      48
+     ],
+     "it": "E sopra tutto quel caos... più forti: le bestemmie asciutte dei macellai.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Sfurgàta d’un chènt, e pù dài pò da clèlt si moccàl chi s’èlza sèmpra piò d’inèlr!",
+     "h": [
+      45,
+      51
+     ],
+     "it": "Fruga da una parte, e poi dai pure dall’altra con i moccoli che si alzano sempre più in alto!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Cèvi e bascòzi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28541,
+   "d": "móccal",
+   "it": [
+    "bestemmie"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E sòura tótt che diavuléri... piò fórt: i móccal sécc di mazlér.",
+     "h": [
+      42,
+      48
+     ],
+     "it": "E sopra tutto quel caos... più forti: le bestemmie asciutte dei macellai.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Sfurgàta d’un chènt, e pù dài pò da clèlt si moccàl chi s’èlza sèmpra piò d’inèlr!",
+     "h": [
+      45,
+      51
+     ],
+     "it": "Fruga da una parte, e poi dai pure dall’altra con i moccoli che si alzano sempre più in alto!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Cèvi e bascòzi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28542,
+   "d": "moréa",
+   "it": [
+    "moria",
+    "epidemia"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "U i géva “Mario s’e ciàpa la moréa ti béll mu mè e ma tè u n s vén gnènca e’ fardòur!”",
+     "h": [
+      29,
+      34
+     ],
+     "it": "Gli diceva: «Mario, se prende la moria (l’epidemia) ai belli, a me e a te, non ci viene neanche il raffreddore!»",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28543,
+   "d": "moróidi",
+   "it": [
+    "emorroidi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ch’u t avnéss al moróidi cmè dò péiri Wiliams!",
+     "h": [
+      17,
+      24
+     ],
+     "it": "Che ti venissero le emorroidi come due pere Williams!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28544,
+   "d": "mucé",
+   "it": [
+    "ammucchiare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "par mucé i mórt tla bàla.",
+     "h": [
+      4,
+      8
+     ],
+     "it": "per ammucchiare i morti nel sacco.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28545,
+   "d": "muléiga",
+   "it": [
+    "mollica"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "strènz una muléiga,... mo no ’na màsa!...",
+     "h": [
+      11,
+      18
+     ],
+     "it": "stringi una mollica,... ma non molto!...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28546,
+   "d": "mundèzi",
+   "it": [
+    "macerie"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "quàtar cópp...dop de fròunt u s’era ardótt un pógn ’d mundèzi.",
+     "h": [
+      54,
+      61
+     ],
+     "it": "dopo il fronte (la guerra) si era ridotta un pugno di macerie.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28547,
+   "d": "munghèna",
+   "it": [
+    "vacca da mungere"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "la stéva sò da te let par studiè la munghèna.",
+     "h": [
+      36,
+      44
+     ],
+     "it": "si alzava dal letto per mungere la vacca.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28548,
+   "d": "muntéd",
+   "it": [
+    "salito"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Muntéd sò sla batèna de mi cugnéd,",
+     "h": [
+      0,
+      6
+     ],
+     "it": "Saliti sulla battana di mio cognato,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28549,
+   "d": "murdèccia",
+   "it": [
+    "mordecchia"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I vidléun strasnéd par la murdèccia, i baghéin chi rògg, I brécc ’hi péunta.",
+     "h": [
+      26,
+      35
+     ],
+     "it": "I vitelloni trascinati per la mordecchia, i maiali che urlano, gli asini che si impuntano.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28550,
+   "d": "muròusa",
+   "it": [
+    "morosa"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ció, s’ t an vó ’rturnè a zirchè muròusa,",
+     "h": [
+      33,
+      40
+     ],
+     "it": "Dì, se non vuoi tornare a cercar morosa,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28551,
+   "d": "nisséun",
+   "it": [
+    "nessuno"
+   ],
+   "var": "SA",
+   "cat": "Pronome",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "un n arvènza piò nisséun,",
+     "h": [
+      17,
+      24
+     ],
+     "it": "non ne rimane più nessuno,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "sé prit davènti e nisséun drì ma la càsa,",
+     "h": [
+      18,
+      25
+     ],
+     "it": "con il prete davanti e nessuno dietro alla cassa,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Un brótt rabài",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "I la à bóta zò ’d nòta, u n s’ne incórt nisséun.",
+     "h": [
+      40,
+      47
+     ],
+     "it": "L’hanno buttata giù di notte, non se n’è accorto nessuno.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La giustificaziòun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28552,
+   "d": "nòni",
+   "it": [
+    "nonne"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ugnè piò religiòun, duv’elli al nòni, al mà, sempr’alè pròunti sénza prétènd?",
+     "h": [
+      32,
+      36
+     ],
+     "it": "Non c’è più religione, dove sono le nonne, le mamme, sempre lì pronte senza pretendere?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28553,
+   "d": "òcc ad bò",
+   "it": [
+    "luì"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ch’l’è l’òcc ad bò,",
+     "h": [
+      9,
+      18
+     ],
+     "it": "che è il luì,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28554,
+   "d": "paciarìna",
+   "it": [
+    "fanghiglia"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Sa cla paciarìna, ma tèra,",
+     "h": [
+      7,
+      16
+     ],
+     "it": "Con quella fanghiglia, in terra,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28555,
+   "d": "pagnòta",
+   "it": [
+    "pagnotta"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "alòura sè ch’l’era déura la pagnòta... altrochè!",
+     "h": [
+      28,
+      35
+     ],
+     "it": "allora sì che era dura la pagnotta... altroché!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28556,
+   "d": "paldràz",
+   "it": [
+    "erba secca"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "la lódla màta, cla fisc-iaròuna te paldràz,",
+     "h": [
+      35,
+      42
+     ],
+     "it": "l’allodola dei prati, quella canterina nell’erba secca,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28557,
+   "d": "parchigè",
+   "it": [
+    "parcheggiato"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Quei chi avèiva parchigè cme dò azdòuri un pó imbariéghi,",
+     "h": [
+      16,
+      24
+     ],
+     "it": "Quelli che avevano parcheggiato come due casalinghe un po’ ubriache,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28558,
+   "d": "parécc",
+   "it": [
+    "parecchio"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Parécc!",
+     "h": [
+      0,
+      6
+     ],
+     "it": "Parecchi!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28559,
+   "d": "parénch",
+   "it": [
+    "paranchi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ céul di parénch, si gang spandléun.",
+     "h": [
+      11,
+      18
+     ],
+     "it": "Il lamento dei paranchi, coi ganci a penzoloni, un pavimento lercio.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28560,
+   "d": "parzèvla",
+   "it": [
+    "beccaccino"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La parzèvla, sbutéda ti mazagàt, che ta la cém se vérs, cumpàgn de gat.",
+     "h": [
+      3,
+      11
+     ],
+     "it": "Il beccaccino, acquattato fra i giunchi, che lo richiami con il verso, uguale al gatto.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28561,
+   "d": "pasè e' fròunt",
+   "it": [
+    "passare il fronte"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Quànd ch’l’è pass e’ fròunt,",
+     "h": [
+      13,
+      27
+     ],
+     "it": "Quando è passato il fronte,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28562,
+   "d": "pazèt",
+   "it": [
+    "alzavola"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E pu e’ fis-ciòun e’ cudlènz e e’ pazèt ma la vulèda,",
+     "h": [
+      34,
+      39
+     ],
+     "it": "E poi il fischione e il codone e l’alzavola alla volata,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28563,
+   "d": "péiri",
+   "it": [
+    "pere"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ch’u t avnéss al moróidi cmè dò péiri Wiliams!",
+     "h": [
+      32,
+      37
+     ],
+     "it": "Che ti venissero le emorroidi come due pere Williams!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28564,
+   "d": "pérs 'd vésta",
+   "it": [
+    "perso di vista"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Oh... té voia a zcòrr ad quéi ch’avémm pérs ’d vésta:",
+     "h": [
+      39,
+      52
+     ],
+     "it": "Oh... hai voglia a parlare di quelli che abbiamo perso di vista:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28565,
+   "d": "petràngla",
+   "it": [
+    "petrangola"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ch’al degga: Petràngla l’è stè fàta,",
+     "h": [
+      13,
+      22
+     ],
+     "it": "che dicano: Petrangola è stata dichiarata,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28566,
+   "d": "piatafòurma",
+   "it": [
+    "piattaforma"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "L’éva vést ’na piatafòurma da dalòng,",
+     "h": [
+      15,
+      26
+     ],
+     "it": "Aveva visto una piattaforma da lontano,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28567,
+   "d": "pién",
+   "it": [
+    "piano"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e’ módi par mètt in pién la situaziòun;",
+     "h": [
+      20,
+      24
+     ],
+     "it": "il modo per mettere in piano la situazione;",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28568,
+   "d": "piént",
+   "it": [
+    "piantato"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Pu, té zardéin, i à piént un uléiv ad dusént ann.",
+     "h": [
+      20,
+      25
+     ],
+     "it": "Poi, nel giardino, hanno piantato un ulivo di duecento anni.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La giustificaziòun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28569,
+   "d": "piottòst",
+   "it": [
+    "piuttosto"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Scapè ginz, piottòst che dòp... ch’ e’ tacchéss e’ su lavòur!",
+     "h": [
+      12,
+      20
+     ],
+     "it": "Scappare prima, piuttosto che dopo... che cominciasse il suo lavoro!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28570,
+   "d": "pirimpéscar",
+   "it": [
+    "serratura"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Àmo, at vrébb avdei ma tè, snò sna mèna, instichè te pirimpéscar sta putèna!",
+     "h": [
+      53,
+      64
+     ],
+     "it": "Ah, ma vorrei vedere te, solo con una mano, conficcare nella serratura questa puttana!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Cèvi e bascòzi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28571,
+   "d": "pivinàzz",
+   "it": [
+    "chiurlo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ pivinàzz e pu e’ gamblòun insèn sla fléina e e’ clòmb favaròun,",
+     "h": [
+      3,
+      11
+     ],
+     "it": "Il chiurlo e poi la pittima maggiore insieme con la pavoncella e il colombaccio,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28572,
+   "d": "pnéll",
+   "it": [
+    "pennelli"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Da fìchè ch’i pérd e’ témp sa chi pnéll e cla varnéisa,",
+     "h": [
+      34,
+      39
+     ],
+     "it": "A far cosa perdono tempo con quei pennelli e quella vernice,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28573,
+   "d": "porca palèta",
+   "it": [
+    "porca paletta"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Porca palèta!",
+     "h": [
+      0,
+      12
+     ],
+     "it": "Porca paletta!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28574,
+   "d": "portazèndra",
+   "it": [
+    "portacenere"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ecco, ecco e’ portazèndra, tho!",
+     "h": [
+      14,
+      25
+     ],
+     "it": "Ecco, ecco il portacenere, tieni!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28575,
+   "d": "pràtic",
+   "it": [
+    "pratico"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ zéira ma la strèda sa che Sizént che e’ sta in pi parchè lè pràtic.",
+     "h": [
+      63,
+      69
+     ],
+     "it": "Gira per la strada con quel Seicento che sta in piedi perché è pratico.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28576,
+   "d": "pre góst ad",
+   "it": [
+    "per il gusto di"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Snò pre góst ad divartéis cmè di burdéll,",
+     "h": [
+      4,
+      15
+     ],
+     "it": "Solo il gusto di divertirsi come dei bambini,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28577,
+   "d": "prisunìr",
+   "it": [
+    "prigioniero"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Bertino no che l’era ancòura prisunìr in africa.",
+     "h": [
+      29,
+      37
+     ],
+     "it": "Bertino no, perché era ancora prigioniero in Africa.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28578,
+   "d": "puzè",
+   "it": [
+    "appoggiato"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "A i sémm d’arnóv, am sò puzè e i m’à véu sóbit!",
+     "h": [
+      24,
+      28
+     ],
+     "it": "Ci risiamo, mi sono appoggiato e mi hanno beccato subito!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28579,
+   "d": "quadéran di ségn",
+   "it": [
+    "quaderno dei segni"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E pu i ségn, quant vólti ch’ a cumprìmi se quadéran di ségn!",
+     "h": [
+      43,
+      59
+     ],
+     "it": "E poi i segni, quante volte compravamo con il quaderno dei segni!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28580,
+   "d": "quéng",
+   "it": [
+    "quindici"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "quéng euro, che pù l’è sèmpra trentaméla frènc!",
+     "h": [
+      0,
+      5
+     ],
+     "it": "quindici euro, che poi sono sempre trentamila franchi (lire)!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Du tub, che sa quéng euro a pérsouna i i putéva dè ènca ’na varniséda,",
+     "h": [
+      15,
+      20
+     ],
+     "it": "Due tubi, che con quindici euro a persona gli potevano dare anche una verniciata,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "‘Sa vut òndi e zug ad aqua!...Ecco parchè ch’i t dmànda quéng euro par antrè!",
+     "h": [
+      56,
+      61
+     ],
+     "it": "Cosa vuoi onde e giochi d’acqua!... Ecco perché ti chiedono quindici euro per entrare!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28581,
+   "d": "rabài",
+   "it": [
+    "ceffo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Un brótt rabài",
+     "h": [
+      9,
+      14
+     ],
+     "it": "Un brutto ceffo",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Un brótt rabài",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28582,
+   "d": "radanèda",
+   "it": [
+    "sistemata"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "mo t’agna réss a dèi ’na radanèda.",
+     "h": [
+      25,
+      33
+     ],
+     "it": "ma non riesci a darle una sistemata.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28583,
+   "d": "radanédi",
+   "it": [
+    "ordinate"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "S agni sò mè a tnéivi radanédi, a s incuntrémm gióst mi matrimóni...",
+     "h": [
+      22,
+      30
+     ],
+     "it": "Se non ci sono io a tenervi ordinate (a badarvi), ci incontriamo giusto ai matrimoni...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28584,
+   "d": "ragìuné",
+   "it": [
+    "ragionare"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "un è un gran bèl ragìuné...",
+     "h": [
+      17,
+      24
+     ],
+     "it": "non è un gran bel ragionare...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28585,
+   "d": "ragn",
+   "it": [
+    "sgrido"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Piò ch’a ragn e pézz che fa.",
+     "h": [
+      7,
+      15
+     ],
+     "it": "Più sgrido e peggio fa.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "a tóta béra, tachéd cumè di ragn,",
+     "h": [
+      28,
+      32
+     ],
+     "it": "a tutta birra, attaccati come dei ragni,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28586,
+   "d": "rampéin",
+   "it": [
+    "rampino"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ir sèira l è ’rvat ma chèsa tótt rott che u i è tòcc e’ rampéin se sméina-chéul.",
+     "h": [
+      56,
+      63
+     ],
+     "it": "Ieri sera è arrivato a casa tutto rotto che gli era toccato il rampino con lo “smena-culo”.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28587,
+   "d": "ramséll",
+   "it": [
+    "bachi da seta"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "al foi di améur par i ramséll,",
+     "h": [
+      22,
+      29
+     ],
+     "it": "le foglie di gelso per i bachi da seta,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28588,
+   "d": "rangès",
+   "it": [
+    "arrangiarsi"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "in sta chèsa e’ bsògna ’rangès.",
+     "h": [
+      24,
+      30
+     ],
+     "it": "in questa casa bisogna arrangiarsi.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28589,
+   "d": "rangèt",
+   "it": [
+    "arrangiarti"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "U t tocarà rangèt!...",
+     "h": [
+      11,
+      17
+     ],
+     "it": "Ti toccherà arrangiarti!...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28590,
+   "d": "remissiòun",
+   "it": [
+    "remissione"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "L’è inótil t zìrca ’d scavidéla, ugn’è remissiòun, t an t la sgavàgn.",
+     "h": [
+      39,
+      49
+     ],
+     "it": "È inutile che cerchi di evitarlo, non c’è remissione, non te la cavi.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28591,
+   "d": "rènd còunt",
+   "it": [
+    "rendersi conto"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Dóbbi ch’i n s rènda còunt?",
+     "h": [
+      15,
+      26
+     ],
+     "it": "Dubbio (possibile) che non si rendano conto?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Pzulìn: chi burdlàzz",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28592,
+   "d": "rmidié",
+   "it": [
+    "rimediare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "an ’ìmi un bòc da sbat sa clelt mo as cuntantìmi ad quèl ch’a putìmi ’rmidié.",
+     "h": [
+      70,
+      76
+     ],
+     "it": "non avevamo un baiocco da sbattere con l’altro, ma ci accontentavamo di quello che potevamo rimediare.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28593,
+   "d": "ròusa",
+   "it": [
+    "tosano",
+    "fregano"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ció mo t an pò bandunè l’òcc ch’it ròusa!...",
+     "h": [
+      35,
+      40
+     ],
+     "it": "Di ma non puoi abbandonare l’occhio (distrarti) che ti tosano!...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28594,
+   "d": "s intròvda",
+   "it": [
+    "si sporca"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La s intròvda; las més-cia tla piscòlla.",
+     "h": [
+      5,
+      13
+     ],
+     "it": "Si sporca; si mischia nella pozzanghera.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La ciàuga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28595,
+   "d": "s invrócia",
+   "it": [
+    "si aggroviglia"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Il céma “spinning” che zà se nóm um s’invrócia la lèngua.",
+     "h": [
+      38,
+      46
+     ],
+     "it": "Lo chiamano “spinning”, che già col nome mi si aggroviglia la lingua.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Te mèr in bicicléta",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28596,
+   "d": "s vargugnéva",
+   "it": [
+    "si vergognava"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e de su fè u n s vargugnéva.",
+     "h": [
+      17,
+      27
+     ],
+     "it": "e del suo fare non si vergognava.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28597,
+   "d": "s-cènt",
+   "it": [
+    "duro"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "L’era matt s-cènt, se su módi ad fè la scóla mo as cridìmi ’na famèia:",
+     "h": [
+      11,
+      17
+     ],
+     "it": "Era matto duro, con il suo modo di fare scuola, ma ci credevamo una famiglia:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28598,
+   "d": "s-cèt",
+   "it": [
+    "schietto"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ préim dè, quand ch’l’è arvat, u n s paréiva s-cèt da fat!",
+     "h": [
+      47,
+      52
+     ],
+     "it": "Il primo giorno, quando è arrivato, non ci pareva schietto del tutto!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28599,
+   "d": "s-ciuché",
+   "it": [
+    "conciare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ah, l’è ’ndè a s-ciuché al caróti da un su améig ma la Gióla.",
+     "h": [
+      15,
+      23
+     ],
+     "it": "Ah, è andato a conciare le barbabietole da un suo amico alla Giola.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28600,
+   "d": "s-ciuptèdi",
+   "it": [
+    "schioppettate"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "chi féva chi suldè sénza s-ciuptèdi, da drì cagli armadéuri curazèdi.",
+     "h": [
+      25,
+      35
+     ],
+     "it": "che facevano quei soldati senza schioppettate, da dietro quelle armature corazzate.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28601,
+   "d": "saléida",
+   "it": [
+    "salita"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "S’ t ci in saléida ta t la vò ciapé sa chi?",
+     "h": [
+      11,
+      18
+     ],
+     "it": "Se sei in salita con chi te la vuoi prendere?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28602,
+   "d": "s'amócia",
+   "it": [
+    "si ammassano"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I agnéll chi gnóla e i s’amócia t’un cantòun de srai.",
+     "h": [
+      25,
+      31
+     ],
+     "it": "Gli agnelli che piagnucolano e si ammassano in un angolo del serraglio.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28603,
+   "d": "santéssum",
+   "it": [
+    "santissimo"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Che santéssum u s’è andè mazè... mo vut che séa ròbi da fè?",
+     "h": [
+      4,
+      13
+     ],
+     "it": "Quel santissimo si è andato ad ammazzare... ma vuoi che siano cose da fare?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28604,
+   "d": "sàpa",
+   "it": [
+    "sappia"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "vut ch’an é sàpa: a l’ò fat mè",
+     "h": [
+      12,
+      16
+     ],
+     "it": "vuoi che non lo sappia: l’ho fatto io",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ piò bèl de mònd",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28605,
+   "d": "sbaiè",
+   "it": [
+    "sbagliare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "S’t al sìnt a réid, t an pò sbaiè!",
+     "h": [
+      28,
+      33
+     ],
+     "it": "Se lo senti ridere, non puoi sbagliare!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ piò bèl de mònd",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28606,
+   "d": "sbàtt",
+   "it": [
+    "sbatte"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Che sbàtt la còuda séri, us véid ch’u n è un ignurènt!",
+     "h": [
+      4,
+      9
+     ],
+     "it": "Che sbatte la coda serio, si vede che non è un ignorante!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28607,
+   "d": "sbiavéida",
+   "it": [
+    "sbiadita"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Sa vut “Mutoid”, l’è ròba sbiavéida!",
+     "h": [
+      26,
+      35
+     ],
+     "it": "Cosa vuoi che siano i Mutoid, è roba sbiadita (non sono niente al confronto)!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28608,
+   "d": "sbrènchi",
+   "it": [
+    "squarciato"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "zò d’aquè al chèsi agli era tóti sbrènchi sóta al caramèli ad “Ciccio il ferroviere”.",
+     "h": [
+      33,
+      41
+     ],
+     "it": "giù di qui le case erano tutte squarciate sotto le caramelle di Ciccio il ferroviere.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28609,
+   "d": "sbutéda",
+   "it": [
+    "acquattata"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La parzèvla, sbutéda ti mazagàt, che ta la cém se vérs, cumpàgn de gat.",
+     "h": [
+      13,
+      20
+     ],
+     "it": "Il beccaccino, acquattato fra i giunchi, che lo richiami con il verso, uguale al gatto.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28610,
+   "d": "sc-iaflèda",
+   "it": [
+    "ciabattata"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Piò d’na vólta a i sò ’rvat s’una sc-iaflèda,",
+     "h": [
+      34,
+      44
+     ],
+     "it": "Più di una volta le sono arrivato con una ciabattata,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28611,
+   "d": "sc-iàfli",
+   "it": [
+    "ciabatte"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "parchè i n vó sal sc-iàfli,",
+     "h": [
+      18,
+      26
+     ],
+     "it": "perché non vogliono con le ciabatte,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28612,
+   "d": "sc-iuptèda",
+   "it": [
+    "schioppettata"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "i gna pénsa gnénca m’una sc-iuptèda.",
+     "h": [
+      25,
+      35
+     ],
+     "it": "non ci pensano neanche a una schioppettata.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Cla vólta l’era mei si m déva ’na sc-iuptèda.",
+     "h": [
+      34,
+      44
+     ],
+     "it": "Quella volta era meglio se mi tiravano una schioppettata.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28613,
+   "d": "scampanlè",
+   "it": [
+    "scampanellare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "sa sté sulèr, ch’a caméin...un patàca e’ tàca a scampanlè ch’ u m’à fat ciapè un azidént!... ’Sel suzéd mai?...",
+     "h": [
+      48,
+      57
+     ],
+     "it": "un po’ arrabbiato con questo pavimento, che cammino... uno scemo comincia a scampanellare che mi ha fatto prendere un accidente!...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28614,
+   "d": "scanèl",
+   "it": [
+    "fenditura"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La s urganézza, la tróva un scanèl,",
+     "h": [
+      28,
+      34
+     ],
+     "it": "Si organizza, trova una fenditura,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La ciàuga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28615,
+   "d": "scanzléin",
+   "it": [
+    "cancellino"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Che e’ scanzléin u t’arrivéva còuntra e’ bènc!",
+     "h": [
+      7,
+      16
+     ],
+     "it": "Che il cancellino ti arrivava contro il banco!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28616,
+   "d": "scatràmazz",
+   "it": [
+    "fracasso"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E l’è bón ’d sintéi ènca e’ scatràmazz",
+     "h": [
+      28,
+      38
+     ],
+     "it": "Ed è capace di sentire anche il fracasso",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28617,
+   "d": "scavidéla",
+   "it": [
+    "evitarlo"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "L’è inótil t zìrca ’d scavidéla, ugn’è remissiòun, t an t la sgavàgn.",
+     "h": [
+      22,
+      31
+     ],
+     "it": "È inutile che cerchi di evitarlo, non c’è remissione, non te la cavi.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28618,
+   "d": "schéusa",
+   "it": [
+    "scusa"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La schéusa l’è sèmpra quèla de magné.",
+     "h": [
+      3,
+      10
+     ],
+     "it": "La scusa è sempre quella del mangiare.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28619,
+   "d": "sciòchi",
+   "it": [
+    "stupide"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Parchè dal vólti, sa cal caschèdi sciòchi,",
+     "h": [
+      34,
+      41
+     ],
+     "it": "Perché delle volte, con quelle stupide cadute,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28620,
+   "d": "scòurg",
+   "it": [
+    "graffio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Pèna-pèna un scòurg tla schéina mo un è stè gnént, snò de gran spavént.",
+     "h": [
+      13,
+      19
+     ],
+     "it": "Appena, appena un graffio nella schiena, ma non è stato niente, solo un grande spavento.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28621,
+   "d": "scrichéd",
+   "it": [
+    "schiacciato"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Scrichéd tra i méunt e si pi instécc tal gènghi.",
+     "h": [
+      0,
+      8
+     ],
+     "it": "Schiacciati tra i monti e con i piedi conficcati nelle rocce.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Bèla la liguria",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28622,
+   "d": "scrola",
+   "it": [
+    "scuote"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ tàca ’duccè e’ motòur e’ guerda e’ sfróccia e’ scrola la testa e pu e’ tàca a réid e a guardès da tònda.",
+     "h": [
+      50,
+      56
+     ],
+     "it": "Comincia a squadrare il motore e guarda e armeggia e scuote la testa e poi comincia a ridere e a guardarsi intorno.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28623,
+   "d": "scróll",
+   "it": [
+    "caterva"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "i è un scróll, i nóst gazótt,... agna la fàz a scréivi tótt.",
+     "h": [
+      7,
+      13
+     ],
+     "it": "sono una caterva, i nostri uccelli,... non ce la faccio a scriverli tutti.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28624,
+   "d": "sdrài",
+   "it": [
+    "sdraio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "A pòuns e’ chéul sòura un sdrài... agl’elt dó euro e mèz.",
+     "h": [
+      26,
+      31
+     ],
+     "it": "Appoggio il culo sopra una sdraio... altri due euro e mezzo.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28625,
+   "d": "sécc",
+   "it": [
+    "asciutto"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E sòura tótt che diavuléri... piò fórt: i móccal sécc di mazlér.",
+     "h": [
+      49,
+      53
+     ],
+     "it": "E sopra tutto quel caos... più forti: le bestemmie asciutte dei macellai.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28626,
+   "d": "sèlta fura",
+   "it": [
+    "saltare fuori"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La Doàrda u i dmànda ’se ch’u i è e léu e’ sèlta fura a dmandè ’ndò cl’era Nanni Loj:",
+     "h": [
+      43,
+      53
+     ],
+     "it": "La Doarda gli domanda cosa c’è e lui salta fuori a chiedere dov’era Nanni Loj:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28627,
+   "d": "sénz",
+   "it": [
+    "senso"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "no snò cmè i gazótt mo própri te sénz ad bucaléun!",
+     "h": [
+      33,
+      37
+     ],
+     "it": "non solo come gli uccelli, ma proprio nel senso di boccaloni!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28628,
+   "d": "servéizi",
+   "it": [
+    "servizio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ò za mèss al tazìni de servéizi bón.",
+     "h": [
+      23,
+      31
+     ],
+     "it": "ho già messo le tazzine del servizio buono.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28629,
+   "d": "sfróccia",
+   "it": [
+    "armeggia"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E’ tàca ’duccè e’ motòur e’ guerda e’ sfróccia e’ scrola la testa e pu e’ tàca a réid e a guardès da tònda.",
+     "h": [
+      38,
+      46
+     ],
+     "it": "Comincia a squadrare il motore e guarda e armeggia e scuote la testa e poi comincia a ridere e a guardarsi intorno.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28630,
+   "d": "sfuléd",
+   "it": [
+    "sfollati"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Cla vólta che Stramèda l’à dè fug ma la chèsa par mandè vea i sfuléd?...",
+     "h": [
+      62,
+      68
+     ],
+     "it": "Quella volta che Strameda ha dato fuoco alla casa per cacciare gli sfollati?...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28631,
+   "d": "sfurgàta",
+   "it": [
+    "fruga"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Sfurgàta d’un chènt, e pù dài pò da clèlt si moccàl chi s’èlza sèmpra piò d’inèlr!",
+     "h": [
+      0,
+      8
+     ],
+     "it": "Fruga da una parte, e poi dai pure dall’altra con i moccoli che si alzano sempre più in alto!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Cèvi e bascòzi",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28632,
+   "d": "sfurmèd",
+   "it": [
+    "sformato"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "sa che nès sfurmèd da e’ véin...",
+     "h": [
+      11,
+      18
+     ],
+     "it": "con quel naso sformato dal vino...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28633,
+   "d": "sgàngar",
+   "it": [
+    "rottame"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "U m’à ’rdótr ma chèsa un ent sgàngar!",
+     "h": [
+      29,
+      36
+     ],
+     "it": "Mi ha portato a casa un altro rottame!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28634,
+   "d": "sgarnè",
+   "it": [
+    "sgranare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "L’ è chi lavéur che ’na vólta i tuchéva mi grénd e ma néun burdèli is déva da sgarnè e’ furmantòun...",
+     "h": [
+      78,
+      84
+     ],
+     "it": "Sono quei lavori che una volta toccavano ai grandi e a noi bambine ci davano da sgranare il frumento...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28635,
+   "d": "sgnurè",
+   "it": [
+    "signoreggiare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Eh, sgnòura dal chèusi pérsi, ’sa vut sgnurè!",
+     "h": [
+      38,
+      44
+     ],
+     "it": "Eh, signora delle cause perse, cosa vuoi “signorare”?!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28636,
+   "d": "sgudèbla",
+   "it": [
+    "noiosa"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Nu fà la sgudèbla, a t vérz la finèstra, va bén?",
+     "h": [
+      9,
+      17
+     ],
+     "it": "Non fare la noiosa, ti apro la finestra, va bene?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28637,
+   "d": "sguèll",
+   "it": [
+    "scivolone"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "acsè la ciàpa e’ sguèll, la i córr da chènt.",
+     "h": [
+      17,
+      23
+     ],
+     "it": "così prende a scivolare, le scorre accanto.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La ciàuga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28638,
+   "d": "sguilè",
+   "it": [
+    "scivolata",
+    "scivolare"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "us véid che sé savòun la m’à sguilè e an la ò piò tróva.",
+     "h": [
+      29,
+      35
+     ],
+     "it": "si vede che con il sapone mi è scivolata e non l’ho più trovata.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28639,
+   "d": "sgustòusa",
+   "it": [
+    "fastidiosa"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "sòura m’una gìtèda d’un cimént bruglòus varniséd s una varnéisa ancòra piò bruglòusa ch’ l’era piò sgustòusa sóta i pì,",
+     "h": [
+      99,
+      108
+     ],
+     "it": "sopra una gettata di un cemento ruvido verniciata con una vernice ancora più ruvida che era tanto fastidiosa sotto i piedi che neanche i gusci delle telline...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28640,
+   "d": "sméina-chéul",
+   "it": [
+    "smenaculo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ir sèira l è ’rvat ma chèsa tótt rott che u i è tòcc e’ rampéin se sméina-chéul.",
+     "h": [
+      67,
+      79
+     ],
+     "it": "Ieri sera è arrivato a casa tutto rotto che gli era toccato il rampino con lo “smena-culo”.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28641,
+   "d": "sménza",
+   "it": [
+    "semenza"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Avémm pérs la sménza...",
+     "h": [
+      14,
+      20
+     ],
+     "it": "Abbiamo perso la semenza...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè da la zèa rósa",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28642,
+   "d": "smulachèd",
+   "it": [
+    "molle"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ingrinznéid, smulachèd cmè e’ grass tl alèss: at vrébb avdéi ma tè sa ste spettécal!”",
+     "h": [
+      13,
+      22
+     ],
+     "it": "Raggrinzito, molle come il grasso del lesso: vorrei vedere te con questo spettacolo!»",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28643,
+   "d": "smurtèla",
+   "it": [
+    "spegnerla"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "mo par smurtèla... u i è sèmpra quel che vó guardèla!",
+     "h": [
+      7,
+      15
+     ],
+     "it": "ma per spegnerla... c’è sempre quello che vuole guardarla!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28644,
+   "d": "spéta",
+   "it": [
+    "aspetta"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "A sò alè tranquéll...no spéta... un pó incaplèd,",
+     "h": [
+      24,
+      29
+     ],
+     "it": "Sono lì tranquillo... no aspetta...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Ohh!... Dina, mo du vét da st’òura? ’Spéta ch’a t vérz.",
+     "h": [
+      37,
+      42
+     ],
+     "it": "Oh!... Dina, ma dove vai a quest’ora? Aspetta che ti apro.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Bòia de castéig!... ’Spèta ch’aréiv...",
+     "h": [
+      21,
+      26
+     ],
+     "it": "Boia del castigo!... Aspetta che arrivo...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28645,
+   "d": "spettécal",
+   "it": [
+    "spettacolo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ingrinznéid, smulachèd cmè e’ grass tl alèss: at vrébb avdéi ma tè sa ste spettécal!”",
+     "h": [
+      74,
+      83
+     ],
+     "it": "Raggrinzito, molle come il grasso del lesso: vorrei vedere te con questo spettacolo!»",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28646,
+   "d": "spighè",
+   "it": [
+    "spigolare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "He, o da spighè.",
+     "h": [
+      9,
+      15
+     ],
+     "it": "Sì, o da spigolare.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28647,
+   "d": "srai",
+   "it": [
+    "serraglio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I agnéll chi gnóla e i s’amócia t’un cantòun de srai.",
+     "h": [
+      48,
+      52
+     ],
+     "it": "Gli agnelli che piagnucolano e si ammassano in un angolo del serraglio.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28648,
+   "d": "stardàc",
+   "it": [
+    "strillozzo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e’ stardàc e e’ macapgnùl,",
+     "h": [
+      3,
+      10
+     ],
+     "it": "lo strillozzo e il frosone,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28649,
+   "d": "stèmp",
+   "it": [
+    "stampo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e’ stèmp an l’avémm piò par st’esigénza!",
+     "h": [
+      3,
+      8
+     ],
+     "it": "lo stampo non l’abbiamo più per questa esigenza!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè da la zèa rósa",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Un ent cumpàgn t an é fé gnénca se stemp!",
+     "h": [
+      35,
+      40
+     ],
+     "it": "Un altro uguale non lo fai neanche con lo stampo!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28650,
+   "d": "stlòun-c",
+   "it": [
+    "stecco"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ugn’era gnénca un stlòun-c,... ’na pàia drétta.",
+     "h": [
+      18,
+      26
+     ],
+     "it": "non c’era rimasto neanche uno stecco,... una paglia dritta.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28651,
+   "d": "stòng",
+   "it": [
+    "stomaco"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e che paragòun a l’ò sintéi te stòng:",
+     "h": [
+      31,
+      36
+     ],
+     "it": "e quel paragone l’ho sentito nello stomaco:",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28652,
+   "d": "strasnéd",
+   "it": [
+    "trascinato"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I vidléun strasnéd par la murdèccia, i baghéin chi rògg, I brécc ’hi péunta.",
+     "h": [
+      10,
+      18
+     ],
+     "it": "I vitelloni trascinati per la mordecchia, i maiali che urlano, gli asini che si impuntano.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28653,
+   "d": "strazèr",
+   "it": [
+    "rottamai",
+    "sfasciacarrozze"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I pansèva ch’ a fósmi di strazèr!",
+     "h": [
+      25,
+      32
+     ],
+     "it": "Pensavano che fossimo degli sfasciacarrozze!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28654,
+   "d": "strémmal",
+   "it": [
+    "spasimi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ch’u te racòunta, intènt che t fé i strémmal,",
+     "h": [
+      36,
+      44
+     ],
+     "it": "Che te lo racconta, durante i tuoi spasimi,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Un brótt rabài",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28655,
+   "d": "strèti",
+   "it": [
+    "strette"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "al strèdi strèti cumè di curidéur,",
+     "h": [
+      10,
+      16
+     ],
+     "it": "le strade strette come dei corridoi,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Bèla la liguria",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "chi li fâza piò strèti apòsta par lòu.",
+     "h": [
+      16,
+      22
+     ],
+     "it": "che le facciano più strette apposta per loro.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Bèla la liguria",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28656,
+   "d": "stròlg",
+   "it": [
+    "inventato"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I n’à stròlg un ènta dal nóvi.",
+     "h": [
+      6,
+      12
+     ],
+     "it": "Ne hanno inventata un’altra delle nuove.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Te mèr in bicicléta",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28657,
+   "d": "stròunca",
+   "it": [
+    "decrepita"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "D’ una guèra vècia stròunca,... mo par zug!",
+     "h": [
+      19,
+      27
+     ],
+     "it": "D’una guerra vecchia decrepita,... ma per gioco!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28658,
+   "d": "struzè",
+   "it": [
+    "strozzare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ah ció,... dis che éun u s à da struzè sla córda ch’u i pèr,",
+     "h": [
+      32,
+      38
+     ],
+     "it": "Ah dì,... dice che uno si deve strozzare con la corda che preferisce,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Te mèr in bicicléta",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28659,
+   "d": "tachémma",
+   "it": [
+    "cominciamo"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Tachémma da e’ piò znin,",
+     "h": [
+      0,
+      8
+     ],
+     "it": "Cominciamo dal più piccolo,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28660,
+   "d": "tazìni",
+   "it": [
+    "tazzine"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ò za mèss al tazìni de servéizi bón.",
+     "h": [
+      13,
+      19
+     ],
+     "it": "ho già messo le tazzine del servizio buono.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28661,
+   "d": "tedésc",
+   "it": [
+    "tedeschi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E quànd che i tedésc i è ’ndè véa a i émm vést da sòura e’ Campanòun,",
+     "h": [
+      14,
+      20
+     ],
+     "it": "E quando i tedeschi sono andati via, li abbiamo visti da sopra la torre campanaria,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28662,
+   "d": "téir",
+   "it": [
+    "tiro"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "sl’ass ’d bréscla par l’éultum téir",
+     "h": [
+      31,
+      35
+     ],
+     "it": "con l’asso di briscola per l’ultimo tiro",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "A téir sò sti du piàt e a véng.",
+     "h": [
+      2,
+      6
+     ],
+     "it": "Tiro su (finisco di lavare) questi due piatti e vengo.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28663,
+   "d": "testamént",
+   "it": [
+    "testamento"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "T’muréss invalnèd d’ e’ tu fiùl dop che té véint dusént miliéun me Sisal e t an é fat témp a fe testamént.",
+     "h": [
+      96,
+      105
+     ],
+     "it": "Morissi avvelenato da tuo figlio dopo che hai vinto duecento milioni alla Sisal (lotteria) e non hai fatto tempo a fare testamento.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Un brótt rabài",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28664,
+   "d": "tirè drét",
+   "it": [
+    "tirare dritto"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La è ignurènta cmè un banchèt, l’an t dà rèta,... la téira drét!",
+     "h": [
+      53,
+      63
+     ],
+     "it": "È ignorante come un banchetto, non ti dà retta... tira dritto!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28665,
+   "d": "tnèila",
+   "it": [
+    "tenerla"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Adès ut stà ma tè a tnèila drétta;",
+     "h": [
+      20,
+      26
+     ],
+     "it": "Adesso sta a te tenerla dritta;",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28666,
+   "d": "tnì a batèzz",
+   "it": [
+    "tenere a battesimo"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Che póri Giulio u s’à tnéu a batèzz ma tótt.",
+     "h": [
+      22,
+      35
+     ],
+     "it": "Quel povero Giulio ci ha tenuto a battesimo (ha protetto) tutti.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28667,
+   "d": "tó par bóna",
+   "it": [
+    "prendere per buona"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E ta la è da tó par bóna...",
+     "h": [
+      13,
+      24
+     ],
+     "it": "E la devi prendere per buona,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28668,
+   "d": "tònda",
+   "it": [
+    "attorno",
+    "intorno"
+   ],
+   "var": "SA",
+   "cat": "Avverbio",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Se, se,... mo a t vrébb avdèi ma tè sa tótt cla zinganèra tònda chèsa!",
+     "h": [
+      58,
+      63
+     ],
+     "it": "Sì, sì... ma vorrei vedere te con tutto quel ciarpame attorno casa!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "tótt da tònda ma la róla.",
+     "h": [
+      8,
+      13
+     ],
+     "it": "tutti intorno al focolare.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "E’ tàca ’duccè e’ motòur e’ guerda e’ sfróccia e’ scrola la testa e pu e’ tàca a réid e a guardès da tònda.",
+     "h": [
+      101,
+      106
+     ],
+     "it": "Comincia a squadrare il motore e guarda e armeggia e scuote la testa e poi comincia a ridere e a guardarsi intorno.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28669,
+   "d": "tòr in zéir",
+   "it": [
+    "prendere in giro"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e tuléva in zéir e’ Zisarùl.",
+     "h": [
+      2,
+      16
+     ],
+     "it": "prendeva in giro il Zisarul.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28670,
+   "d": "traversèini",
+   "it": [
+    "traversine"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "amarcórd quand chi avnéiva a tó al traversèini da brusè d’invéran te caméin;",
+     "h": [
+      35,
+      46
+     ],
+     "it": "mi ricordo quando venivano a prendere le traversine per bruciarle d’inverno nel camino;",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28671,
+   "d": "tub",
+   "it": [
+    "tubi"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Giulio l’à próv ènca ad smunté e’ tub dla scàfa,",
+     "h": [
+      34,
+      37
+     ],
+     "it": "Giulio ha provato anche a smontare il tubo del lavello,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Du tub, che sa quéng euro a pérsouna i i putéva dè ènca ’na varniséda,",
+     "h": [
+      3,
+      6
+     ],
+     "it": "Due tubi, che con quindici euro a persona gli potevano dare anche una verniciata,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28672,
+   "d": "una gran màsa",
+   "it": [
+    "molto"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e gunfiéva una ganàsa, e alòura ugn’era da stè tranquéll una gran màsa!",
+     "h": [
+      57,
+      70
+     ],
+     "it": "gonfiava una guancia, e allora non c’era da stare molto tranquilli!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Um à fat scóla bibe",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Ad bindiléun u i n’era una gran màsa mo i n era da par lòu:",
+     "h": [
+      23,
+      36
+     ],
+     "it": "Di perditempo ce n’erano tanti, ma non erano soli: delle più belle spose...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28673,
+   "d": "us badarèla",
+   "it": [
+    "si trastulla"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ch’e’ zéira e’ prélla e us badarèla cum che pò.",
+     "h": [
+      27,
+      35
+     ],
+     "it": "che gira e frulla e si trastulla come può.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28674,
+   "d": "vandmè",
+   "it": [
+    "vendemmiare"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "vandmè... che pu l’era tótt schéusi par fè la festa dop, tl’èra.",
+     "h": [
+      0,
+      6
+     ],
+     "it": "vendemmiare... che poi erano tutte scuse per far festa dopo, nell’aia.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28675,
+   "d": "varnéisa",
+   "it": [
+    "vernice"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Da fìchè ch’i pérd e’ témp sa chi pnéll e cla varnéisa,",
+     "h": [
+      46,
+      54
+     ],
+     "it": "A far cosa perdono tempo con quei pennelli e quella vernice,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Al stréssi dal luméghi",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "sòura m’una gìtèda d’un cimént bruglòus varniséd s una varnéisa ancòra piò bruglòusa ch’ l’era piò sgustòusa sóta i pì,",
+     "h": [
+      55,
+      63
+     ],
+     "it": "sopra una gettata di un cemento ruvido verniciata con una vernice ancora più ruvida che era tanto fastidiosa sotto i piedi che neanche i gusci delle telline...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28676,
+   "d": "varniséd",
+   "it": [
+    "verniciato"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "sòura m’una gìtèda d’un cimént bruglòus varniséd s una varnéisa ancòra piò bruglòusa ch’ l’era piò sgustòusa sóta i pì,",
+     "h": [
+      40,
+      48
+     ],
+     "it": "sopra una gettata di un cemento ruvido verniciata con una vernice ancora più ruvida che era tanto fastidiosa sotto i piedi che neanche i gusci delle telline...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28677,
+   "d": "varniséda",
+   "it": [
+    "verniciata"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "In dò stméni i n’à fat óna nóva, varniséda e’ tótt.",
+     "h": [
+      33,
+      42
+     ],
+     "it": "In due settimane ne hanno fatta una nuova, già verniciata.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La giustificaziòun",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Du tub, che sa quéng euro a pérsouna i i putéva dè ènca ’na varniséda,",
+     "h": [
+      60,
+      69
+     ],
+     "it": "Due tubi, che con quindici euro a persona gli potevano dare anche una verniciata,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28678,
+   "d": "vaschi",
+   "it": [
+    "vasche"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "A faz un zéir datònda ma stal vaschi e u m tòcca caminé schèlz,",
+     "h": [
+      30,
+      36
+     ],
+     "it": "Faccio un giro attorno a queste vasche e mi tocca camminare scalzo,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28679,
+   "d": "vèndita",
+   "it": [
+    "rivendita"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "da dop che e’ Tuschèn l’à còmpar par mètt sò la vèndita de carbòun.",
+     "h": [
+      48,
+      55
+     ],
+     "it": "da dopo che il Tuschen ha comprato per metter su la rivendita del carbone.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28680,
+   "d": "vèrc",
+   "it": [
+    "stormo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e quand sla rèma e’ vèrc di stéuran e’ fà la pàla te capàn i fà la còunta,",
+     "h": [
+      20,
+      24
+     ],
+     "it": "e quando sulla rama lo stormo degli storni fa la palla nel capanno fanno la conta,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28681,
+   "d": "vérgna",
+   "it": [
+    "lagna"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "L’è ’na bèla vérgna tótt e’ dè sa cal sbàri!",
+     "h": [
+      13,
+      19
+     ],
+     "it": "È una bella lagna tutto il giorno con quelle sbarre!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28682,
+   "d": "vérs",
+   "it": [
+    "verso"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "La parzèvla, sbutéda ti mazagàt, che ta la cém se vérs, cumpàgn de gat.",
+     "h": [
+      50,
+      54
+     ],
+     "it": "Il beccaccino, acquattato fra i giunchi, che lo richiami con il verso, uguale al gatto.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "A zirc ad truvèi e’ vérs e a cméinz a guardè la zénta.",
+     "h": [
+      20,
+      24
+     ],
+     "it": "Cerco di trovarci il verso (di adattarmi) e comincio a guardare la gente.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28683,
+   "d": "vérz",
+   "it": [
+    "apro"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ohh!... Dina, mo du vét da st’òura? ’Spéta ch’a t vérz.",
+     "h": [
+      50,
+      54
+     ],
+     "it": "Oh!... Dina, ma dove vai a quest’ora? Aspetta che ti apro.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "Nu fà la sgudèbla, a t vérz la finèstra, va bén?",
+     "h": [
+      23,
+      27
+     ],
+     "it": "Non fare la noiosa, ti apro la finestra, va bene?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28684,
+   "d": "vidléun",
+   "it": [
+    "vitelloni"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "pl",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "I vidléun strasnéd par la murdèccia, i baghéin chi rògg, I brécc ’hi péunta.",
+     "h": [
+      2,
+      9
+     ],
+     "it": "I vitelloni trascinati per la mordecchia, i maiali che urlano, gli asini che si impuntano.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28685,
+   "d": "viséuda",
+   "it": [
+    "vissuta"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "pio... viséuda, pio impurtènta.",
+     "h": [
+      7,
+      14
+     ],
+     "it": "più... vissuta, più importante.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28686,
+   "d": "viziàz",
+   "it": [
+    "vizio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Al so, al so; ènca Ubaldo l’à che viziàz...",
+     "h": [
+      34,
+      40
+     ],
+     "it": "Lo so, lo so; anche Ubaldo ha quel vizaccio...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28687,
+   "d": "vnì fastéidi",
+   "it": [
+    "svenire"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ènca tè, Elena, ut vén fastéidi se vént de dvanadéur...",
+     "h": [
+      19,
+      31
+     ],
+     "it": "anche tu, Elena, svieni con il vento del dipanatoio (per un nonnulla)...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28688,
+   "d": "zavèrda",
+   "it": [
+    "porcheria"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "ch’ u s sguiléva sa cla zavèrda sòta i pì.",
+     "h": [
+      24,
+      31
+     ],
+     "it": "che si scivolava con quella porcheria sotto i piedi.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ pladéur",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28689,
+   "d": "zécc",
+   "it": [
+    "bottaccio"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e’ zuléin, e’ tòurd de zécc e e’ rusignùl,",
+     "h": [
+      23,
+      27
+     ],
+     "it": "il tordo sassello, il tordo bottaccio e l’usignolo,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28690,
+   "d": "zeccar",
+   "it": [
+    "zucchero"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ció Elena e’ cafè ta s lè dè mo senza zeccar?...",
+     "h": [
+      38,
+      44
+     ],
+     "it": "Dì Elena, il caffè ce lo hai dato, ma senza zucchero?...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28691,
+   "d": "zèndla",
+   "it": [
+    "accenderla"
+   ],
+   "var": "SA",
+   "cat": "Verbo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "A zèndla l’è un sbréss,",
+     "h": [
+      2,
+      8
+     ],
+     "it": "Ad accenderla è un’attimo,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "La televisioun",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28692,
+   "d": "zéta",
+   "it": [
+    "zitta"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Stà zèta, va là,",
+     "h": [
+      4,
+      8
+     ],
+     "it": "Sta’ zitta, va là,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "purèta; la pianzéiva... zéta: l’óva la era bèla fata e cl’ann e’ véin i l’à fat i cìngoli di “emmequarantadue”.",
+     "h": [
+      24,
+      28
+     ],
+     "it": "poveretta; piangeva... zitta: l’uva era ormai matura e quell’anno il vino l’hanno fatto i cingoli degli M42.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28693,
+   "d": "zig",
+   "it": [
+    "cieco"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Vut che ènca un zig u n pòsa scapuzè t’un fèr d’cavàl?",
+     "h": [
+      16,
+      19
+     ],
+     "it": "Vuoi che anche un cieco non possa inciampare in un ferro da cavallo?",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "L’è fadéiga",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28694,
+   "d": "zinganèra",
+   "it": [
+    "ciarpame"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Se, se,... mo a t vrébb avdèi ma tè sa tótt cla zinganèra tònda chèsa!",
+     "h": [
+      48,
+      57
+     ],
+     "it": "Sì, sì... ma vorrei vedere te con tutto quel ciarpame attorno casa!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28695,
+   "d": "zò da què",
+   "it": [
+    "in questi paraggi"
+   ],
+   "var": "SA",
+   "cat": "Locuzione",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Ad chèsi zò da què ugni n era ténti,",
+     "h": [
+      9,
+      18
+     ],
+     "it": "Di case giù di qui (da queste parti) non ce n’erano tante,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "La è la pio bèla zò da que ancòura àdes!...",
+     "h": [
+      17,
+      26
+     ],
+     "it": "È la più bella giù di qui (in questi paraggi) ancora adesso!...",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28696,
+   "d": "zóll",
+   "it": [
+    "zigolo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "E pu e’ zóll,",
+     "h": [
+      8,
+      12
+     ],
+     "it": "E poi lo zigolo,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28697,
+   "d": "zòmbal",
+   "it": [
+    "capitombolo"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "u i è chès ad fèss piò mèl che s un zòmbal ad chi bón.",
+     "h": [
+      36,
+      42
+     ],
+     "it": "c’è caso di farsi più male che con un capitombolo di quelli buoni.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28698,
+   "d": "zòpa",
+   "it": [
+    "zoppa"
+   ],
+   "var": "SA",
+   "cat": "Aggettivo",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "la i è andè dri si méis e la caméina ancòura zòpa!",
+     "h": [
+      45,
+      49
+     ],
+     "it": "ci è andata dietro sei mesi e cammina ancora zoppa!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Andémm a tó e cafè da l’Elena",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28699,
+   "d": "ztnéud",
+   "it": [
+    "mancato"
+   ],
+   "var": "SA",
+   "cat": "Verbo declinato",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "Un s’ è mai ztnéud a dè ’na mèna,",
+     "h": [
+      12,
+      18
+     ],
+     "it": "Non ha mai mancato di dare una mano,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè da la zèa rósa",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28700,
+   "d": "zug",
+   "it": [
+    "gioco"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "D’ una guèra vècia stròunca,... mo par zug!",
+     "h": [
+      39,
+      42
+     ],
+     "it": "D’una guerra vecchia decrepita,... ma per gioco!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "E’ castèll te mèr",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "e sti scivoli; ch’l è pu tótt alè e’ zug.",
+     "h": [
+      37,
+      40
+     ],
+     "it": "e questi scivoli; che poi sta tutto lì il gioco.",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    },
+    {
+     "d": "‘Sa vut òndi e zug ad aqua!...Ecco parchè ch’i t dmànda quéng euro par antrè!",
+     "h": [
+      15,
+      18
+     ],
+     "it": "Cosa vuoi onde e giochi d’acqua!... Ecco perché ti chiedono quindici euro per entrare!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "A sò stè a “Atlantica”",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28701,
+   "d": "zuléin",
+   "it": [
+    "tordo sassello"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "e’ zuléin, e’ tòurd de zécc e e’ rusignùl,",
+     "h": [
+      3,
+      9
+     ],
+     "it": "il tordo sassello, il tordo bottaccio e l’usignolo,",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "I gazótt",
+     "a": "Stargiotti"
+    }
+   ]
+  },
+  {
+   "id": 28702,
+   "d": "zunzèza",
+   "it": [
+    "salsiccia"
+   ],
+   "var": "SA",
+   "cat": "Sostantivo",
+   "num": "sg",
+   "src": "corpus:Stargiotti",
+   "ex": [
+    {
+     "d": "’Csa vut figadétt e budéll ’d zunzèza: un assaggino,... ci matt ’na custèza!",
+     "h": [
+      30,
+      37
+     ],
+     "it": "Cosa vuoi fegatelli e budelli di salsiccia: un assaggino,... sei matto una costina!",
+     "b": "Am sò ruglè ti sanpurgnòois",
+     "t": "Par cal befàni",
+     "a": "Stargiotti"
+    }
+   ]
   }
  ],
  "synonyms": {}

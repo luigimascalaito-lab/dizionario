@@ -1,5 +1,5 @@
 // Service worker del Dizionario. Aumentare VERSIONE a ogni nuova edizione.
-const VERSIONE = 'dizionario-v1';
+const VERSIONE = 'dizionario-v2';
 const BASE_FILES = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(VERSIONE).then(c => c.addAll(BASE_FILES)).then(() => self.skipWaiting()));
